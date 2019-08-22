@@ -131,5 +131,6 @@ class ObrasSocialesSSS:
 if __name__ == '__main__':
     s = ObrasSocialesSSS()
     s.download_database()
-    s.process_database()
+    rows = s.process_database()
+    print('Obras sociales encontradas: {}'.format(len(rows.keys())))
     print('Errors: {}'.format(s.errors))
