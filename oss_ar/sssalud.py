@@ -19,6 +19,7 @@ class ObrasSocialesSSS:
     # they use XLS extension but it's a TSV file
     local_excel = 'sss.tsv'  # Path
     local_json = 'sss.json'  # path
+    local_json_object = None
     # requests records
     raw_response = None
     status_response = None
@@ -125,7 +126,21 @@ class ObrasSocialesSSS:
         f2 = open(self.local_json, 'w')
         f2.write(json.dumps(real_rows, indent=2))
         f2.close
+
+        self.local_json_object = real_rows
         return real_rows
+    
+    def count_by_province(self):
+        """ conut by province """
+        ret = {}
+
+        for rnos, oss in self.local_json_object.items():
+            provincia = oss['provincia']
+            if provincia not in ret:
+                ret[provincia] = 0
+            ret[provincia] += 1
+
+        return ret
         
 
 if __name__ == '__main__':
@@ -134,3 +149,5 @@ if __name__ == '__main__':
     rows = s.process_database()
     print('Obras sociales encontradas: {}'.format(len(rows.keys())))
     print('Errors: {}'.format(s.errors))
+    ret = s.count_by_province()
+    print('X provincia: {}'.format(ret))
