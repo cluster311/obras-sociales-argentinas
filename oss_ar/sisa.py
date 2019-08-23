@@ -53,8 +53,13 @@ class ObrasSocialesSISA:
         
         return True
     
-    def process_database(self):
+    def process_database(self, force=False):
         """ read the CSV file, clean an return/write a nice json file """
+        if not force and os.path.isfile(self.local_json):
+            f = open(self.local_json, 'r')
+            self.local_json_object = json.load(f)
+            f.close
+            return self.local_json_object
 
         f = open(self.local_csv)
         

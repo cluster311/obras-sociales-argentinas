@@ -76,8 +76,14 @@ class ObrasSocialesSSS:
 
         return True
     
-    def process_database(self):
+    def process_database(self, force=False):
         """ read the excel file, clean an return/write a nice json file """
+
+        if not force and os.path.isfile(self.local_json):
+            f = open(self.local_json, 'r')
+            self.local_json_object = json.load(f)
+            f.close
+            return self.local_json_object
 
         # the file has 3 bad rows at start
         
