@@ -1,5 +1,5 @@
-include oss_ar/sisa.csv
-include oss_ar/sisa.json
-include oss_ar/sss.tsv
-include oss_ar/sss.json
+include oss_ar/data/sisa.csv
+include oss_ar/data/sisa.json
+include oss_ar/data/sss-*.tsv
+include oss_ar/data/sss.json
 

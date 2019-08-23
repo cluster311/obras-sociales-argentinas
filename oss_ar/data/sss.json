@@ -1,0 +1,2807 @@
+{
+  "208": {
+    "rnos": "208",
+    "denominacion": "OBRA SOCIAL DEL  PERSONAL DE LA INDUSTRIA GRAFICA DE LA PROVINCIA DE CORDOBA",
+    "domicilio": "AVELLANEDA 54",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "ospigpc@hotmail.com",
+    "web": "ww.uogc.org.ar"
+  },
+  "307": {
+    "rnos": "307",
+    "denominacion": "OBRA SOCIAL PORTUARIOS ARGENTINOS DE MAR DEL PLATA",
+    "sigla": "OSPA",
+    "domicilio": "RONDEAU 63",
+    "cp": "7600",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "portuariosargentinosmdp@yahoo.com.ar"
+  },
+  "406": {
+    "rnos": "406",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL ORGANISMO DE CONTROL EXTERNO",
+    "sigla": "OSPOCE",
+    "domicilio": "BARTOLOME MITRE 1523",
+    "cp": "1037",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-321-6776(O.S.)",
+    "web": "www.ospoce.com.ar"
+  },
+  "505": {
+    "rnos": "505",
+    "denominacion": "OBRA SOCIAL DE CAPITANES, PILOTOS Y PATRONES DE PESCA",
+    "sigla": "OSPESCA",
+    "domicilio": "AVDA JUAN B. JUSTO 518",
+    "cp": "7600",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "ospesca@capitanesdepesca.org.ar",
+    "web": "www.capitanesdepesca.org.ar"
+  },
+  "604": {
+    "rnos": "604",
+    "denominacion": "OBRA SOCIAL DE AGENTES DE LOTERIAS Y AFINES DE LA REPUBLICA  ARGENTINA",
+    "sigla": "OSALARA",
+    "domicilio": "ADOLFO ALSINA 946",
+    "cp": "1088",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-8866",
+    "e_mail": "osalara@aleara.com.ar",
+    "web": "www.aleara.com.ar"
+  },
+  "703": {
+    "rnos": "703",
+    "denominacion": "MUTUAL DEL PERSONAL DEL AGUA Y LA ENERGIA  DE MENDOZA",
+    "domicilio": "JOSE VICENTE ZAPATA 144",
+    "cp": "5500",
+    "provincia": "MENDOZA",
+    "e_mail": "mutualaye@infovia.com.ar"
+  },
+  "901": {
+    "rnos": "901",
+    "denominacion": "OBRA SOCIAL DE LA ACTIVIDAD DE SEGUROS, REASEGUROS, CAPITALIZACION Y AHORRO Y PRESTAMO PARA LA VIVIENDA",
+    "sigla": "OSSEG",
+    "domicilio": "PELLEGRINI 575",
+    "cp": "1009",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-666-7734",
+    "e_mail": "informacion@osseg.org.ar",
+    "web": "www.osseg.org.ar"
+  },
+  "1102": {
+    "rnos": "1102",
+    "denominacion": "OBRA SOCIAL PARA LA ACTIVIDAD DOCENTE",
+    "sigla": "OSPLAD",
+    "domicilio": "TACUARI 345",
+    "cp": "1071",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810-666-7752",
+    "e_mail": "info@osplad.org.ar",
+    "web": "www.osplad.org.ar"
+  },
+  "1201": {
+    "rnos": "1201",
+    "denominacion": "OBRA SOCIAL PARA EL PERSONAL DEL MINISTERIO DE ECONOMIA Y DE OBRAS Y SERVICIOS PUBLICOS",
+    "sigla": "OSME",
+    "domicilio": "VENEZUELA 155",
+    "cp": "1095",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-3456763",
+    "web": "www.osme.org.ar"
+  },
+  "1300": {
+    "rnos": "1300",
+    "denominacion": "OBRA SOCIAL FERROVIARIA",
+    "sigla": "OSFE",
+    "domicilio": "ESTADOS UNIDOS 2859",
+    "cp": "1227",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-3313",
+    "e_mail": "info@osferroviaria.org.ar",
+    "web": "www.osfe.org.ar"
+  },
+  "1508": {
+    "rnos": "1508",
+    "denominacion": "OBRA SOCIAL DE LA ASOCIACION CIVIL PROSINDICATO DE AMAS DE CASA DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSSACRA",
+    "domicilio": "PARAGUAY 1896 PISO 6",
+    "cp": "1121",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-345-2627",
+    "e_mail": "info@amassalud.org"
+  },
+  "1607": {
+    "rnos": "1607",
+    "denominacion": "OBRA SOCIAL DEL SINDICATO UNIDO DE TRABAJADORES DE LA INDUSTRIA DE AGUAS GASEOSAS DE LA PROVINCIA DE SANTA FE",
+    "domicilio": "SARMIENTO 2225",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "e_mail": "sutiagarosario@arnetbiz.com.ar"
+  },
+  "1706": {
+    "rnos": "1706",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL JERARQUICO DE LA REPUBLICA ARGENTINA PARA EL PERSONAL JERARQUICO DE LA INDUSTRIA GRAFICA Y EL PERSONAL JERARQUICO DEL AGUA Y LA ENERGIA",
+    "sigla": "OSJERA",
+    "domicilio": "MORENO 1142 PLANTA BAJA",
+    "cp": "1091",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810-345-753",
+    "e_mail": "atancion@opsjera.com.ar",
+    "web": "www.osjera.com.ar"
+  },
+  "1805": {
+    "rnos": "1805",
+    "denominacion": "OBRA SOCIAL DE LOS  LEGISLADORES DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSLERA",
+    "domicilio": "MEXICO 565",
+    "cp": "1097",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-444-3423",
+    "e_mail": "oslera@clnoslera.com.ar",
+    "web": "www.clnoslera.com.ar"
+  },
+  "1904": {
+    "rnos": "1904",
+    "denominacion": "OBRA SOCIAL DE LA FEDERACION DE CAMARAS Y CENTROS COMERCIALES ZONALES DE LA REPUBLICA ARGENTINA (FEDECAMARAS)",
+    "sigla": "FEDECAMARAS",
+    "domicilio": "RIVADAVIA 5456 1 PISO GALERIA ASTRO",
+    "cp": "1424",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-345-0770",
+    "e_mail": "info@osfedecamaras.com.ar",
+    "web": "www.osfedecamaras.com.ar"
+  },
+  "2105": {
+    "rnos": "2105",
+    "denominacion": "OBRA SOCIAL PROFESIONALES DEL TURF DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSPROTURA",
+    "domicilio": "TRES SARGENTOS 863",
+    "cp": "1641",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "interturf@ciudad.com.ar"
+  },
+  "2204": {
+    "rnos": "2204",
+    "denominacion": "OBRA SOCIAL DE EMPLEADOS Y PERSONAL JERARQUICO  DE LA ACTIVIDAD DEL  NEUMATICO ARGENTINO DE NEUMATICOS GOOD YEAR SRL",
+    "domicilio": "MANUEL OCAMPO 1201",
+    "cp": "1686",
+    "provincia": "BUENOS AIRES",
+    "telefono": "0800-333-2820",
+    "e_mail": "DIR MED DR.FERNANDO A SAN CRISTOBAL (MN",
+    "web": "www.osejana.com.ar"
+  },
+  "2303": {
+    "rnos": "2303",
+    "denominacion": "OBRA SOCIAL PARA EL  PERSONAL DE EMPRESAS DE  LIMPIEZA, SERVICIOS Y MAESTRANZA DE MENDOZA",
+    "domicilio": "MONTEVIDEO 270",
+    "cp": "5500",
+    "provincia": "MENDOZA",
+    "telefono": "0800-666-5579",
+    "e_mail": "ospelsym@ospelsym.com.ar",
+    "web": "www.ospelsym.com.ar"
+  },
+  "2402": {
+    "rnos": "2402",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL JERARQUICO DEL TRANSPORTE AUTOMOTOR DE PASAJEROS DE CORDOBA Y AFINES",
+    "domicilio": "CASEROS N\u00ba 636",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "web": "www.ospjtap.com.ar"
+  },
+  "2501": {
+    "rnos": "2501",
+    "denominacion": "OBRA SOCIAL DE MINISTROS, SECRETARIOS Y SUBSECRETARIOS",
+    "sigla": "OSMISS",
+    "domicilio": "ADOLFO ALSINA 943 PISO 2",
+    "cp": "1088",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-3336373",
+    "e_mail": "gerencia.administracion@osmiss.org.ar",
+    "web": "www.osmiss.org.ar"
+  },
+  "2600": {
+    "rnos": "2600",
+    "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES DE LA CARNE Y AFINES DE LA REPUBLICA ARGENTINA",
+    "sigla": "O.S.T.C.A.R.A.",
+    "domicilio": "PARANA 749 2\u00ba A",
+    "cp": "1017",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "secretaria@ostcara.org.ar"
+  },
+  "2709": {
+    "rnos": "2709",
+    "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES ASOCIADOS A LA ASOCIACION MUTUAL MERCANTIL ARGENTINA",
+    "sigla": "OSTAMMA",
+    "domicilio": "CATAMARCA 1173",
+    "cp": "5900",
+    "provincia": "CORDOBA",
+    "web": "WWW.amma.org.ar"
+  },
+  "2808": {
+    "rnos": "2808",
+    "denominacion": "OBRA SOCIAL DE LA CAMARA DE EMPRESARIOS DE AGENCIAS DE REMISES DE ARGENTINA",
+    "domicilio": "CALLE RIVADAVIA Y 1ERO. DE MAYO",
+    "cp": "6634",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "info@osceara.com.ar"
+  },
+  "2907": {
+    "rnos": "2907",
+    "denominacion": "OBRA SOCIAL ASOCIACION MUTUAL METALURGICA VILLA CONSTITUCION",
+    "sigla": "OSAMMVC",
+    "domicilio": "JUAN MANUEL DE ROSAS 710 - PLANTA ALTA -",
+    "cp": "2919",
+    "provincia": "SANTA FE",
+    "e_mail": "osammvc@cablenet.com.ar"
+  },
+  "3009": {
+    "rnos": "3009",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL ASOCIADO A ASOCIACION MUTUAL SANCOR",
+    "sigla": "O.S.PERS.A.A.M.S.",
+    "domicilio": "SARMIENTO 811 PISO 4 OFICINA 1",
+    "cp": "1041",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospersaams@sancorsalud.com.ar"
+  },
+  "100106": {
+    "rnos": "100106",
+    "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE LA INDUSTRIA ACEITERA, DESMOTADORA Y AFINES",
+    "sigla": "OSIAD",
+    "domicilio": "AVDA. BELGRANO 1370  PISO 2",
+    "cp": "1093",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810-345-6742",
+    "e_mail": "info@osiadsalud.org.ar"
+  },
+  "100205": {
+    "rnos": "100205",
+    "denominacion": "OBRA SOCIAL DE ACTORES",
+    "sigla": "OSA",
+    "domicilio": "AYACUCHO 537",
+    "cp": "1025",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0-800-999-0301",
+    "web": "www.osa.org.ar"
+  },
+  "100304": {
+    "rnos": "100304",
+    "denominacion": "OBRA SOCIAL DE TECNICOS DE VUELO DE LINEAS AEREAS",
+    "sigla": "OSTVLA",
+    "domicilio": "VICTOR HUGO 369",
+    "cp": "1407",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "obrasocial@tecnicosdevuelo.org.ar",
+    "web": "www.tecnicosdevuelo.org.ar"
+  },
+  "100403": {
+    "rnos": "100403",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL SUPERIOR Y PROFESIONAL DE EMPRESAS AEROCOMERCIALES",
+    "sigla": "OSPEA",
+    "domicilio": "INDEPENDENCIA 1111 - PISO 2",
+    "cp": "1099",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-8907",
+    "e_mail": "ospea@upsa-ospea.com.ar",
+    "web": "www.upsa-ospea.com.ar"
+  },
+  "100502": {
+    "rnos": "100502",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL AERONAUTICO",
+    "sigla": "OSPA",
+    "domicilio": "ANCHORENA 1266",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ybalbis@ospa.com.ar",
+    "web": "www.ospa.com.ar"
+  },
+  "100601": {
+    "rnos": "100601",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE AERONAVEGACION DE ENTES PRIVADOS",
+    "sigla": "OSPADEP",
+    "domicilio": "VENEZUELA 900",
+    "cp": "1095",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-222-2722",
+    "e_mail": "info@ospadep.com",
+    "web": "www.ospadep.com.ar"
+  },
+  "100700": {
+    "rnos": "100700",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL TECNICO AERONAUTICO",
+    "sigla": "OSPTA",
+    "domicilio": "D ONOFRIO 158",
+    "cp": "1702",
+    "provincia": "BUENOS AIRES",
+    "telefono": "0800--666-2096",
+    "e_mail": "aviones@aviones.com",
+    "web": "www.aviones.com"
+  },
+  "100809": {
+    "rnos": "100809",
+    "denominacion": "OBRA SOCIAL DE AERONAVEGANTES",
+    "sigla": "OSA",
+    "domicilio": "BARTOLOME MITRE 1902 - PB",
+    "cp": "1039",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800 9999 672",
+    "e_mail": "osa@aeronavegantes.com",
+    "web": "www.osa-aeronavegantes.com"
+  },
+  "100908": {
+    "rnos": "100908",
+    "denominacion": "OBRA SOCIAL  EMPLEADOS DE AGENCIAS DE INFORMES",
+    "sigla": "OSEADI",
+    "domicilio": "LAVALLE 1783 PISO 1 - OF. A",
+    "cp": "1048",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "oseadi@VELOCOM.com.ar",
+    "web": "WWW.OSEADI.COM.AR"
+  },
+  "101000": {
+    "rnos": "101000",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE AGUAS GASEOSAS Y AFINES",
+    "sigla": "OSPAGA",
+    "domicilio": "BACACAY 2735/37",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-222-677242",
+    "e_mail": "ospaga@yahoo.com.ar",
+    "web": "www.ospaga.com.ar"
+  },
+  "101109": {
+    "rnos": "101109",
+    "denominacion": "OBRA SOCIAL DE ALFAJOREROS, REPOSTEROS, PIZZEROS Y HELADEROS",
+    "sigla": "OSARPYH",
+    "domicilio": "AV. LURO 3523",
+    "cp": "7600",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "osarpyh@starphymdp.com.ar"
+  },
+  "101208": {
+    "rnos": "101208",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DE LA ALIMENTACION",
+    "sigla": "OSPIA",
+    "domicilio": "VENEZUELA 1326",
+    "cp": "1096",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-666-6774",
+    "e_mail": "ospiacentral@ospia.org.ar",
+    "web": "www.ospia.org.ar"
+  },
+  "101604": {
+    "rnos": "101604",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL AUTOMOVIL  CLUB ARGENTINO",
+    "sigla": "OSPACA",
+    "domicilio": "ANCHORENA 639 - PISO 1",
+    "cp": "1170",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-6772",
+    "web": "www.ospaca.com"
+  },
+  "101802": {
+    "rnos": "101802",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO LA ESPERANZA",
+    "sigla": "OSPA",
+    "domicilio": "SERAPIO SORIA 337",
+    "cp": "4500",
+    "provincia": "JUJUY",
+    "e_mail": "ospalesp@arnetbiz,com.ar"
+  },
+  "101901": {
+    "rnos": "101901",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO LEDESMA",
+    "sigla": "OSPAIL",
+    "domicilio": "JUJUY 755 CC5",
+    "cp": "4512",
+    "provincia": "JUJUY"
+  },
+  "102300": {
+    "rnos": "102300",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO SAN MARTIN",
+    "sigla": "OSPA",
+    "domicilio": "ISLAS MALVINAS S/N - BARRIO PATRON COSTAS",
+    "cp": "4533",
+    "provincia": "SALTA",
+    "e_mail": "ospasalta102300@gmail.com"
+  },
+  "102706": {
+    "rnos": "102706",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA AZUCARERA",
+    "sigla": "OSPIA",
+    "domicilio": "CONGRESO 342/8",
+    "cp": "4000",
+    "provincia": "TUCUMAN",
+    "e_mail": "ospia@tucbbs.com.ar"
+  },
+  "102904": {
+    "rnos": "102904",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE BARRACAS DE LANAS, CUEROS Y ANEXOS",
+    "domicilio": "FLORENTINO AMEGHINO 1060",
+    "cp": "1870",
+    "provincia": "BUENOS AIRES",
+    "telefono": "0-800-222-7203",
+    "e_mail": "osblyca@uolsinectis.com.ar"
+  },
+  "103006": {
+    "rnos": "103006",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA BOTONERA",
+    "sigla": "OSPIB",
+    "domicilio": "CALLE 91 N# 1886",
+    "cp": "1650",
+    "provincia": "BUENOS AIRES"
+  },
+  "103105": {
+    "rnos": "103105",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CALZADO",
+    "sigla": "OSPICAL",
+    "domicilio": "YATAY 129 PISO 4",
+    "cp": "1184",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "institucional@ospical.org.ar"
+  },
+  "103204": {
+    "rnos": "103204",
+    "denominacion": "OBRA SOCIAL DE CONDUCTORES CAMIONEROS Y PERSONAL DEL TRANSPORTE AUTOMOTOR DE CARGAS",
+    "domicilio": "AV. CASEROS 921/23",
+    "cp": "1152",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "aliciak@spdps.com.ar"
+  },
+  "103402": {
+    "rnos": "103402",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE CARGA Y DESCARGA",
+    "sigla": "OSPCYD",
+    "domicilio": "COCHABAMBA 1635",
+    "cp": "1148",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "estibaro@hotmail.com.ar",
+    "web": "www.geocities.com"
+  },
+  "103600": {
+    "rnos": "103600",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL AUXILIAR DE CASAS PARTICULARES",
+    "sigla": "OSPACP",
+    "domicilio": "CHARCAS 2745",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-888-2748",
+    "e_mail": "info@ospacp.org.ar",
+    "web": "www.ospacp.org.ar"
+  },
+  "103709": {
+    "rnos": "103709",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CAUCHO",
+    "sigla": "OSPIC",
+    "domicilio": "CONGRESO 2033",
+    "cp": "1428",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@ospic-caucho.org.ar",
+    "web": "www.ospic-caucho.org.ar"
+  },
+  "103808": {
+    "rnos": "103808",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL CAUCHO",
+    "sigla": "OSPECA",
+    "domicilio": "VALLE 1281",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospeca@fibertel.com.ar",
+    "web": "www.ospeca.org.ar"
+  },
+  "103907": {
+    "rnos": "103907",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CAUCHO DE SANTA FE",
+    "sigla": "OSPIC SANTA FE",
+    "domicilio": "ITURRASPE 2458",
+    "cp": "3034",
+    "provincia": "SANTA FE",
+    "e_mail": "oscauchostafe@yahoo.com.ar"
+  },
+  "104009": {
+    "rnos": "104009",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE CEMENTERIOS DE LA REPUBLICA ARGENTINA.",
+    "sigla": "OSPCRA",
+    "domicilio": "FEDERICO LACROZE 3908",
+    "cp": "1427",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-555-6772",
+    "e_mail": "soecra@uolsinectis.com.ar"
+  },
+  "104108": {
+    "rnos": "104108",
+    "denominacion": "OBRA SOCIAL DE CERAMISTAS",
+    "sigla": "OSCE",
+    "domicilio": "DOBLAS 629",
+    "cp": "1424",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "104207": {
+    "rnos": "104207",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA CERAMICA, SANITARIOS, PORCELANA DE MESA Y AFINES",
+    "sigla": "OSPCSPMYA",
+    "domicilio": "AV. HIIPOLITO IRIGOYEN 1255",
+    "cp": "1870",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "ospecesa@speedy.com.ar",
+    "web": "www.ospecesa.com.ar"
+  },
+  "104306": {
+    "rnos": "104306",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD CERVECERA Y AFINES",
+    "sigla": "OSPACA",
+    "domicilio": "HUMAHUACA 4072",
+    "cp": "1192",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-3336772",
+    "e_mail": "consultas@oscervecera.org.ar",
+    "web": "www.oscervecera.org.ar"
+  },
+  "104405": {
+    "rnos": "104405",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL CINEMATOGRAFICO DE MAR DEL PLATA",
+    "sigla": "OSPERCIN",
+    "domicilio": "NEUQUEN 2655",
+    "cp": "7600",
+    "provincia": "BUENOS AIRES"
+  },
+  "104504": {
+    "rnos": "104504",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA CINEMATOGRAFICA",
+    "sigla": "OSPIC",
+    "domicilio": "JUNCAL 2029",
+    "cp": "1116",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospic@sicacine.org.ar",
+    "web": "www.sicacine.com.ar"
+  },
+  "104603": {
+    "rnos": "104603",
+    "denominacion": "OBRA SOCIAL DE OPERADORES CINEMATOGRAFICOS",
+    "sigla": "OSOC",
+    "domicilio": "VIAMONTE 2045",
+    "cp": "1056",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "104801": {
+    "rnos": "104801",
+    "denominacion": "OBRA SOCIAL DE COLOCADORES DE AZULEJOS, MOSAICOS, GRANITEROS, LUSTRADORES Y PORCELANEROS",
+    "sigla": "OSCAMGLYP",
+    "domicilio": "JOSE EUSEBIO COLOMBRES 1419",
+    "cp": "1238",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "oscamglyp@speedy.com.ar",
+    "web": "no poseen"
+  },
+  "105002": {
+    "rnos": "105002",
+    "denominacion": "OBRA SOCIAL DE CONDUCTORES NAVALES",
+    "sigla": "OSCONARA",
+    "domicilio": "PINZON 281",
+    "cp": "1161",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@siconara.com.ar",
+    "web": "www.siconara.org.ar"
+  },
+  "105309": {
+    "rnos": "105309",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL ADMINISTRATIVO Y TECNICO DE LA CONSTRUCCION Y AFINES",
+    "sigla": "OSPATCA",
+    "domicilio": "PTE. LUIS SAENZ PE\u00d1A 1142/44",
+    "cp": "1110",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-3480",
+    "e_mail": "info@ospatca.com.ar",
+    "web": "www.ospatca.com.ar"
+  },
+  "105408": {
+    "rnos": "105408",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA CONSTRUCCION",
+    "sigla": "OSPECON",
+    "domicilio": "AVDA. BELGRANO 1862/70",
+    "cp": "1094",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-222-0123",
+    "e_mail": "salud@uocra.org",
+    "web": "www.construirsalud.com.ar."
+  },
+  "105507": {
+    "rnos": "105507",
+    "denominacion": "OBRA SOCIAL DE LOS CORTADORES DE LA INDUMENTARIA",
+    "sigla": "OSUCI",
+    "domicilio": "SANTIAGO DEL ESTERO 576",
+    "cp": "1075",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "obrasocial@uci.org.ar"
+  },
+  "105606": {
+    "rnos": "105606",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CUERO Y AFINES",
+    "sigla": "OSPICA",
+    "domicilio": "CALLE GIRIBONE 789",
+    "cp": "1872",
+    "provincia": "BUENOS AIRES",
+    "web": "www.ospica.org.ar"
+  },
+  "105705": {
+    "rnos": "105705",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CHACINADO Y AFINES",
+    "sigla": "OSPICHA",
+    "domicilio": "AVDA. SAN JUAN 4229 PLANTA BAJA",
+    "cp": "1233",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "105804": {
+    "rnos": "105804",
+    "denominacion": "OBRA SOCIAL DE CHOFERES DE CAMIONES",
+    "sigla": "OSCHOCA",
+    "domicilio": "SAN JOSE 1775/81",
+    "cp": "1136",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-777-0020",
+    "e_mail": "info@camioneros-ba.org.ar",
+    "web": "www.camioneros-ba.org.ar"
+  },
+  "106005": {
+    "rnos": "106005",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE ENTIDADES DEPORTIVAS Y CIVILES",
+    "sigla": "OSPEDYC",
+    "domicilio": "ALBERTI 646",
+    "cp": "1223",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospedyc@infovia.com",
+    "web": "www.ospedyc.org.ar"
+  },
+  "106104": {
+    "rnos": "106104",
+    "denominacion": "OBRA SOCIAL DE EMPLEADOS DE DESPACHANTES DE ADUANA",
+    "sigla": "OSEDA",
+    "domicilio": "CALLAO 220 PISO 6",
+    "cp": "1022",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "106203": {
+    "rnos": "106203",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DISTRIBUIDORAS CINEMATOGRAFICAS DE LA R.A.",
+    "sigla": "OSPEDICI",
+    "domicilio": "AYACUCHO 512/514   1\u00ba Y 2\u00ba PISO",
+    "cp": "1025",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@ospedici.org.ar"
+  },
+  "106302": {
+    "rnos": "106302",
+    "denominacion": "OBRA SOCIAL DE DOCENTES PARTICULARES",
+    "sigla": "OSDOP",
+    "domicilio": "BARTOLOME MITRE 2233",
+    "cp": "1039",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-6666-450"
+  },
+  "106401": {
+    "rnos": "106401",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE EDIFICIOS DE RENTA Y HORIZONTAL DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSPERYHRA",
+    "domicilio": "SARMIENTO 2026",
+    "cp": "1044",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "osperyh@osperyh.org.ar",
+    "web": "www.fateryh.org.ar"
+  },
+  "106500": {
+    "rnos": "106500",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE EDIFICIOS DE RENTA Y HORIZONTAL DE LA CIUDAD AUTONOMA DE BUENOS AIRES  Y GRAN BUENOS AIRES",
+    "sigla": "OSPERYH",
+    "domicilio": "SARMIENTO 2026",
+    "cp": "1044",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-266-0066",
+    "e_mail": "osperyh@osperyh.org.ar",
+    "web": "www.fateryh.org.ar"
+  },
+  "106609": {
+    "rnos": "106609",
+    "denominacion": "OBRA SOCIAL ELECTRICISTAS NAVALES",
+    "sigla": "OSEN",
+    "domicilio": "AVDA JUAN DE GARAY 1900",
+    "cp": "1256",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@osensalud.com.ar",
+    "web": "www.osensalud.com.ar"
+  },
+  "106708": {
+    "rnos": "106708",
+    "denominacion": "OBRA SOCIAL DE OBREROS EMPACADORES DE FRUTA  DE RIO NEGRO Y NEUQUEN",
+    "domicilio": "MENGUELLE 130",
+    "cp": "8324",
+    "provincia": "RIO NEGRO",
+    "e_mail": "victoria@neunt.com.ar"
+  },
+  "106807": {
+    "rnos": "106807",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ENSE\u00d1ANZA PRIVADA",
+    "sigla": "OSPEP",
+    "domicilio": "AV. JUJUY 226",
+    "cp": "1083",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "informes@ospepweb.com.ar",
+    "web": "www.ospepweb.com.ar"
+  },
+  "106906": {
+    "rnos": "106906",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE ESCRIBANIAS DE LA PROVINCIA DE BUENOS AIRES",
+    "sigla": "OSPEPBA",
+    "domicilio": "CALLE 45  N\u00ba 509",
+    "cp": "1900",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "social@personalescribanias.org",
+    "web": "www.personalescribanias.org.ar"
+  },
+  "107008": {
+    "rnos": "107008",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE ESCRIBANOS",
+    "sigla": "OSPE",
+    "domicilio": "RODRIGUEZ PE\u00d1A 536/38",
+    "cp": "1020",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "obrasocial@ospe.org.ar",
+    "web": "www.ospe.org.ar"
+  },
+  "107107": {
+    "rnos": "107107",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL ESPECTACULO PUBLICO",
+    "sigla": "OSPEP",
+    "domicilio": "PASCO 148/54",
+    "cp": "1081",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.ospepsalud.com.ar"
+  },
+  "107206": {
+    "rnos": "107206",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE ESTACIONES DE SERVICIO, GARAGES, PLAYAS DE ESTACIONAMIENTO Y LAVADEROS AUTOMATICOS",
+    "sigla": "OSPESGYPE",
+    "domicilio": "HIPOLITO YRIGOYEN 2727",
+    "cp": "1090",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.soesgype.org.ar"
+  },
+  "107404": {
+    "rnos": "107404",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE FARMACIA",
+    "sigla": "OSPF",
+    "domicilio": "CONSTITUCION 2066",
+    "cp": "1254",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-9820",
+    "e_mail": "privada@ospf.org.ar",
+    "web": "www.ospf.org.ar"
+  },
+  "107800": {
+    "rnos": "107800",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL FIBROCEMENTO",
+    "sigla": "OSPIF",
+    "domicilio": "CONSTITUCION 3674",
+    "cp": "1754",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "osdelfibro@hotmail.com"
+  },
+  "107909": {
+    "rnos": "107909",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA FIDEERA",
+    "sigla": "OSPIF",
+    "domicilio": "RIO DE JANEIRO 55",
+    "cp": "1405",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospif-central@speedy.com.ar"
+  },
+  "108001": {
+    "rnos": "108001",
+    "denominacion": "OBRA SOCIAL  PARA EL PERSONAL DE LA INDUSTRIA FORESTAL DE SANTIAGO DEL ESTERO",
+    "sigla": "OSPIFSE",
+    "domicilio": "MISIONES 332",
+    "cp": "4200",
+    "provincia": "SANTIAGO DEL ESTERO",
+    "e_mail": "ingresos@ospifse.com.ar",
+    "web": "www.ospifse.com.ar"
+  },
+  "108100": {
+    "rnos": "108100",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL FOSFORO, ENCENDIDO Y AFINES",
+    "sigla": "OSPIF",
+    "domicilio": "MARCONI 652",
+    "cp": "1870",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "osfosforo@hotmail.com",
+    "web": "www.redospif.com.ar"
+  },
+  "108209": {
+    "rnos": "108209",
+    "denominacion": "OBRA SOCIAL DE FOTOGRAFOS",
+    "sigla": "OSFOT",
+    "domicilio": "PRINGLES 1090/92",
+    "cp": "1183",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "osfot@speedy.com.ar"
+  },
+  "108407": {
+    "rnos": "108407",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD FRUTICOLA",
+    "sigla": "OSPAF",
+    "domicilio": "SAAVEDRA 121",
+    "cp": "3200",
+    "provincia": "ENTRE RIOS",
+    "e_mail": "OSPAF@YAHOO.COM.AR",
+    "web": "EN CRISIS CONFORME DECRETO 1400/01 (VER OBSERV)"
+  },
+  "108506": {
+    "rnos": "108506",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE MANIPULEO, EMPAQUE Y EXPEDICION DE FRUTA FRESCA Y HORTALIZAS DE CUYO",
+    "sigla": "OSFYHC",
+    "domicilio": "MONTECASEROS 1147",
+    "cp": "5500",
+    "provincia": "MENDOZA",
+    "web": "EN CRISIS CONFORME DECRETO 1400/01 - (VER OBSERVAC"
+  },
+  "108605": {
+    "rnos": "108605",
+    "denominacion": "OBRA SOCIAL DE FUTBOLISTAS",
+    "sigla": "FAA",
+    "domicilio": "SALTA 1144",
+    "cp": "1074",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "agremiados@infovia.com.ar",
+    "web": "www.agremiados.com.ar"
+  },
+  "108704": {
+    "rnos": "108704",
+    "denominacion": "OBRA SOCIAL DE TECNICOS DE FUTBOL",
+    "sigla": "OSTECF",
+    "domicilio": "VIAMONTE 1328   PB  PISO 1",
+    "cp": "1053",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.ostecf.com.ar"
+  },
+  "108803": {
+    "rnos": "108803",
+    "denominacion": "OBRA SOCIAL  DE LA UNION  DE TRABAJADORES  DEL TURISMO, HOTELEROS Y GASTRONOMICOS DE LA REPUBLICA  ARGENTINA",
+    "sigla": "OSUTHGRA",
+    "domicilio": "AVDA. DE MAYO 930",
+    "cp": "1084",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-222-8844",
+    "e_mail": "info@uthgra.org.ar",
+    "web": "www.uthgra.org.ar"
+  },
+  "109004": {
+    "rnos": "109004",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL GRAFICO",
+    "sigla": "OSPG",
+    "domicilio": "AVDA. BELGRANO 2530",
+    "cp": "1096",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "109202": {
+    "rnos": "109202",
+    "denominacion": "OBRA SOCIAL DE GUINCHEROS Y MAQUINISTAS DE GRUAS MOVILES",
+    "domicilio": "CORONEL SALVADORES 1638",
+    "cp": "1296",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "osguincheros@compulogic.com.ar",
+    "web": "www.osocialguincheros.com"
+  },
+  "109301": {
+    "rnos": "109301",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE CONSIGNATARIOS DEL MERCADO NACIONAL DE HACIENDA DE LINIERS",
+    "sigla": "OSPEMER",
+    "domicilio": "LISANDRO DE LA TORRE 2337/9",
+    "cp": "1440",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "en CRISIS desde el  14/08/14 - Resol. 1291/14-SSS"
+  },
+  "109400": {
+    "rnos": "109400",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL HIELO Y MERCADOS PARTICULARES",
+    "sigla": "OSPIHMP",
+    "domicilio": "COLOMBRES 1573   (SINDICATO)",
+    "cp": "1238",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-666-7744",
+    "e_mail": "auditoria@ospihmp.org.ar",
+    "web": "www.stihmpra.hypermart.net"
+  },
+  "109509": {
+    "rnos": "109509",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LOS HIPODROMOS DE BUENOS AIRES Y SAN ISIDRO",
+    "sigla": "OSPHGBAYSI",
+    "domicilio": "JURAMENTO 1590 PISO 1",
+    "cp": "1428",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "osphbaysi@fibertel.com.ar."
+  },
+  "109608": {
+    "rnos": "109608",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL MENSUALIZADO DEL JOCKEY CLUB DE BUENOS AIRES Y LOS HIPODROMOS DE PALERMO Y SAN ISIDRO",
+    "domicilio": "AVDA. CABILDO 4193",
+    "cp": "1429",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "109707": {
+    "rnos": "109707",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE IMPRENTA, DIARIOS Y AFINES",
+    "sigla": "OSPIDA",
+    "domicilio": "SAN JOSE 157",
+    "cp": "1076",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospida@ospida.org.ar",
+    "web": "www.ospida.org.ar"
+  },
+  "110008": {
+    "rnos": "110008",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE JABONEROS",
+    "sigla": "OSPEJ",
+    "domicilio": "SARMIENTO 1113 PISO 8 B",
+    "cp": "1041",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "4-383-2983",
+    "e_mail": "ospej11000-8@ciudad.com.ar",
+    "web": "www.osjaboneros.com.ar"
+  },
+  "110107": {
+    "rnos": "110107",
+    "denominacion": "OBRA SOCIAL DE JARDINEROS, PARQUISTAS, VIVERISTAS Y FLORICULTORES DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSJPVYF",
+    "domicilio": "LUIS SAENZ PE\u00d1A 480",
+    "cp": "1110",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-666-7386",
+    "e_mail": "osjard@grupoa.com.ar"
+  },
+  "110206": {
+    "rnos": "110206",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL JOCKEY CLUB DE ROSARIO",
+    "domicilio": "OVIDIO LAGOS 1571",
+    "cp": "2000",
+    "provincia": "SANTA FE"
+  },
+  "110305": {
+    "rnos": "110305",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL LADRILLERO",
+    "sigla": "OSPL",
+    "domicilio": "HIPOLITO IRIGOYEN 1534 3\u00ba PISO",
+    "cp": "1089",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "autorizacionesospl@live.com.ar"
+  },
+  "110404": {
+    "rnos": "110404",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA LADRILLERA A MAQUINA",
+    "sigla": "OSPILM",
+    "domicilio": "25 DE MAYO 1724 E/ LINCOLN Y JUAREZ (79 1724 E 46/",
+    "cp": "1650",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "institucional@ospilm.org.ar",
+    "web": "www.ospilm.org.ar"
+  },
+  "110503": {
+    "rnos": "110503",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA LECHERA",
+    "sigla": "OSPIL",
+    "domicilio": "AVDA. HIPOLITO YRIGOYEN 4054",
+    "cp": "1208",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "obrasocial@atilra.org.ar"
+  },
+  "110602": {
+    "rnos": "110602",
+    "denominacion": "OBRA SOCIAL DE LOCUTORES",
+    "sigla": "OSDEL",
+    "domicilio": "VIDT 2011",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "locutores@sinectis.com.ar"
+  },
+  "110701": {
+    "rnos": "110701",
+    "denominacion": "OBRA SOCIAL DE LA FEDERACION ARGENTINA DE TRABAJADORES DE LUZ Y FUERZA",
+    "sigla": "OSFATLYF",
+    "domicilio": "LIMA 163 4\u00b0 PISO",
+    "cp": "1073",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "bettinottir@osfatlyf_salud.com.ar",
+    "web": "www.osfatlyf-salud.com.ar"
+  },
+  "110800": {
+    "rnos": "110800",
+    "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES DE LAS EMPRESAS DE ELECTRICIDAD",
+    "sigla": "OSTEE",
+    "domicilio": "HUMBERTO 1\u00ba   434",
+    "cp": "1103",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-1534",
+    "e_mail": "obrasocial@osteeluzmedica.com.ar",
+    "web": "www.osteeluzmedica.com.ar"
+  },
+  "110909": {
+    "rnos": "110909",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LUZ Y FUERZA DE CORDOBA",
+    "sigla": "OSLYF",
+    "domicilio": "AVDA. GRAL PAZ 282 PISO 1",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "telefono": "0800-333-3202",
+    "web": "luzfuerzacbasalud.com.ar"
+  },
+  "111001": {
+    "rnos": "111001",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA MADERERA",
+    "sigla": "OSPIM",
+    "domicilio": "ROJAS 254",
+    "cp": "1405",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "contacto@ospim.com.ar"
+  },
+  "111209": {
+    "rnos": "111209",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE MAESTRANZA",
+    "sigla": "OSPM",
+    "domicilio": "ALZAGA 2271",
+    "cp": "1240",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-8154",
+    "e_mail": "s-o-m@satlink.com",
+    "web": "www.somlimpieza.com.ar"
+  },
+  "111308": {
+    "rnos": "111308",
+    "denominacion": "OBRA SOCIAL DE MAQUINISTAS DE TEATRO Y TELEVISION",
+    "domicilio": "AVDA CORRIENTES 1642 PISO 1 OFICINA 21",
+    "cp": "1042",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "osmtt@osmtt.org.ar"
+  },
+  "111407": {
+    "rnos": "111407",
+    "denominacion": "OBRA SOCIAL DE CAPITANES DE ULTRAMAR Y OFICIALES DE LA MARINA MERCANTE",
+    "sigla": "OSCOMM",
+    "domicilio": "AVENIDA INDEPEDENCIA 611",
+    "cp": "1099",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-6667266",
+    "e_mail": "secretaria@capitanes.org.ar"
+  },
+  "111506": {
+    "rnos": "111506",
+    "denominacion": "OBRA SOCIAL DE CAPITANES BAQUEANOS FLUVIALES DE LA MARINA MERCANTE",
+    "sigla": "OSCAPBAQFLU",
+    "domicilio": "ARISTOBULO DEL VALLE 319",
+    "cp": "1161",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "111605": {
+    "rnos": "111605",
+    "denominacion": "OBRA SOCIAL DE EMPLEADOS DE LA MARINA MERCANTE",
+    "sigla": "OSEMM",
+    "domicilio": "BARTOLOME MITRE 3776",
+    "cp": "1201",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "111704": {
+    "rnos": "111704",
+    "denominacion": "OBRA SOCIAL DE ENCARGADOS APUNTADORES MARITIMOS",
+    "sigla": "OSEAM",
+    "domicilio": "MEXICO 2183 DTO A",
+    "cp": "1222",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "oseam@speedy.com.ar"
+  },
+  "111803": {
+    "rnos": "111803",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL MARITIMO",
+    "sigla": "OSPM",
+    "domicilio": "VENEZUELA 1427",
+    "cp": "1095",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospm@teletel.com.ar"
+  },
+  "111902": {
+    "rnos": "111902",
+    "denominacion": "OBRA SOCIAL DEL SINDICATO DE MECANICOS Y AFINES DEL TRANSPORTE AUTOMOTOR",
+    "sigla": "OSMATA",
+    "domicilio": "AVDA. BELGRANO 665 PISO 8",
+    "cp": "1092",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "4-340-7412",
+    "web": "www.smata.com.ar"
+  },
+  "112004": {
+    "rnos": "112004",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL SUPERIOR MERCEDES BENZ ARGENTINA",
+    "sigla": "OSPS MERCEDES",
+    "domicilio": "AVDA RIVADAVIA 10964 LINIERS",
+    "cp": "1408",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "obrasocial@apsmba.com.ar",
+    "web": "www.apsmba.com.ar"
+  },
+  "112103": {
+    "rnos": "112103",
+    "denominacion": "OBRA SOCIAL DE LA UNION OBRERA METALURGICA DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSUOMRA",
+    "domicilio": "ALSINA 485 - PISO 4",
+    "cp": "1087",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.forjarsalud.com.ar"
+  },
+  "112202": {
+    "rnos": "112202",
+    "denominacion": "OBRA SOCIAL DE LOS  SUPERVISORES DE LA INDUSTRIA METALMECANICA DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSSIMRA",
+    "domicilio": "AZCUENAGA 1234",
+    "cp": "1115",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0-800-888-2746",
+    "e_mail": "asinra@arnet.com.ar",
+    "web": "www.ossimra.org.ar"
+  },
+  "112301": {
+    "rnos": "112301",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE  MICROS Y OMNIBUS DE MENDOZA",
+    "sigla": "OSPEMOM",
+    "domicilio": "CATAMARCA 382",
+    "cp": "5500",
+    "provincia": "MENDOZA",
+    "e_mail": "ospemom@ospemom.org.ar"
+  },
+  "112400": {
+    "rnos": "112400",
+    "denominacion": "OBRA SOCIAL DE LA ACTIVIDAD MINERA",
+    "sigla": "O.S.A.M.",
+    "domicilio": "ROSARIO 434/36",
+    "cp": "1424",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "112509": {
+    "rnos": "112509",
+    "denominacion": "OBRA SOCIAL MODELOS ARGENTINOS",
+    "sigla": "OSMA",
+    "domicilio": "AVDA CORRIENTES 1622 PISO 1 DTO A",
+    "cp": "1042",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "osmodelos@fibertel.com.ar"
+  },
+  "112608": {
+    "rnos": "112608",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA MOLINERA",
+    "sigla": "OSPIM",
+    "domicilio": "AV. SAN JUAN 2670/72",
+    "cp": "1232",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@ospim.org.ar",
+    "web": "www.ospim.org.ar"
+  },
+  "112707": {
+    "rnos": "112707",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL MOSAISTA",
+    "sigla": "OSPM",
+    "domicilio": "QUIRNO 89",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "mosaistas@hotmail.com",
+    "web": "RESOLUCION 147/12 (VER OBSERVACIONES)"
+  },
+  "112806": {
+    "rnos": "112806",
+    "denominacion": "OBRA SOCIAL DE MUSICOS",
+    "sigla": "OSDEM",
+    "domicilio": "AVDA.  BELGRANO 3655",
+    "cp": "1210",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "sadem@interlink.com.ar",
+    "web": "www.sadem.com.ar"
+  },
+  "113205": {
+    "rnos": "113205",
+    "denominacion": "OBRA SOCIAL DE JEFES Y OFICIALES NAVALES DE RADIOCOMUNICACIONES",
+    "sigla": "OSJONR",
+    "domicilio": "24 DE NOVIEMBRE 643/5",
+    "cp": "1224",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "radionaval@arnet.com.ar"
+  },
+  "113304": {
+    "rnos": "113304",
+    "denominacion": "OBRA SOCIAL DE JEFES Y OFICIALES MAQUINISTAS NAVALES",
+    "sigla": "OSJOMN",
+    "domicilio": "RODRIGUEZ PE\u00d1A 1464",
+    "cp": "1021",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "infoobrasocial@osjomn.com.ar",
+    "web": "www.maquinaval.com.ar"
+  },
+  "113403": {
+    "rnos": "113403",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL NAVAL",
+    "sigla": "OSPENA",
+    "domicilio": "JUAN  DE DIOS FILIBERTO 914",
+    "cp": "1162",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospena1340@hotmail.com"
+  },
+  "113601": {
+    "rnos": "113601",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL NEUMATICO",
+    "sigla": "OSPIN",
+    "domicilio": "JUJUY 995",
+    "cp": "1229",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospin@sinectis.com.ar"
+  },
+  "113700": {
+    "rnos": "113700",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA NAVAL",
+    "sigla": "OSPIN",
+    "domicilio": "CHACABUCO 528",
+    "cp": "1648",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "osnavales@yahoo.com.ar"
+  },
+  "113809": {
+    "rnos": "113809",
+    "denominacion": "OBRA SOCIAL DE COMISARIOS NAVALES",
+    "domicilio": "BERNARDO DE IRIGOYEN 840",
+    "cp": "1072",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-6726"
+  },
+  "113908": {
+    "rnos": "113908",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PANADERIAS",
+    "sigla": "OSPEP",
+    "domicilio": "BOEDO 168",
+    "cp": "1206",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-3861",
+    "e_mail": "info@ospep.org.ar"
+  },
+  "114000": {
+    "rnos": "114000",
+    "denominacion": "OBRA SOCIAL DE PANADEROS, PASTELEROS Y FACTUREROS DE ENTRE RIOS",
+    "sigla": "OSSPYFER",
+    "domicilio": "VELEZ SARSFIELD 447/49",
+    "cp": "3200",
+    "provincia": "ENTRE RIOS"
+  },
+  "114109": {
+    "rnos": "114109",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DEL PAPEL, CARTON Y QUIMICOS",
+    "sigla": "OSPPCYQ",
+    "domicilio": "OSVALDO CRUZ 2075",
+    "cp": "1293",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-222-2727",
+    "e_mail": "info@ospapel.org.ar",
+    "web": "www.ospapel.org.ar"
+  },
+  "114208": {
+    "rnos": "114208",
+    "denominacion": "OBRA SOCIAL DE LA INDUSTRIA DE PASTAS ALIMENTICIAS",
+    "sigla": "OSIPA",
+    "domicilio": "AVDA.. BELGRANO 4280",
+    "cp": "1210",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "stipa@arnet.com.ar"
+  },
+  "114307": {
+    "rnos": "114307",
+    "denominacion": "OBRA SOCIAL TRABAJADORES  PASTELEROS, CONFITEROS, PIZZEROS , HELADEROS Y ALFAJOREROS DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSTPCHPYARA",
+    "domicilio": "BOGADO 4541",
+    "cp": "1183",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "fatpchpya@infovia.com.ar"
+  },
+  "114505": {
+    "rnos": "114505",
+    "denominacion": "OBRA SOCIAL DE PATRONES DE CABOTAJE DE RIOS Y PUERTOS",
+    "domicilio": "GUALEGUAY 1255 / 57",
+    "cp": "1265",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "114703": {
+    "rnos": "114703",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PELUQUERIAS, ESTETICAS Y AFINES",
+    "sigla": "OSPPEA",
+    "domicilio": "AYACUCHO 838",
+    "cp": "1111",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "obrasocial@peluquerosargentinos.com",
+    "web": "www.peluquerosargentinos.com"
+  },
+  "114901": {
+    "rnos": "114901",
+    "denominacion": "OBRA SOCIAL DE OFICIALES PELUQUEROS Y PEINADORES DE ROSARIO",
+    "sigla": "OSOFPP DE ROSARIO",
+    "domicilio": "MONTEVIDEO 1488",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "e_mail": "spprosario@sinetis.com.ar",
+    "web": "www.sindicatopeluq-ros.com.ar"
+  },
+  "115003": {
+    "rnos": "115003",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD PERFUMISTA",
+    "sigla": "OSPAP",
+    "domicilio": "TREINTA Y TRES ORIENTALES 148",
+    "cp": "1182",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-345-0332",
+    "e_mail": "ospap@hotmail.com",
+    "web": "www.ospap.org.ar"
+  },
+  "115102": {
+    "rnos": "115102",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES DE PRENSA DE BUENOS AIRES",
+    "sigla": "OSTPBA",
+    "domicilio": "PTE J.D. PERON 1173",
+    "cp": "1038",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-345-6787",
+    "e_mail": "raulbarr22@hotmail.com",
+    "web": "www.ostpba.org.ar"
+  },
+  "115201": {
+    "rnos": "115201",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL PESCADO DE MAR DEL PLATA",
+    "sigla": "OSPIP",
+    "domicilio": "12 DE OCTUBRE 4445",
+    "cp": "7600",
+    "provincia": "BUENOS AIRES"
+  },
+  "115300": {
+    "rnos": "115300",
+    "denominacion": "OBRA SOCIAL DE PETROLEROS",
+    "sigla": "OSPE",
+    "domicilio": "AVDA. L. ALEM 692 1\u00ba PISO",
+    "cp": "1001",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-444-6773",
+    "e_mail": "informes@ospesalud.com.ar",
+    "web": "www.ospesalud.com.ar"
+  },
+  "115409": {
+    "rnos": "115409",
+    "denominacion": "OBRA SOCIAL DEL PETROLEO Y GAS PRIVADO",
+    "sigla": "OSPEGAP",
+    "domicilio": "AV. CASEROS 715",
+    "cp": "1152",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-555-6773",
+    "e_mail": "ospegap@petroleoygas.com.ar",
+    "web": "www.petroleoygas.com.ar"
+  },
+  "115508": {
+    "rnos": "115508",
+    "denominacion": "OBRA SOCIAL DE PETROLEROS DE CORDOBA",
+    "sigla": "O.S.PE.COR",
+    "domicilio": "AYACUCHO 575 -BARRIO. GRAL. GUEMES",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "telefono": "4244014",
+    "e_mail": "afiliados@ospecor.com.ar",
+    "web": "www.ospecor.com.ar"
+  },
+  "115607": {
+    "rnos": "115607",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA PETROQUIMICA",
+    "sigla": "OSPIP",
+    "domicilio": "AVDA. SAN MARTIN 698 PA",
+    "cp": "2200",
+    "provincia": "SANTA FE",
+    "e_mail": "administracion@ospip-os.com.ar"
+  },
+  "115706": {
+    "rnos": "115706",
+    "denominacion": "OBRA SOCIAL PARA PILOTOS DE LINEAS AEREAS COMERCIALES Y REGULARES",
+    "sigla": "OSPLA",
+    "domicilio": "LEZICA 4047",
+    "cp": "1202",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospla@ospla.org.ar",
+    "web": "www.ospla.org.ar"
+  },
+  "115805": {
+    "rnos": "115805",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE FABRICAS DE PINTURA",
+    "sigla": "UPFPARA",
+    "domicilio": "NAZCA 845",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-8525",
+    "e_mail": "osocial@ospfp.org.ar",
+    "web": "http://www.ospfp.org.ar/"
+  },
+  "116006": {
+    "rnos": "116006",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL PLASTICO",
+    "sigla": "OSPIP",
+    "domicilio": "PAVON 4175",
+    "cp": "1253",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-222-6774",
+    "web": "www.ospip.org.ar"
+  },
+  "116105": {
+    "rnos": "116105",
+    "denominacion": "OBRA SOCIAL DE CAPATACES  ESTIBADORES PORTUARIOS",
+    "sigla": "OSCEP",
+    "domicilio": "PINZON 1012/1016",
+    "cp": "1161",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "capatacesport@hotmail.com"
+  },
+  "116204": {
+    "rnos": "116204",
+    "denominacion": "OBRA SOCIAL DE PORTUARIOS ARGENTINOS",
+    "sigla": "OSPA",
+    "domicilio": "BOLIVAR 839",
+    "cp": "1066",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospabue@infovia.com.ar",
+    "web": "www.ospaport.com.ar"
+  },
+  "116709": {
+    "rnos": "116709",
+    "denominacion": "OBRA SOCIAL PORTUARIOS  PUERTO SAN MARTIN Y BELLA VISTA",
+    "domicilio": "CAYETANO NERBUTTI 256",
+    "cp": "2202",
+    "provincia": "SANTA FE",
+    "e_mail": "obrasocial@cooportuaria.com"
+  },
+  "117207": {
+    "rnos": "117207",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSPPRA",
+    "domicilio": "SOLIS 1158 PISO 3\u00a7",
+    "cp": "1078",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@osppra.com.ar",
+    "web": "www.osppra.com.ar"
+  },
+  "117405": {
+    "rnos": "117405",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE BAHIA BLANCA",
+    "domicilio": "LAMADRID 266",
+    "cp": "8000",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "prensabblanca@bvconline.com.ar"
+  },
+  "117702": {
+    "rnos": "117702",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE MAR DEL PLATA",
+    "sigla": "OSPREN",
+    "domicilio": "DORREGO 1734",
+    "cp": "7600",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "ospren@ospren.org.ar",
+    "web": "www.prensamardelplata.org.ar"
+  },
+  "117801": {
+    "rnos": "117801",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE MENDOZA",
+    "domicilio": "CHILE 1661",
+    "cp": "5500",
+    "provincia": "MENDOZA",
+    "e_mail": "prensaludmza@hprensaludmza.org.ar"
+  },
+  "118002": {
+    "rnos": "118002",
+    "denominacion": "OBRA SOCIAL DE EMPLEADOS DE PRENSA DE CORDOBA",
+    "sigla": "OSEPC",
+    "domicilio": "OBISPO TREJO 365",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "osepc@onenet.com.ar",
+    "web": "www.prensalud.com.ar"
+  },
+  "118200": {
+    "rnos": "118200",
+    "denominacion": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSAPM",
+    "domicilio": "AVELLANEDA 2144",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "obra_social@apm.org.ar",
+    "web": "www.apm.org.ar"
+  },
+  "118309": {
+    "rnos": "118309",
+    "denominacion": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE CORDOBA",
+    "domicilio": "AVDA OLMOS 485 PISO 2 (ESQUINA STAGO DEL ESTERO)",
+    "cp": "5003",
+    "provincia": "CORDOBA",
+    "e_mail": "osapm@arnet.com.ar"
+  },
+  "118408": {
+    "rnos": "118408",
+    "denominacion": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE ENTRE RIOS",
+    "sigla": "OSAPMER",
+    "domicilio": "CATAMARCA 451",
+    "cp": "3100",
+    "provincia": "ENTRE RIOS",
+    "e_mail": "apmentrario@infovia.com.ar"
+  },
+  "118507": {
+    "rnos": "118507",
+    "denominacion": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE ROSARIO",
+    "domicilio": "LAPRIDA 1063",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "telefono": "0800-333-0276",
+    "e_mail": "apmsalud@osapmr.com.ar"
+  },
+  "118606": {
+    "rnos": "118606",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA PUBLICIDAD",
+    "sigla": "OSPP",
+    "domicilio": "AVDA CORDOBA 1576",
+    "cp": "1055",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospp@ciudad.com.ar"
+  },
+  "118705": {
+    "rnos": "118705",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE INDUSTRIAS QUIMICAS Y PETROQUIMICAS",
+    "sigla": "OSPIQYP",
+    "domicilio": "MEXICO 1474",
+    "cp": "1097",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.ospiqyp.org.ar"
+  },
+  "118804": {
+    "rnos": "118804",
+    "denominacion": "OBRA SOCIAL DE RECIBIDORES DE GRANOS Y ANEXOS",
+    "sigla": "OSRGA",
+    "domicilio": "AVDA BELGRANO 510 PISO 5",
+    "cp": "1092",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "118903": {
+    "rnos": "118903",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE RECOLECCION Y BARRIDO DE ROSARIO",
+    "domicilio": "BUENOS AIRES 1635",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "e_mail": "osprbyl@arnet.com.ar"
+  },
+  "119005": {
+    "rnos": "119005",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE REFINERIAS DE MAIZ",
+    "domicilio": "ANCHORENA 1429",
+    "cp": "2942",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "Osprem@arnetbiz.com.ar"
+  },
+  "119203": {
+    "rnos": "119203",
+    "denominacion": "OBRA SOCIAL DE RELOJEROS Y JOYEROS",
+    "sigla": "OSRJA",
+    "domicilio": "VALENTIN GOMEZ 3828",
+    "cp": "1191",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-3420",
+    "e_mail": "info@osrja.org.ar",
+    "web": "www.osrja..org.ar"
+  },
+  "119302": {
+    "rnos": "119302",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL RURAL Y ESTIBADORES DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSPRERA",
+    "domicilio": "RECONQUISTA 630",
+    "cp": "1003",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-77-78725",
+    "web": "www.osprera.com.ar"
+  },
+  "119500": {
+    "rnos": "119500",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA SANIDAD ARGENTINA",
+    "sigla": "OSPSA",
+    "domicilio": "DEAN FUNES 1242",
+    "cp": "1244",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "informes@sanidad.org.ar",
+    "web": "www.sanidad.org.ar"
+  },
+  "119609": {
+    "rnos": "119609",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE INSTALACIONES SANITARIAS",
+    "sigla": "OSPIS",
+    "domicilio": "PASCO N\u00ba 1040",
+    "cp": "1219",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-555-8774",
+    "web": "www.ospis.com.ar"
+  },
+  "119708": {
+    "rnos": "119708",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE SEGURIDAD COMERCIAL, INDUSTRIAL E INVESTIGACIONES PRIVADAS",
+    "sigla": "OSPSIP",
+    "domicilio": "TUCUMAN 3689",
+    "cp": "1189",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-6777",
+    "e_mail": "info@opsip.org.ar",
+    "web": "www.ospsip.org.ar"
+  },
+  "119906": {
+    "rnos": "119906",
+    "denominacion": "OBRA SOCIAL DE SERENOS DE BUQUES",
+    "domicilio": "BERNARDO DE IRIGOYEN 972/4 PISO 9 OF. 45",
+    "cp": "1072",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-345-7332",
+    "e_mail": "ossdeb@fideisalud.com.ar",
+    "web": "www.fideisalud.com.ar"
+  },
+  "120306": {
+    "rnos": "120306",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE SUPERVISION DE LA EMPRESA SUBTERRANEOS DE BUENOS AIRES",
+    "sigla": "OSPSESBA",
+    "domicilio": "EMILIO MITRE 582",
+    "cp": "1424",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospesba@fibertel.com.ar"
+  },
+  "120405": {
+    "rnos": "120405",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA EMPRESA SUBTERRANEOS DE BUENOS AIRES",
+    "sigla": "OSPDESBA",
+    "domicilio": "AVDA CALLAO 322 PISO 8 DTO A",
+    "cp": "1022",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospdesba@speedy.com.ar"
+  },
+  "120504": {
+    "rnos": "120504",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA  DEL TABACO",
+    "sigla": "OSPIT",
+    "domicilio": "ESTEBAN BONORINO 281",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospitabaco@infovia.com.ar"
+  },
+  "120603": {
+    "rnos": "120603",
+    "denominacion": "OBRA SOCIAL DE EMPLEADOS DEL TABACO DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSETRA",
+    "domicilio": "BOLIVIA 384",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "osetra@advancedsl.com.ar",
+    "web": "www.suetra-tabacos.com.ar"
+  },
+  "120702": {
+    "rnos": "120702",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LAS TELECOMUNICACIONES DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSTEL",
+    "domicilio": "AVDA JUAN DE GARAY 2569",
+    "cp": "1256",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-6783",
+    "e_mail": "compras@ostel.org",
+    "web": "www.ostel.org"
+  },
+  "120801": {
+    "rnos": "120801",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES DE LAS COMUNICACIONES",
+    "sigla": "OSTRAC",
+    "domicilio": "CHACABUCO 140",
+    "cp": "1069",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ostrac@infovia.com.ar",
+    "web": "www.aatrac.org.ar"
+  },
+  "120900": {
+    "rnos": "120900",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE TELEVISION",
+    "sigla": "OSPTV",
+    "domicilio": "QUINTINO BOCAYUVA 38/50",
+    "cp": "1181",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-288-8872",
+    "e_mail": "info@tvsalud.com.ar",
+    "web": "www.tvsalud.com.ar"
+  },
+  "121002": {
+    "rnos": "121002",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA TEXTIL",
+    "sigla": "OSPIT",
+    "domicilio": "AVDA. LA PLATA 754",
+    "cp": "1235",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-63733",
+    "e_mail": "ospit@aotra.com.ar",
+    "web": "www.ospit.org.ar"
+  },
+  "121101": {
+    "rnos": "121101",
+    "denominacion": "OBRA SOCIAL DE EMPLEADOS TEXTILES Y AFINES",
+    "sigla": "OSETYA",
+    "domicilio": "BENITO QUINQUELA MARTIN 1738",
+    "cp": "1433",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810-999-6738",
+    "e_mail": "informes@osetya.com.ar",
+    "web": "www.osetya.com.ar"
+  },
+  "121309": {
+    "rnos": "121309",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL TRACTOR",
+    "sigla": "OSPIT",
+    "domicilio": "SAN LORENZO 2181",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "e_mail": "soeita@yahoo.com.ar"
+  },
+  "121507": {
+    "rnos": "121507",
+    "denominacion": "OBRA SOCIAL DE LA INDUSTRIA DEL TRANSPORTE  AUTOMOTOR DE CORDOBA",
+    "sigla": "OSITAC",
+    "domicilio": "PARANA 327",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "aoita@ositac.org.ar"
+  },
+  "121606": {
+    "rnos": "121606",
+    "denominacion": "OBRA SOCIAL CONDUCTORES DE TRANSPORTE COLECTIVO DE PASAJEROS",
+    "domicilio": "MORENO 2969",
+    "cp": "1209",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "INT 109.183,155,117,"
+  },
+  "121705": {
+    "rnos": "121705",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD DEL TURF",
+    "sigla": "OSPAT",
+    "domicilio": "FLORIDA 15   PISO 4   DERECHA",
+    "cp": "1005",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-1656",
+    "web": "www.ospat.com.ar"
+  },
+  "121804": {
+    "rnos": "121804",
+    "denominacion": "OBRA SOCIAL CONDUCTORES DE TAXIS DE CORDOBA",
+    "sigla": "OSTC",
+    "domicilio": "SAN LUIS 373  - B. GUEMES",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "osct-cba@hotmaail.com.ar"
+  },
+  "121903": {
+    "rnos": "121903",
+    "denominacion": "OBRA SOCIAL DE VAREADORES",
+    "domicilio": "ENTRE RIOS 1395",
+    "cp": "1640",
+    "provincia": "BUENOS AIRES"
+  },
+  "122005": {
+    "rnos": "122005",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL VESTIDO",
+    "sigla": "OSPIV",
+    "domicilio": "AVDA. RIVADAVIA 1378 PB",
+    "cp": "1049",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "08009991941",
+    "e_mail": "presidencia@osvestido.com.ar",
+    "web": "www.osvestido.com.ar"
+  },
+  "122104": {
+    "rnos": "122104",
+    "denominacion": "OBRA SOCIAL DE VIAJANTES VENDEDORES DE LA REPUBLICA ARGENTINA. (ANDAR)",
+    "sigla": "OSVVRA",
+    "domicilio": "MORENO 2045",
+    "cp": "1094",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-345-26327",
+    "e_mail": "info@redsocialfuva.com.ar",
+    "web": "www.redsocialfuva.org.ar"
+  },
+  "122302": {
+    "rnos": "122302",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD VIAL",
+    "sigla": "OSPA-VIAL",
+    "domicilio": "AVDA. DE MAYO 1439",
+    "cp": "1085",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospacentral@yahoo.com.ar"
+  },
+  "122401": {
+    "rnos": "122401",
+    "denominacion": "OBRA SOCIAL DE  EMPLEADOS DE LA INDUSTRIA DEL VIDRIO",
+    "sigla": "OSEIV",
+    "domicilio": "CARABOBO 217",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "oseiv.vidrio@hotmail.com"
+  },
+  "122500": {
+    "rnos": "122500",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL VIDRIO",
+    "sigla": "OSPIV",
+    "domicilio": "BALBASTRO 453",
+    "cp": "1424",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.soivavidrio.com.ar"
+  },
+  "122609": {
+    "rnos": "122609",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD VITIVINICOLA",
+    "sigla": "OSPAV",
+    "domicilio": "WARNES 1894",
+    "cp": "1416",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-444-6772",
+    "e_mail": "info@ospav.com.ar",
+    "web": "www.ospav.com.ar"
+  },
+  "122807": {
+    "rnos": "122807",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE VIGILANCIA Y SEGURIDAD COMERCIAL, INDUSTRIAL E INVESTIGACIONES PRIVADAS DE CORDOBA",
+    "sigla": "OSPEVIC",
+    "domicilio": "FAUSTINO ALLENDE 189 - BARRIO INDEPENDENCIA",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "telefono": "0810-888-6773",
+    "e_mail": "ospevic@ospevic.org.ar",
+    "web": "www.ospevic.org.ar"
+  },
+  "122906": {
+    "rnos": "122906",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE ESTACIONES DE SERVICIO, GARAGES, PLAYAS Y LAVADEROS AUTOMATICOS DE LA PROVINCIA DE SANTA FE",
+    "sigla": "OSPESGA",
+    "domicilio": "RIOBAMBA 1069",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "e_mail": "recpcion@ospesga.com.ar",
+    "web": "www.ospesga.com.ar"
+  },
+  "123008": {
+    "rnos": "123008",
+    "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE ESTACIONES DE SERVICIO, GARAGES, PLAYAS DE ESTACIONAMIENTO, LAVADEROS AUTOMATICOS Y GOMERIAS DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSPES",
+    "domicilio": "AVDA. JUJUY 110 PISO 3 DTOS A , B",
+    "cp": "1083",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "central@ospes.org.ar",
+    "web": "www.ospes.org.ar"
+  },
+  "123107": {
+    "rnos": "123107",
+    "denominacion": "OBRA SOCIAL TALLERISTAS A DOMICILIO",
+    "sigla": "OSTAD",
+    "domicilio": "ACEVEDO 553",
+    "cp": "1414",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ostad@fibertel.com.ar"
+  },
+  "123305": {
+    "rnos": "123305",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE SOCIEDADES DE AUTORES Y AFINES",
+    "sigla": "OSPESA",
+    "domicilio": "MONTEVIDEO 453  (DOMICILIO PROVISORIO)",
+    "cp": "1019",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospesa@infovia.com.ar"
+  },
+  "123404": {
+    "rnos": "123404",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE ROSARIO",
+    "sigla": "OSPRO",
+    "domicilio": "JUAN MANUEL DE ROSAS 958",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "e_mail": "ospro@arnet.com.ar"
+  },
+  "123503": {
+    "rnos": "123503",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE TUCUMAN",
+    "sigla": "OSPRENTUC",
+    "domicilio": "JUNIN 775",
+    "cp": "4000",
+    "provincia": "TUCUMAN",
+    "e_mail": "osprentuc@yahoo.com"
+  },
+  "123602": {
+    "rnos": "123602",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES DE PERKINS ARGENTINA S.A.I.C",
+    "sigla": "OSTP",
+    "domicilio": "ROQUE SAENZ PE\u00d1A 1377",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "telefono": "0800-444-0663",
+    "e_mail": "obrasocialperkins@hotmail.com"
+  },
+  "123701": {
+    "rnos": "123701",
+    "denominacion": "OBRA SOCIAL DE PEONES DE TAXIS DE LA CAPITAL FEDERAL",
+    "sigla": "OSPETAX",
+    "domicilio": "AVDA LA PLATA 1554/60/62/64",
+    "cp": "1250",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "sindicato taxis@speedy.com.ar",
+    "web": "www.ospetax.org.ar"
+  },
+  "123909": {
+    "rnos": "123909",
+    "denominacion": "OBRA SOCIAL DE VENDEDORES AMBULANTES DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSVARA",
+    "domicilio": "GALLO 443",
+    "cp": "1172",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "124001": {
+    "rnos": "124001",
+    "denominacion": "OBRA SOCIAL DE BOXEADORES AGREMIADOS DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSBARA",
+    "domicilio": "TALCAHUANO 109 PISO 6  D",
+    "cp": "1013",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "124506": {
+    "rnos": "124506",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES DE LA INDUSTRIA DEL GAS",
+    "sigla": "OSTIG",
+    "domicilio": "BOEDO 90",
+    "cp": "1206",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ostig@impsat 1.com.ar."
+  },
+  "125103": {
+    "rnos": "125103",
+    "denominacion": "OBRA SOCIAL DE LOS PROFESIONALES UNIVERSITARIOS DEL AGUA Y LA ENERGIA ELECTRICA",
+    "sigla": "OSPUAYE",
+    "domicilio": "RECONQUISTA 1048 PISO  2",
+    "cp": "1003",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospuaye@apuaye.org.ar"
+  },
+  "125301": {
+    "rnos": "125301",
+    "denominacion": "OBRA SOCIAL FEDERAL DE LA FEDERACION NACIONAL DE TRABAJADORES DE OBRAS SANITARIAS",
+    "sigla": "OSFFENTOS",
+    "domicilio": "PASCO 580 - PB",
+    "cp": "1219",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-555-1133",
+    "e_mail": "osffentos@fentos.org. ar.",
+    "web": "www.fentos.org.ar"
+  },
+  "125509": {
+    "rnos": "125509",
+    "denominacion": "OBRA SOCIAL DE LA FEDERACION ARGENTINA DEL TRABAJADOR  DE LAS UNIVERSIDADES NACIONALES",
+    "sigla": "OSFATUN",
+    "domicilio": "AV BELGRANO 3768 4TO. PISO",
+    "cp": "1210",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0-800-666--5173",
+    "e_mail": "info@osfatun.com.ar",
+    "web": "www.osfatun.com.ar"
+  },
+  "125707": {
+    "rnos": "125707",
+    "denominacion": "OBRA SOCIAL UNION PERSONAL DE LA UNION DEL  PERSONAL CIVIL DE LA NACION",
+    "sigla": "OSPCN",
+    "domicilio": "TUCUMAN 949",
+    "cp": "1049",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810-8888646",
+    "e_mail": "info@unionpersonal.com.ar",
+    "web": "www.unionpersonal.com.ar"
+  },
+  "125905": {
+    "rnos": "125905",
+    "denominacion": "OBRA SOCIAL DE ARBITROS DEPORTIVOS DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSADRA",
+    "domicilio": "VIAMONTE 1835",
+    "cp": "1056",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.osadra.org.ar"
+  },
+  "126007": {
+    "rnos": "126007",
+    "denominacion": "OBRA SOCIAL DE LA FEDERACION GREMIAL DEL PERSONAL DE  LA INDUSTRIA DE LA CARNE Y SUS DERIVADOS",
+    "domicilio": "HIPOLITO YRIGOYEN 746",
+    "cp": "1086",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-222-7938",
+    "web": "www.obrasocialdelacarne.org.ar"
+  },
+  "126106": {
+    "rnos": "126106",
+    "denominacion": "OBRA SOCIAL PARA LOS TRABAJADORES DE LA EDUCACION PRIVADA",
+    "sigla": "OSTEP",
+    "domicilio": "SALTA 534",
+    "cp": "1074",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ostep@infovia.com.ar",
+    "web": "www.ostepdigital.com"
+  },
+  "126205": {
+    "rnos": "126205",
+    "denominacion": "OBRA SOCIAL DE LOS EMPLEADOS DE COMERCIO Y ACTIVIDADES CIVILES",
+    "sigla": "OSECAC",
+    "domicilio": "MORENO 648/50",
+    "cp": "1091",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-666-0400",
+    "web": "www.osecac.org.ar"
+  },
+  "126304": {
+    "rnos": "126304",
+    "denominacion": "OBRA SOCIAL SERVICIOS SOCIALES BANCARIOS",
+    "sigla": "OSBA",
+    "domicilio": "25 DE MAYO 182",
+    "cp": "1002",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-555-6722",
+    "e_mail": "info@osba.com.ar"
+  },
+  "126502": {
+    "rnos": "126502",
+    "denominacion": "OBRA SOCIAL DE LA CONFEDERACION DE OBREROS Y EMPLEADOS MUNICIPALES  ARGENTINA ( OSCOEMA )",
+    "sigla": "OSCOEMA",
+    "domicilio": "MORENO 970 PISO 2 OFC 15",
+    "cp": "1091",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810-333-3057",
+    "e_mail": "oscoema@gmail.com"
+  },
+  "126601": {
+    "rnos": "126601",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE INDUSTRIAS  QUIMICAS Y PETROQUIMICAS DE ZARATE CAMPANA",
+    "sigla": "OPZC",
+    "domicilio": "DR FELIX PAGOLA 1712",
+    "cp": "2800",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "info@obrasocialquimicos.com.ar",
+    "web": "www.obrasocialquimicos.com.ar"
+  },
+  "126700": {
+    "rnos": "126700",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD AZUCARERA TUCUMANA",
+    "domicilio": "CONGRESO DE TUCUMAN  341",
+    "cp": "4000",
+    "provincia": "TUCUMAN"
+  },
+  "126809": {
+    "rnos": "126809",
+    "denominacion": "OBRA SOCIAL DE CONDUCTORES DE REMISES Y AUTOS AL INSTANTE Y AFINES",
+    "sigla": "OSCRAIA",
+    "domicilio": "CERRITO 228 - 1\u00ba \"B\"",
+    "cp": "1010",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "oscraia@live.com.ar"
+  },
+  "126908": {
+    "rnos": "126908",
+    "denominacion": "OBRA SOCIAL DE LOS MEDICOS DE LA CIUDAD DE BUENOS AIRES",
+    "sigla": "OSMEDICA",
+    "domicilio": "MARCELO T. DE ALVEAR 867/871",
+    "cp": "1058",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-5396",
+    "e_mail": "obrasocial@osmedica.com.ar",
+    "web": "www.osmedica.com.ar"
+  },
+  "127000": {
+    "rnos": "127000",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES DE ESTACIONES DE SERVICIO",
+    "sigla": "OSTES",
+    "domicilio": "BANDERA DE LOS ANDES 239",
+    "cp": "5521",
+    "provincia": "MENDOZA"
+  },
+  "127109": {
+    "rnos": "127109",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE TELECOMUNICACIONES SINDICATO BUENOS AIRES",
+    "sigla": "OSPETELCO",
+    "domicilio": "24 DE NOVIEMBRE 40",
+    "cp": "1015",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-6241",
+    "e_mail": "info@ospetelco.org",
+    "web": "www.ospetelco.org"
+  },
+  "127208": {
+    "rnos": "127208",
+    "denominacion": "OBRA SOCIAL DE MANDOS MEDIOS DE TELECOMUNICACIONES EN LA REPUBLICA ARGENTINA Y MERCOSUR",
+    "sigla": "OSMMEDT",
+    "domicilio": "URIARTE 1317",
+    "cp": "1414",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810 777 6767",
+    "e_mail": "info@osmmedt.com.ar",
+    "web": "www.osmmedt.org.ar"
+  },
+  "127307": {
+    "rnos": "127307",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES VIALES Y AFINES DE LA REPUBLICA ARGENTINA",
+    "domicilio": "MEXICO 1399",
+    "cp": "1097",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@vialsalud.com.ar",
+    "web": "www.vialsalud.com.ar"
+  },
+  "127406": {
+    "rnos": "127406",
+    "denominacion": "OBRA SOCIAL DE OBREROS Y EMPLEADOS TINTOREROS SOMBREREROS Y LAVADEROS DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSOETSYLARA",
+    "domicilio": "CULPINA 25/29",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.uoesylra.org"
+  },
+  "127505": {
+    "rnos": "127505",
+    "denominacion": "OBRA SOCIAL DE  LAS ASOCIACIONES DE EMPLEADOS DE FARMACIA",
+    "sigla": "OSADEF",
+    "domicilio": "RINCON 1035",
+    "cp": "1227",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-666-2333"
+  },
+  "127604": {
+    "rnos": "127604",
+    "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE OBRAS Y SERVICIOS SANITARIOS",
+    "sigla": "OSOSS",
+    "domicilio": "AVELLANEDA  212 PISO 3",
+    "cp": "1405",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-1702",
+    "e_mail": "presidencia@ososs.com.ar",
+    "web": "www.ososs.com.ar"
+  },
+  "200400": {
+    "rnos": "200400",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA EMPRESA NACIONAL DE CORREOS Y TELEGRAFOS S.A. Y DE LAS  COMUNICACIONES DE LA REPULICA ARGENTINA",
+    "sigla": "OSPEC",
+    "domicilio": "MAIPU 39",
+    "cp": "1084",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "gergral@sinectis.com.ar"
+  },
+  "600408": {
+    "rnos": "600408",
+    "denominacion": "ASOCIACION DE OBRAS SOCIALES DE COMODORO RIVADAVIA",
+    "domicilio": "HIPOLITO YRIGOYEN 387",
+    "cp": "9000",
+    "provincia": "CHUBUT",
+    "e_mail": "infoados@adoscomodoro.org.ar",
+    "web": "www.adoscomodoro.org.ar"
+  },
+  "602305": {
+    "rnos": "602305",
+    "denominacion": "ASOCIACION DE OBRAS SOCIALES DE ROSARIO",
+    "sigla": "ADOS ROSARIO",
+    "domicilio": "MITRE 1174",
+    "cp": "2000",
+    "provincia": "SANTA FE"
+  },
+  "603100": {
+    "rnos": "603100",
+    "denominacion": "ASOCIACION DE OBRAS SOCIALES DE TRELEW",
+    "domicilio": "28 DE JULIO 722",
+    "cp": "9100",
+    "provincia": "CHUBUT",
+    "e_mail": "adostrelew@hotmail.com"
+  },
+  "700108": {
+    "rnos": "700108",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL MUNICIPAL DE AVELLANEDA",
+    "domicilio": "LAPRIDA 70",
+    "cp": "1870",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "ospma@hotmail.com.ar"
+  },
+  "700801": {
+    "rnos": "700801",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL MUNICIPAL DE LA MATANZA",
+    "domicilio": "ALMAFUERTE 3160",
+    "cp": "1754",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "ospmlm@tutopia.com"
+  },
+  "701002": {
+    "rnos": "701002",
+    "denominacion": "OBRA SOCIAL PARA EL  PERSONAL MUNICIPAL DE TRES DE FEBRERO",
+    "domicilio": "AMADEO SABATINI 4661/5",
+    "cp": "1678",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "osppm3f@arnet.com.ar"
+  },
+  "3108": {
+    "rnos": "3108",
+    "denominacion": "OBRA SOCIAL DE LOS INMIGRANTES ESPA\u00d1OLES Y SUS DESCENDIENTES RESIDENTES EN LA REPUBLICA ARGENTINA",
+    "sigla": "OSPA\u00d1A",
+    "domicilio": "VENEZUELA 1162 PB",
+    "cp": "1095",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-0000",
+    "e_mail": "ricciardi@ospana.com.ar",
+    "web": "www.ospana.com.ar"
+  },
+  "3207": {
+    "rnos": "3207",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES SOCIOS DE LA ASOCIACION MUTUAL DEL PERSONAL JERARQUICO DE BANCOS OFICIALES NACIONALES-JERARQUICOS SALUD-",
+    "domicilio": "AV FACUNDO ZUVIRIA 4584",
+    "cp": "3000",
+    "provincia": "SANTA FE",
+    "telefono": "0800-555-4844",
+    "e_mail": "obrasocialpmo@jerarquicossalud.com.ar",
+    "web": "www.jerarquicos.com"
+  },
+  "3405": {
+    "rnos": "3405",
+    "denominacion": "OBRA SOCIAL ASOCIACION  MUTUAL DE LOS OBREROS CATOLICOS PADRE FEDERICO GROTE",
+    "sigla": "O.S.A.M.O.C",
+    "domicilio": "BILLINGHURST 1669",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810-555-6726",
+    "e_mail": "prestaciones@osamoc.ar"
+  },
+  "3603": {
+    "rnos": "3603",
+    "denominacion": "OBRA SOCIAL PROGRAMAS MEDICOS SOCIEDAD ARGENTINA DE CONSULTORIA MUTUAL",
+    "domicilio": "L.N.ALEM 239",
+    "cp": "1832",
+    "provincia": "BUENOS AIRES",
+    "web": "www.programasmedicos.com.ar"
+  },
+  "3702": {
+    "rnos": "3702",
+    "denominacion": "OBRA SOCIAL  YACIMIENTOS CARBONIFEROS",
+    "sigla": "OSYC",
+    "domicilio": "24 DE NOVIEMBRE 1126",
+    "cp": "1224",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "RES. 626/12 -12/7/12-SE RECTIFICA ART.1-DENOMINAC"
+  },
+  "3801": {
+    "rnos": "3801",
+    "denominacion": "OBRA SOCIAL  WITCEL",
+    "domicilio": "AVDA CALLAO 625 PISO 3",
+    "cp": "1022",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "127703": {
+    "rnos": "127703",
+    "denominacion": "OBRA SOCIAL PERSONAL ESTACIONES DE SERVICIO,GARAGES,PLAYAS Y LAVADEROS DE LA PROVINCIA DEL CHACO",
+    "sigla": "OSPESCHA",
+    "domicilio": "JULIO A. ROCA 755",
+    "cp": "3500",
+    "provincia": "CHACO",
+    "e_mail": "soesgypechaco@gigared.com"
+  },
+  "127802": {
+    "rnos": "127802",
+    "denominacion": "OBRA SOCIAL DE LUZ Y FUERZA DE LA PATAGONIA",
+    "sigla": "OSLYF PATAGONIA",
+    "domicilio": "BALDOMERO CARRASCO N\u00ba 60",
+    "cp": "9100",
+    "provincia": "CHUBUT",
+    "telefono": "0800-666-4363",
+    "e_mail": "info@generarsalud.com.ar",
+    "web": "www.generarsalud.com.ar"
+  },
+  "127901": {
+    "rnos": "127901",
+    "denominacion": "OBRA SOCIAL DE PETROLEROS PRIVADOS",
+    "sigla": "OS.PE.PRI",
+    "domicilio": "SANTA CRUZ 275",
+    "cp": "8300",
+    "provincia": "NEUQUEN",
+    "telefono": "0800-333-8448",
+    "e_mail": "mildepetroleo@speedy.com.ar",
+    "web": "www.ospepri.org.ar"
+  },
+  "128003": {
+    "rnos": "128003",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA FEDERACION DE SINDICATOS DE LA INDUSTRIA QUIMICA Y PETROQUIMICA",
+    "domicilio": "PAVON 3708",
+    "cp": "1253",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "festiqypra tesoreria@live.com.ar",
+    "web": "www.festiqypra.org.ar"
+  },
+  "128102": {
+    "rnos": "128102",
+    "denominacion": "OBRA SOCIAL DE LA UNION DE TRABAJADORES DEL INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSUTI",
+    "domicilio": "ESMERALDA 25",
+    "cp": "1035",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-666-7884"
+  },
+  "128201": {
+    "rnos": "128201",
+    "denominacion": "OBRA SOCIAL DEL SINDICATO UNICO DE RECOLECTORES DE RESIDUOS Y BARRIDO DE CORDOBA",
+    "sigla": "O.S.S.U.R.R.B.A.C",
+    "domicilio": "LIMA 342",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "surrbacinstitucional@gmail.com"
+  },
+  "128300": {
+    "rnos": "128300",
+    "denominacion": "OBRA SOCIAL PEONES DE TAXIS DE ROSARIO",
+    "sigla": "O.S.PE.TAX.R",
+    "domicilio": "SALTA 2882",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "web": "w.w.w.sptrosario.com.ar"
+  },
+  "128409": {
+    "rnos": "128409",
+    "denominacion": "OBRA SOCIAL DEL SINDICATO OBREROS Y EMPLEADOS DE EMPRESAS DE LIMPIEZA,SERVICIOS Y AFINES DE CORDOBA",
+    "sigla": "OSSOELSAC",
+    "domicilio": "ENTRE RIOS 372",
+    "cp": "5000",
+    "provincia": "CORDOBA"
+  },
+  "128508": {
+    "rnos": "128508",
+    "denominacion": "OBRA SOCIAL DE FARMACEUTICOS Y BIOQUIMICOS",
+    "sigla": "OSFYB",
+    "domicilio": "AGUERO 1595 PISO 13",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.safyb.org.ar"
+  },
+  "128607": {
+    "rnos": "128607",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES DEL PETROLEO Y GAS PRIVADO DEL CHUBUT",
+    "domicilio": "AVDA ALSINA 728 PISO 3",
+    "cp": "9000",
+    "provincia": "CHUBUT"
+  },
+  "128706": {
+    "rnos": "128706",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DRAGADO Y BALIZAMIENTO",
+    "sigla": "OSPEDYB",
+    "domicilio": "CALLE PIEDRAS 1693/95",
+    "cp": "1140",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ospedyb@gmail.com"
+  },
+  "128805": {
+    "rnos": "128805",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL ADUANERO DE LA REPUBLICA ARGENTINA",
+    "sigla": "OSPAD",
+    "domicilio": "PERU 625",
+    "cp": "1068",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info.ospad@gmail.com",
+    "web": "se recibe notificaci\u00f3nes en TACUARI 560 5/7/19"
+  },
+  "128904": {
+    "rnos": "128904",
+    "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES ARGENTINOS DE CENTROS DE CONTACTOS",
+    "sigla": "O.S.T.A.C.C,",
+    "domicilio": "ROSARIO DE SANTA FE 414",
+    "cp": "0",
+    "provincia": "NO IDENTIFICADA"
+  },
+  "300704": {
+    "rnos": "300704",
+    "denominacion": "OBRA SOCIAL CERAS JOHNSON",
+    "sigla": "JOHNSON",
+    "domicilio": "URUGUAY 7286",
+    "cp": "1609",
+    "provincia": "BUENOS AIRES"
+  },
+  "302106": {
+    "rnos": "302106",
+    "denominacion": "OBRA SOCIAL PARA DIRECTIVOS, TECNICOS Y EMPLEADOS DE JOHN DEERE ARGENTINA",
+    "sigla": "DITEM",
+    "domicilio": "JUAN ORSETTI 481",
+    "cp": "2152",
+    "provincia": "SANTA FE",
+    "e_mail": "bue@aguilar-sulfacid.com"
+  },
+  "302304": {
+    "rnos": "302304",
+    "denominacion": "OBRA SOCIAL COMPANIA MINERA AGUILAR S.A",
+    "domicilio": "AVDA BELGRANO 485 PISO 1 OFC 3",
+    "cp": "1092",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "bue@aguilar-arzinc.com",
+    "web": "HOSPITAL EL AGUILAR DTO HUMAHUACA 4634 JUJUY"
+  },
+  "302601": {
+    "rnos": "302601",
+    "denominacion": "OBRA SOCIAL COOPERATIVA DE ASISTENCIA MUTUA Y TURISMO DEL PERSONAL DE LAS SOCIEDADES PIRELLI LTDA.",
+    "sigla": "COMPIR",
+    "domicilio": "LAFUENTE 69 PISO 5 C",
+    "cp": "1406",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "compir@speedy.com.ar",
+    "web": "www.compir.com.ar"
+  },
+  "302809": {
+    "rnos": "302809",
+    "denominacion": "OBRA SOCIAL REFINERIAS DE MAIZ S.A.I.C.F.",
+    "sigla": "OSRM",
+    "domicilio": "CORDOBA 1345 PISO 15 DEPTO \"B\"",
+    "cp": "1055",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "303307": {
+    "rnos": "303307",
+    "denominacion": "OBRA SOCIAL CABOT ARGENTINA",
+    "domicilio": "AVDA. ROCA 189",
+    "cp": "2804",
+    "provincia": "BUENOS AIRES"
+  },
+  "303406": {
+    "rnos": "303406",
+    "denominacion": "OBRA SOCIAL DE SHELL ARGENTINA",
+    "domicilio": "AVDA. PTE. ROQUE SAENZ PE\u00a5A 788",
+    "cp": "1383",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "silvia_grucci@scapsa.shell.com"
+  },
+  "303703": {
+    "rnos": "303703",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE PBBPOLISUR  SA  DE  BAHIA BLANCA",
+    "domicilio": "LAS HERAS 95",
+    "cp": "8000",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "info@ospbb.com.ar"
+  },
+  "303901": {
+    "rnos": "303901",
+    "denominacion": "OBRA SOCIAL DE FORD AGENTINA S.C.A",
+    "domicilio": "AVDA DE MAYO 651",
+    "cp": "1084",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "03327-42-9328"
+  },
+  "304003": {
+    "rnos": "304003",
+    "denominacion": "OBRA SOCIAL DE VOLKSWAGEN ARGENTINA S.A.",
+    "domicilio": "MAIPU 267  PISO 11",
+    "cp": "1084",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "400206": {
+    "rnos": "400206",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA AUTOMOTRIZ ARGENTINA",
+    "sigla": "OSPREME",
+    "domicilio": "ARRIBE\u00d1OS 3619 PISO 9",
+    "cp": "1429",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-7384",
+    "e_mail": "administraci\u00f2n@ospreme.com.ar"
+  },
+  "400305": {
+    "rnos": "400305",
+    "denominacion": "OBRA SOCIAL COOPERATIVA LTDA.  DE ASISTENCIA MEDICA Y FARMACEUTICA, SERVICIOS ASISTENCIALES Y TURISMO DEL PERSONAL SUPERIOR DE LA INDUSTRIA DEL CAUCHO Y OTRAS ACTIVIDADES INDUSTRIALES",
+    "sigla": "CAMPSIC",
+    "domicilio": "DR. EMILIO RAVIGNANI 2540",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@oscampsic.com",
+    "web": "www.campsic.com"
+  },
+  "400404": {
+    "rnos": "400404",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA CERVECERA Y MALTERA",
+    "sigla": "SERVESALUD",
+    "domicilio": "RODRIGUEZ PE\u00d1A 1474",
+    "cp": "1021",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-362-7398",
+    "e_mail": "sedece@servesalud.com.ar",
+    "web": "www.servesalud.com.ar"
+  },
+  "400503": {
+    "rnos": "400503",
+    "denominacion": "OBRA SOCIAL DE LA ASOCIACION DEL PERSONAL DE DIRECCION Y JERARQUICO DE LA INDUSTRIA DEL CIGARRILLO",
+    "sigla": "APDJIC",
+    "domicilio": "LAVALLE N\u00a7 445 PISO 4\u00a7",
+    "cp": "1047",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "apdjic@ba.net"
+  },
+  "400602": {
+    "rnos": "400602",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DIRECTIVO DE LA INDUSTRIA DE LA CONSTRUCCION",
+    "sigla": "OSDIC",
+    "domicilio": "BILLINGHURST 1662 PISO 2",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "400800": {
+    "rnos": "400800",
+    "denominacion": "OBRA SOCIAL DE EJECUTIVOS Y DEL PERSONAL DE DIRECCION DE EMPRESAS",
+    "sigla": "OSDE",
+    "domicilio": "AVDA. LEANDRO N. ALEM 1067 PISO 9",
+    "cp": "1001",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-555-6733",
+    "e_mail": "gerencia@osde.com.ar",
+    "web": "www.osde.com.ar"
+  },
+  "400909": {
+    "rnos": "400909",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION  ACCION SOCIAL DE EMPRESARIOS (A:S:E.)",
+    "sigla": "ASE",
+    "domicilio": "LIMA 87 PISO 8",
+    "cp": "1073",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0810-333-3273",
+    "e_mail": "ase@ase.com.ar",
+    "web": "www.ase.com.ar"
+  },
+  "401209": {
+    "rnos": "401209",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA METALURGICA  Y DEMAS ACTIVIDADES EMPRESARIAS",
+    "sigla": "OSIM",
+    "domicilio": "MONTEVIDEO 373 PISO 4\u00ba",
+    "cp": "1019",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "4-0106746",
+    "e_mail": "osim@osim.com.ar",
+    "web": "www.osim.com.ar"
+  },
+  "401605": {
+    "rnos": "401605",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA PRIVADA DEL PETROLEO",
+    "sigla": "OSDIPP",
+    "domicilio": "25 DE MAYO 537/553/555 1ER. SUBSUELO",
+    "cp": "1002",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "gerencia.general@osdipp.com.ar",
+    "web": "www.osdipp.com.ar"
+  },
+  "401704": {
+    "rnos": "401704",
+    "denominacion": "OBRA SOCIAL  DE EMPRESARIOS, PROFESIONALES Y MONOTRIBUTISTAS",
+    "sigla": "OSDEPYM",
+    "domicilio": "RECONQUISTA 458 PISO 2",
+    "cp": "1003",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@osdepym.com.ar",
+    "web": "www.osdepym.com.ar"
+  },
+  "402004": {
+    "rnos": "402004",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE SANIDAD LUIS PASTEUR",
+    "sigla": "OSLPASTEUR",
+    "domicilio": "CALLAO 764/66",
+    "cp": "1023",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@oslpasteur.com.ar",
+    "web": "www.oslpasteur.com.ar"
+  },
+  "402103": {
+    "rnos": "402103",
+    "denominacion": "OBRA SOCIAL ASOCIACION DEL PERSONAL DE DIRECCION DE LA INDUSTRIA SIDERURGICA",
+    "sigla": "APDIS",
+    "domicilio": "GORRITI 6046 - 5\u00b0 PISO - OF 506/507/508",
+    "cp": "1414",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@apdis.com.ar",
+    "web": "www.apdis.com.ar"
+  },
+  "402301": {
+    "rnos": "402301",
+    "denominacion": "OBRA SOCIAL ASOCIACION DEL PERSONAL SUPERIOR DE LA ORGANIZACION TECHINT",
+    "sigla": "APSOT",
+    "domicilio": "CORDOBA 320 PISO 2",
+    "cp": "1054",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-122-8778",
+    "e_mail": "apsot.consultas@apsot.com",
+    "web": "www.apsot.com"
+  },
+  "402400": {
+    "rnos": "402400",
+    "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE DIRECCION DE LA INDUSTRIA VITIVINICOLA Y AFINES",
+    "sigla": "OSEDEIV",
+    "domicilio": "AV. CASEROS 3563 1\u00ba PISO",
+    "cp": "1263",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "osedeiv@osedeiv.com.ar",
+    "web": "www.osedeiv.com.ar"
+  },
+  "402509": {
+    "rnos": "402509",
+    "denominacion": "OBRA SOCIAL YPF",
+    "sigla": "OSYPF",
+    "domicilio": "MACACHA GUEMES 515 1\u00ba P",
+    "cp": "1041",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "evitiellor@ypf.com",
+    "web": "www.osypf.com"
+  },
+  "402608": {
+    "rnos": "402608",
+    "denominacion": "OBRA SOCIAL ASOCIACION DE SERVICIOS SOCIALES PARA EMPRESARIOS Y PERSONAL DE DIRECCION DE EMPRESAS DEL COMERCIO, SERVICIOS, PRODUCCION, INDUSTRIA Y CIVIL (ASSPE )",
+    "sigla": "ASSPE",
+    "domicilio": "JUAN DOMINGO PERON 1606",
+    "cp": "1037",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-345-7332",
+    "e_mail": "info@asspefideicomiso.com.ar",
+    "web": "www.asspe.com.ar"
+  },
+  "402707": {
+    "rnos": "402707",
+    "denominacion": "OBRA SOCIAL DE DIRECCION OSDO",
+    "domicilio": "AVDA. LUIS MARUA CAMPOS 46 PISO 8",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-5556736",
+    "e_mail": "inf@osdo.com.ar",
+    "web": "WWW.OSDO.COM.AR"
+  },
+  "402806": {
+    "rnos": "402806",
+    "denominacion": "OBRA SOCIAL DE DIRECCION DE LA ACTIVIDAD AEROCOMERCIAL  PRIVADA",
+    "domicilio": "VENEZUELA 900",
+    "cp": "1095",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-222-0034",
+    "e_mail": "atencionalbeneficiario@osdaap.com.ar",
+    "web": "www.osdaap.com.ar"
+  },
+  "601104": {
+    "rnos": "601104",
+    "denominacion": "ASOCIACION GUALEGUAYCHU DE OBRAS SOCIALES",
+    "domicilio": "OLEGARIO V. ANDRADE 1057",
+    "cp": "2820",
+    "provincia": "ENTRE RIOS",
+    "telefono": "03446-4-24133",
+    "e_mail": "sanatagos@yahoo.com.ar",
+    "web": "REVERTIDA LA SITUACION DE CRISIS RES1810/13 3/5/13"
+  },
+  "601203": {
+    "rnos": "601203",
+    "denominacion": "ASOCIACION DE OBRAS SOCIALES DE GUALEGUAY",
+    "domicilio": "25 DE MAYO 530/38",
+    "cp": "2840",
+    "provincia": "ENTRE RIOS",
+    "e_mail": "adosgualeguay@arnet.com.ar"
+  },
+  "800105": {
+    "rnos": "800105",
+    "denominacion": "OBRA SOCIAL ATANOR S.A",
+    "domicilio": "ALBARELLO 4914",
+    "cp": "1605",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "btapia@atanorsa.com.ar"
+  },
+  "900102": {
+    "rnos": "900102",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE EMPRESAS FIAT Y EMPRESAS PEUGEOT CITROEN ARGENTINA",
+    "sigla": "OSPEF Y EPCA",
+    "domicilio": "AV. LEANDRO N. ALEN 530 PISO 11",
+    "cp": "1001",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "NO POSEE",
+    "e_mail": "obrasocial@osfp.com.ar",
+    "web": "no posee"
+  },
+  "3306": {
+    "rnos": "3306",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES VENDEDORES DE DIARIOS REVISTAS Y AFINES",
+    "sigla": "OSTVENDRA",
+    "domicilio": "VENEZUELA 2365",
+    "cp": "1096",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "3504": {
+    "rnos": "3504",
+    "denominacion": "OBRA SOCIAL DE CONDUCTORES TITULARES DE TAXIS DE LA CIUDAD AUTONOMA DE BUENOS AIRES",
+    "sigla": "O.S.TAX.B.A",
+    "domicilio": "FRAGATA PRESIDENTE SARMIENTO 661",
+    "cp": "1416",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "303109": {
+    "rnos": "303109",
+    "denominacion": "OBRA SOCIAL SUPERCO",
+    "domicilio": "CERRITO 1070 PISO 5 OF 95",
+    "cp": "1010",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "ossuperco@speedy.com.ar"
+  },
+  "400107": {
+    "rnos": "400107",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LAS EMPRESAS DE LA ALIMENTACION Y DEMAS ACTIVIDADES EMPRESARIAS",
+    "sigla": "OPDEA",
+    "domicilio": "BERNANDO DE IRIGOYEN 540 PISO 2#",
+    "cp": "1072",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-999-6733",
+    "e_mail": "info@opdea.org.ar",
+    "web": "www.opdea.org"
+  },
+  "400701": {
+    "rnos": "400701",
+    "denominacion": "OBRA SOCIAL CAMARA DE LA INDUSTRIA CURTIDORA ARGENTINA",
+    "sigla": "OSCICA",
+    "domicilio": "AVDA. BELGRANO 3978",
+    "cp": "1210",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "401001": {
+    "rnos": "401001",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LAS EMPRESAS QUE ACTUAN EN FRUTOS DEL PAIS",
+    "sigla": "FRUTOS",
+    "domicilio": "BALCARCE 880  PISO 1\u00a7",
+    "cp": "1064",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "frutosdelpais@sion.com"
+  },
+  "401308": {
+    "rnos": "401308",
+    "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE DIRECCION DE LA INDUSTRIA MADERERA",
+    "sigla": "OSMAD",
+    "domicilio": "AVDA BELGRANO 748 PISO 10 OF. 103",
+    "cp": "1092",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "www.osmad.org.ar"
+  },
+  "401803": {
+    "rnos": "401803",
+    "denominacion": "OBRA SOCIAL ASOCIACION MUTUAL DEL PERSONAL DE PHILIPS ARGENTINA (AMPAR)",
+    "sigla": "AMPAR",
+    "domicilio": "VEDIA 3892",
+    "cp": "1430",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "obrasocial.ampar@philips.com",
+    "web": "www.ampar.org"
+  },
+  "401902": {
+    "rnos": "401902",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE PERFUMERIA E.W. HOPE",
+    "sigla": "WHOPE",
+    "domicilio": "AVDA. CORDOBA 1345 PISO 5",
+    "cp": "1055",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-333-34673",
+    "e_mail": "obrasocial@whope.com.ar",
+    "web": "www.whope.com.ar"
+  },
+  "402202": {
+    "rnos": "402202",
+    "denominacion": "OBRA SOCIAL MUTUALIDAD INDUSTRIAL TEXTIL ARGENTINA",
+    "sigla": "OSMITA",
+    "domicilio": "PARAGUAY 610 PISO 6",
+    "cp": "1057",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-888-6482",
+    "e_mail": "info@osmita.com.ar",
+    "web": "www.osmita.com.ar"
+  },
+  "800501": {
+    "rnos": "800501",
+    "denominacion": "OBRA SOCIAL ACEROS PARANA",
+    "domicilio": "AVDA. MORENO 187",
+    "cp": "2900",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "info@osap.org.ar",
+    "web": "www.osap.org.ar"
+  },
+  "500807": {
+    "rnos": "500807",
+    "denominacion": "INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS",
+    "domicilio": "PERU 169 PISO 10 ( VER OBSERVACIONES )",
+    "cp": "1069",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "Cualquier actividad"
+  }
+}

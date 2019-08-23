@@ -28,7 +28,9 @@ class ObrasSocialesSISA:
     params = {}
     user_agent = ''
     
-    base_folder = dir_path = os.path.dirname(os.path.realpath(__file__))
+    here = os.path.dirname(os.path.realpath(__file__))
+    base_folder = os.path.join(here, 'data')
+    
     local_csv = os.path.join(base_folder, 'sisa.csv')
     local_json = os.path.join(base_folder, 'sisa.json')
     local_json_object = {}
