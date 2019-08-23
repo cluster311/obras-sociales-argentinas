@@ -1,11 +1,13 @@
 import setuptools
 
+print(setuptools.find_packages())
+
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
      name='oss_ar',
-     version='0.114',
+     version='0.125',
      license='MIT',
      author="Andres Vazquez",
      author_email="andres@data99.com.ar",
@@ -17,8 +19,8 @@ setuptools.setup(
         'requests>2',
      ],
      include_package_data=True,  # for CSV y JSON files
-     # package_dir={'': 'src'},
-     packages=setuptools.find_packages(),
+     packages=['oss_ar'],  # setuptools.find_packages(),
+     
      classifiers=[
          'Programming Language :: Python :: 3',
          'Programming Language :: Python :: 3.6',

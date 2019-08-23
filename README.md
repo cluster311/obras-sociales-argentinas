@@ -1,3 +1,9 @@
+# Instalacion
+
+```
+pip install oss_ar
+```
+
 # Obras sociales argentinas
 Lista de las obras sociales argentinas
 
@@ -110,7 +116,7 @@ X provincia: {'TUCUMAN': 3, 'BUENOS AIRES': 18, 'CAPITAL FEDERAL': 155, 'MENDOZA
 
 ## Descarga automatizada
 
-Desde SSSalud: Hacer un post a https://www.sssalud.gob.ar/ con los parámetros:  
+Desde SSSalud: Hacer un post a https://www.sssalud.gob.ar/descargas/dump.php con los parámetros:  
 `{'obj': 'listRnosc', 'tipo': 7}`
 
 Desde SISA se requiere un scpae un poco más complejo.  
