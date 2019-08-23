@@ -16,14 +16,26 @@ class ObrasSocialesSSS:
     params = {'obj': 'listRnosc', 'tipo': 7}
     user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
     
+    base_folder = dir_path = os.path.dirname(os.path.realpath(__file__))
     # they use XLS extension but it's a TSV file
-    local_excel = 'sss.tsv'  # Path
-    local_json = 'sss.json'  # path
-    local_json_object = None
+    local_excel = os.path.join(base_folder, 'sss.tsv')
+    local_json = os.path.join(base_folder, 'sss.json')
+    local_json_object = {}
     # requests records
     raw_response = None
     status_response = None
     errors = []
+
+    processed = False  # ready to use
+
+    def get_oss(self, rnos):
+        if not self.processed:
+            ret = self.download_database()
+            if not ret:
+                return None
+            ret = self.process_database()
+
+            return self.local_json_object.get(rnos, {})
 
     def download_database(self, force_download=False):
         """ Download and save database. Return True if OK or None if fails 
@@ -115,9 +127,14 @@ class ObrasSocialesSSS:
             row['sigla'] = row['sigla'].strip()
             row['domicilio'] = row['domicilio'].strip()
 
+            new_row = {}
+            for k, v in row.items():
+                if v not in [None, '']:  # valor feo como nulo
+                    new_row[k] = v
+
             if rnos not in real_rows:
                 if rnos != 'rnos':
-                    real_rows[rnos] = row
+                    real_rows[rnos] = new_row
             else:
                 # DUPLICATED ERROR!
                 self.errors.append(f'Duplicated RNOS: {rnos}')
@@ -128,6 +145,7 @@ class ObrasSocialesSSS:
         f2.close
 
         self.local_json_object = real_rows
+        self.processed = True
         return real_rows
     
     def count_by_province(self):
@@ -141,13 +159,3 @@ class ObrasSocialesSSS:
             ret[provincia] += 1
 
         return ret
-        
-
-if __name__ == '__main__':
-    s = ObrasSocialesSSS()
-    s.download_database()
-    rows = s.process_database()
-    print('Obras sociales encontradas: {}'.format(len(rows.keys())))
-    print('Errors: {}'.format(s.errors))
-    ret = s.count_by_province()
-    print('X provincia: {}'.format(ret))

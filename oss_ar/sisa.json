@@ -7,23 +7,16 @@
     "Provincia": "Ministerio de Salud de la Naci\u00f3n",
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "PFIS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "null": {
     "C\u00f3digo": "996001",
-    "RNOS": "null",
     "Nombre": "PLAN NACER/PROGRAMA SUMAR",
     "Tipo de cobertura": "Plan o seguro p\u00fablico",
     "Provincia": "Ministerio de Salud de la Naci\u00f3n",
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "SUMAR",
-    "Domicilio": "AV. 9 DE JULIO 1925 PISO 12\u00b0",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "AV. 9 DE JULIO 1925 PISO 12\u00b0"
   },
   "924001": {
     "C\u00f3digo": "924001",
@@ -31,12 +24,8 @@
     "Nombre": "O.S.P. TIERRA DEL FUEGO(IPAUSS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Tierra del Fuego",
-    "Localidad": "null",
     "Sigla": "IPAUSS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "923001": {
     "C\u00f3digo": "923001",
@@ -44,12 +33,8 @@
     "Nombre": "O.S.P. SANTA CRUZ (CSS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Cruz",
-    "Localidad": "null",
     "Sigla": "CSS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "922001": {
     "C\u00f3digo": "922001",
@@ -57,12 +42,8 @@
     "Nombre": "O.S.P. RIO NEGRO (IPROSS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "R\u00edo Negro",
-    "Localidad": "null",
     "Sigla": "IPROSS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "921001": {
     "C\u00f3digo": "921001",
@@ -70,12 +51,8 @@
     "Nombre": "O.S.P. NEUQUEN (ISSN)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Neuqu\u00e9n",
-    "Localidad": "null",
     "Sigla": "ISSN",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "920001": {
     "C\u00f3digo": "920001",
@@ -83,12 +60,8 @@
     "Nombre": "O.S.P. MISIONES (IPS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Misiones",
-    "Localidad": "null",
     "Sigla": "IPS MISIONES",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "919001": {
     "C\u00f3digo": "919001",
@@ -96,12 +69,8 @@
     "Nombre": "O.S.P. LA PAMPA (SEMPRE)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "La Pampa",
-    "Localidad": "null",
     "Sigla": "SEMPRE",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "918002": {
     "C\u00f3digo": "918002",
@@ -109,12 +78,8 @@
     "Nombre": "O.S.P. FORMOSA (AMP)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Formosa",
-    "Localidad": "null",
     "Sigla": "AMP",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "918001": {
     "C\u00f3digo": "918001",
@@ -122,12 +87,8 @@
     "Nombre": "O.S.P. FORMOSA (IMPF)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Formosa",
-    "Localidad": "null",
     "Sigla": "IMPF",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "917001": {
     "C\u00f3digo": "917001",
@@ -135,12 +96,8 @@
     "Nombre": "O.S.P. CHUBUT (SEROS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Chubut",
-    "Localidad": "null",
     "Sigla": "SEROS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "916001": {
     "C\u00f3digo": "916001",
@@ -148,12 +105,8 @@
     "Nombre": "O.S.P. CHACO (INSSSEP)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Chaco",
-    "Localidad": "null",
     "Sigla": "INSSSEP",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "915001": {
     "C\u00f3digo": "915001",
@@ -161,12 +114,8 @@
     "Nombre": "O.S.P. TUCUMAN (IPSST)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Tucum\u00e1n",
-    "Localidad": "null",
     "Sigla": "IPSST",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "914001": {
     "C\u00f3digo": "914001",
@@ -174,12 +123,8 @@
     "Nombre": "O.S.P. SANTIAGO DEL ESTERO (IOSEP)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santiago del Estero",
-    "Localidad": "null",
     "Sigla": "IOSEP",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "913001": {
     "C\u00f3digo": "913001",
@@ -187,12 +132,8 @@
     "Nombre": "O.S.P. SANTA FE (IAPOS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
-    "Localidad": "null",
     "Sigla": "IAPOS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "912001": {
     "C\u00f3digo": "912001",
@@ -200,12 +141,8 @@
     "Nombre": "O.S.P. SAN LUIS (DOSEP)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "San Luis",
-    "Localidad": "null",
     "Sigla": "DOSEP",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "911001": {
     "C\u00f3digo": "911001",
@@ -213,12 +150,8 @@
     "Nombre": "O.S.P. SAN JUAN (DOS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "San Juan",
-    "Localidad": "null",
     "Sigla": "DOS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "910001": {
     "C\u00f3digo": "910001",
@@ -226,12 +159,8 @@
     "Nombre": "O.S.P. SALTA (IPS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Salta",
-    "Localidad": "null",
     "Sigla": "IPS SALTA",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "909001": {
     "C\u00f3digo": "909001",
@@ -239,12 +168,8 @@
     "Nombre": "O.S.P. MENDOZA (OSEP)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Mendoza",
-    "Localidad": "null",
     "Sigla": "OSEP",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "908001": {
     "C\u00f3digo": "908001",
@@ -252,12 +177,8 @@
     "Nombre": "O.S.P. LA RIOJA (APOS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "La Rioja",
-    "Localidad": "null",
     "Sigla": "APOS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "907001": {
     "C\u00f3digo": "907001",
@@ -265,12 +186,8 @@
     "Nombre": "O.S.P. JUJUY (ISJ)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Jujuy",
-    "Localidad": "null",
     "Sigla": "ISJ",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "906001": {
     "C\u00f3digo": "906001",
@@ -278,12 +195,8 @@
     "Nombre": "O.S.P. ENTRE RIOS (IOSPER)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Entre R\u00edos",
-    "Localidad": "null",
     "Sigla": "IOSPER",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "905001": {
     "C\u00f3digo": "905001",
@@ -291,12 +204,8 @@
     "Nombre": "O.S.P. CORRIENTES (IOSCOR)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Corrientes",
-    "Localidad": "null",
     "Sigla": "IOSCOR",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "904001": {
     "C\u00f3digo": "904001",
@@ -304,12 +213,8 @@
     "Nombre": "O.S.P. CORDOBA (APROSS)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "C\u00f3rdoba",
-    "Localidad": "null",
     "Sigla": "APROSS",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "903001": {
     "C\u00f3digo": "903001",
@@ -317,12 +222,8 @@
     "Nombre": "O.S.P. CATAMARCA (OSEP)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Catamarca",
-    "Localidad": "null",
     "Sigla": "OSEP",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "902001": {
     "C\u00f3digo": "902001",
@@ -330,12 +231,8 @@
     "Nombre": "O.S.P. BUENOS AIRES (IOMA)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
-    "Localidad": "null",
     "Sigla": "IOMA",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "901001": {
     "C\u00f3digo": "901001",
@@ -343,12 +240,8 @@
     "Nombre": "O.S.P. CIUDAD AUT. DE BUENOS AIRES (ObSBA)",
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
-    "Localidad": "null",
     "Sigla": "ObSBA",
-    "Domicilio": "Sin especificar",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Domicilio": "Sin especificar"
   },
   "900102": {
     "C\u00f3digo": "900102",
@@ -370,7 +263,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "SAN NICOLAS DE LOS ARROYOS",
-    "Sigla": "null",
     "Domicilio": "AVDA. MORENO 187",
     "Tel\u00e9fono 1": "03461-425632",
     "Tel\u00e9fono 2": "03461-43-7600",
@@ -383,11 +275,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Misiones",
     "Localidad": "CAPIOVI",
-    "Sigla": "null",
     "Domicilio": "PUERTO MINERAL - KM 1457 CAPIOVI",
     "Tel\u00e9fono 1": "03743-493444",
-    "Tel\u00e9fono 2": "03743-493237",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "03743-493237"
   },
   "800105": {
     "C\u00f3digo": "800105",
@@ -396,7 +286,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "MUNRO",
-    "Sigla": "null",
     "Domicilio": "ALBARELLO 4914",
     "Tel\u00e9fono 1": "4-721-3442",
     "Tel\u00e9fono 2": "4-721-3440",
@@ -409,10 +298,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "CASEROS",
-    "Sigla": "null",
     "Domicilio": "AMADEO SABATINI 4661/5",
     "Tel\u00e9fono 1": "4734-7550",
-    "Tel\u00e9fono 2": "null",
     "Mail": "osppm3f@arnet.com.ar"
   },
   "700801": {
@@ -422,7 +309,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "SAN JUSTO",
-    "Sigla": "null",
     "Domicilio": "ALMAFUERTE 3160",
     "Tel\u00e9fono 1": "4651-4441",
     "Tel\u00e9fono 2": "4651-3347",
@@ -435,7 +321,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "AVELLANEDA (AVELLANEDA)",
-    "Sigla": "null",
     "Domicilio": "LAPRIDA 70",
     "Tel\u00e9fono 1": "4222-3965",
     "Tel\u00e9fono 2": "4222-6178",
@@ -448,11 +333,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Chubut",
     "Localidad": "TRELEW",
-    "Sigla": "null",
     "Domicilio": "CALLE SARMIENTO 426",
-    "Tel\u00e9fono 1": "02965-4-24583",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "02965-4-24583"
   },
   "602602": {
     "C\u00f3digo": "602602",
@@ -461,11 +343,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "SAN JORGE",
-    "Sigla": "null",
     "Domicilio": "EVA PERON 1301",
     "Tel\u00e9fono 1": "03406-440604",
-    "Tel\u00e9fono 2": "03406-440873",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "03406-440873"
   },
   "602404": {
     "C\u00f3digo": "602404",
@@ -474,11 +354,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "RUFINO",
-    "Sigla": "null",
     "Domicilio": "GALAN 100",
-    "Tel\u00e9fono 1": "03382-429203",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "03382-429203"
   },
   "602305": {
     "C\u00f3digo": "602305",
@@ -489,9 +366,7 @@
     "Localidad": "ROSARIO",
     "Sigla": "ADOS ROSARIO",
     "Domicilio": "SAN LUIS 1554 PISO 2 LOCAL 19",
-    "Tel\u00e9fono 1": "0341-4117765",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "0341-4117765"
   },
   "601302": {
     "C\u00f3digo": "601302",
@@ -503,7 +378,6 @@
     "Sigla": "ADOS MAR DEL PLATA",
     "Domicilio": "25 DE MAYO 3139",
     "Tel\u00e9fono 1": "0223-494-8490",
-    "Tel\u00e9fono 2": "null",
     "Mail": "adosmardelplata@hotmail.com"
   },
   "601203": {
@@ -513,11 +387,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Entre R\u00edos",
     "Localidad": "GUALEGUAYCHU",
-    "Sigla": "null",
     "Domicilio": "25 DE MAYO 530/38",
     "Tel\u00e9fono 1": "03444-425070",
-    "Tel\u00e9fono 2": "03444-424006",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "03444-424006"
   },
   "601104": {
     "C\u00f3digo": "601104",
@@ -526,11 +398,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Entre R\u00edos",
     "Localidad": "GUALEGUAYCHU",
-    "Sigla": "null",
     "Domicilio": "OLEGARIO V. ANDRADE 1057",
     "Tel\u00e9fono 1": "03446-4-21370",
-    "Tel\u00e9fono 2": "03446-4-32666",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "03446-4-32666"
   },
   "600903": {
     "C\u00f3digo": "600903",
@@ -542,8 +412,7 @@
     "Sigla": "ADOS ESPERANZA",
     "Domicilio": "RIVADAVIA 2499",
     "Tel\u00e9fono 1": "03496-42-0713",
-    "Tel\u00e9fono 2": "03496-42-1361",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "03496-42-1361"
   },
   "600408": {
     "C\u00f3digo": "600408",
@@ -552,7 +421,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Chubut",
     "Localidad": "COMODORO RIVADAVIA  (COMODORO RIVADAVIA)",
-    "Sigla": "null",
     "Domicilio": "HIPOLITO YRIGOYEN 387",
     "Tel\u00e9fono 1": "0297-4470022",
     "Tel\u00e9fono 2": "0297-4463955",
@@ -565,11 +433,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Corrientes",
     "Localidad": "BELLA VISTA",
-    "Sigla": "null",
     "Domicilio": "SALTA 801",
-    "Tel\u00e9fono 1": "03777-4-71400",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "03777-4-71400"
   },
   "510303": {
     "C\u00f3digo": "510303",
@@ -578,11 +443,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "TANDIL",
-    "Sigla": "null",
     "Domicilio": "CALLE YRIGOYEN 566 PB",
-    "Tel\u00e9fono 1": "02293-431289",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "02293-431289"
   },
   "510204": {
     "C\u00f3digo": "510204",
@@ -591,7 +453,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "SANTA FE",
-    "Sigla": "null",
     "Domicilio": "9 DE JULIO 2852",
     "Tel\u00e9fono 1": "0342-4571184",
     "Tel\u00e9fono 2": "0342-4571185",
@@ -604,10 +465,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Chubut",
     "Localidad": "COMODORO RIVADAVIA  (COMODORO RIVADAVIA)",
-    "Sigla": "null",
     "Domicilio": "MITRE 837",
     "Tel\u00e9fono 1": "0297-446-4444",
-    "Tel\u00e9fono 2": "null",
     "Mail": "obrasocial@dasu.com.ar"
   },
   "510006": {
@@ -617,11 +476,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "San Juan",
     "Localidad": "SAN JUAN",
-    "Sigla": "null",
     "Domicilio": "RIVADAVIA 431 ESTE",
     "Tel\u00e9fono 1": "0264-422-4318",
-    "Tel\u00e9fono 2": "0264-422-5194",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0264-422-5194"
   },
   "500807": {
     "C\u00f3digo": "500807",
@@ -630,11 +487,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "PERU 169 PISO 10 (VER OBSERVACIONES)",
-    "Tel\u00e9fono 1": "4-344-8500",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-344-8500"
   },
   "402905": {
     "C\u00f3digo": "402905",
@@ -643,11 +497,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "BARTOLOME MITRE 1371 5\u00ba DTO. P",
     "Tel\u00e9fono 1": "4372-2096",
-    "Tel\u00e9fono 2": "4372-0538",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4372-0538"
   },
   "402806": {
     "C\u00f3digo": "402806",
@@ -656,10 +508,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "VENEZUELA 900",
     "Tel\u00e9fono 1": "4-331-6556",
-    "Tel\u00e9fono 2": "null",
     "Mail": "atencionalbeneficiario@osdaap.com.ar"
   },
   "402707": {
@@ -669,7 +519,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "SAN MARTIN 523 PISO 4 DTO H",
     "Tel\u00e9fono 1": "4-393-5750 L.ROTATIV",
     "Tel\u00e9fono 2": "4393-5644",
@@ -685,8 +534,7 @@
     "Sigla": "ASSPE",
     "Domicilio": "AV. LEANDRO ALEM 36 PISO 1\u00a7",
     "Tel\u00e9fono 1": "5300-9026",
-    "Tel\u00e9fono 2": "5300-9095",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "5300-9095"
   },
   "402509": {
     "C\u00f3digo": "402509",
@@ -698,7 +546,6 @@
     "Sigla": "OSYPF",
     "Domicilio": "MACACHA GUEMES 515 1\u00ba P",
     "Tel\u00e9fono 1": "5071-1623",
-    "Tel\u00e9fono 2": "null",
     "Mail": "evitiellor@ypf.com"
   },
   "402400": {
@@ -737,7 +584,6 @@
     "Sigla": "OSMITA",
     "Domicilio": "PARAGUAY 610 PISO 6",
     "Tel\u00e9fono 1": "4-313-3111",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@osmita.com.ar"
   },
   "402103": {
@@ -749,9 +595,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "APDIS",
     "Domicilio": "AVDA. BELGRANO 367 PISO 5\u00ba",
-    "Tel\u00e9fono 1": "4-331-1043/49",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-331-1043/49"
   },
   "402004": {
     "C\u00f3digo": "402004",
@@ -763,7 +607,6 @@
     "Sigla": "OSLPASTEUR",
     "Domicilio": "CALLAO 764/66",
     "Tel\u00e9fono 1": "4-370-1000",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@oslpasteur.com.ar"
   },
   "401902": {
@@ -776,7 +619,6 @@
     "Sigla": "WHOPE",
     "Domicilio": "AVDA. CORDOBA 1345 PISO 5",
     "Tel\u00e9fono 1": "4815-0747",
-    "Tel\u00e9fono 2": "null",
     "Mail": "obrasocial@whope.com.ar"
   },
   "401803": {
@@ -802,7 +644,6 @@
     "Sigla": "OSDEPYM",
     "Domicilio": "RECONQUISTA 458 PISO 2",
     "Tel\u00e9fono 1": "5-288-5600",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@osdepym.com.ar"
   },
   "401605": {
@@ -815,7 +656,6 @@
     "Sigla": "OSDIPP",
     "Domicilio": "SAN MARTIN 439 PISO 3",
     "Tel\u00e9fono 1": "5129-3900",
-    "Tel\u00e9fono 2": "null",
     "Mail": "gerencia.general@osdipp.com.ar"
   },
   "401308": {
@@ -828,8 +668,7 @@
     "Sigla": "OSMAD",
     "Domicilio": "AVDA BELGRANO 748 PISO 10 OF. 103",
     "Tel\u00e9fono 1": "4-331-9578",
-    "Tel\u00e9fono 2": "4-331-9580",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-331-9580"
   },
   "401209": {
     "C\u00f3digo": "401209",
@@ -851,11 +690,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "BOUCHARD 680 PISO 4",
     "Tel\u00e9fono 1": "4-319-3000",
-    "Tel\u00e9fono 2": "4-319-3910",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-319-3910"
   },
   "401001": {
     "C\u00f3digo": "401001",
@@ -906,8 +743,7 @@
     "Sigla": "OSCICA",
     "Domicilio": "AVDA. BELGRANO 3978",
     "Tel\u00e9fono 1": "4-981-1816",
-    "Tel\u00e9fono 2": "4-981-4466",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-981-4466"
   },
   "400602": {
     "C\u00f3digo": "400602",
@@ -919,8 +755,7 @@
     "Sigla": "OSDIC",
     "Domicilio": "AVDA. ROQUE SAENZ PE\u00a5A 615 - PISO 3\u00ba - OF. 324",
     "Tel\u00e9fono 1": "4-326-8870",
-    "Tel\u00e9fono 2": "4394-7133/4",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4394-7133/4"
   },
   "400503": {
     "C\u00f3digo": "400503",
@@ -932,7 +767,6 @@
     "Sigla": "APDJIC",
     "Domicilio": "LAVALLE N\u00a7 445 PISO 4\u00a7",
     "Tel\u00e9fono 1": "4-393-4393",
-    "Tel\u00e9fono 2": "null",
     "Mail": "apdjic@ba.net"
   },
   "400404": {
@@ -958,7 +792,6 @@
     "Sigla": "CAMPSIC",
     "Domicilio": "DR. EMILIO RAVIGNANI 2540",
     "Tel\u00e9fono 1": "4-773-5835",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@oscampsic.com"
   },
   "400206": {
@@ -971,7 +804,6 @@
     "Sigla": "OSPREME",
     "Domicilio": "PIEDRAS 1636/40",
     "Tel\u00e9fono 1": "4307-7542",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospreme@speedy.com.ar"
   },
   "400107": {
@@ -984,7 +816,6 @@
     "Sigla": "OPDEA",
     "Domicilio": "BERNANDO DE IRIGOYEN 540 PISO 2#",
     "Tel\u00e9fono 1": "4-338-2400",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@opdea.org.ar"
   },
   "304003": {
@@ -994,11 +825,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "MAIPU 267 PISO 11",
     "Tel\u00e9fono 1": "4-317-9000",
-    "Tel\u00e9fono 2": "4-317-9515",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-317-9515"
   },
   "303901": {
     "C\u00f3digo": "303901",
@@ -1007,7 +836,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "AVDA DE MAYO 651",
     "Tel\u00e9fono 1": "4-756-9238",
     "Tel\u00e9fono 2": "4-756-9328",
@@ -1020,7 +848,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "BAHIA BLANCA",
-    "Sigla": "null",
     "Domicilio": "ALMAFUERTE 29",
     "Tel\u00e9fono 1": "0291-454-4824",
     "Tel\u00e9fono 2": "0291-453-8208",
@@ -1033,7 +860,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "AVDA. PTE. ROQUE SAENZ PE\u00a5A 788",
     "Tel\u00e9fono 1": "4-328-0444",
     "Tel\u00e9fono 2": "4-328-0333",
@@ -1046,11 +872,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "CAMPANA",
-    "Sigla": "null",
     "Domicilio": "AVDA. ROCA 189",
     "Tel\u00e9fono 1": "03489-4-24224",
-    "Tel\u00e9fono 2": "03487-4-26222",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "03487-4-26222"
   },
   "303109": {
     "C\u00f3digo": "303109",
@@ -1059,7 +883,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "CERRITO 1070 PISO 5 OF 95",
     "Tel\u00e9fono 1": "4-811-4407",
     "Tel\u00e9fono 2": "4-813-4584",
@@ -1074,9 +897,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSRM",
     "Domicilio": "CORDOBA 1345 PISO 16 DEPTO \"A\"",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "4-815-0747",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-815-0747"
   },
   "302601": {
     "C\u00f3digo": "302601",
@@ -1098,11 +919,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "CORDOBA 883 PISO 11",
-    "Tel\u00e9fono 1": "4-325-9930/33",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-325-9930/33"
   },
   "302106": {
     "C\u00f3digo": "302106",
@@ -1124,11 +942,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "LLAVALLOL",
-    "Sigla": "null",
     "Domicilio": "ANTARTIDA ARGENTINA 2684",
-    "Tel\u00e9fono 1": "4-298-2984",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-298-2984"
   },
   "300704": {
     "C\u00f3digo": "300704",
@@ -1140,8 +955,7 @@
     "Sigla": "JOHNSON",
     "Domicilio": "AV. MARQUEZ 2249",
     "Tel\u00e9fono 1": "4-841-8242",
-    "Tel\u00e9fono 2": "4841-8000 INT 506",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4841-8000 INT 506"
   },
   "200400": {
     "C\u00f3digo": "200400",
@@ -1153,7 +967,6 @@
     "Sigla": "OSPEC",
     "Domicilio": "MAIPU 39",
     "Tel\u00e9fono 1": "4-343-0621/26",
-    "Tel\u00e9fono 2": "null",
     "Mail": "gergral@sinectis.com.ar"
   },
   "128409": {
@@ -1166,8 +979,7 @@
     "Sigla": "OSSOELSAC",
     "Domicilio": "ENTRE RIOS 372",
     "Tel\u00e9fono 1": "(0351) 4215431",
-    "Tel\u00e9fono 2": "(0351) 155181407",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "(0351) 155181407"
   },
   "128201": {
     "C\u00f3digo": "128201",
@@ -1175,11 +987,9 @@
     "Nombre": "OBRA SOCIAL DEL SINDICATO UNICO DE RECOLECTORES DE RESIDUOS Y BARRIDO DE CORDOBA",
     "Tipo de cobertura": "Obra social",
     "Provincia": "C\u00f3rdoba",
-    "Localidad": "null",
     "Sigla": "OSSURRBAC",
     "Domicilio": "LIMA 342",
     "Tel\u00e9fono 1": "(0351)152072236",
-    "Tel\u00e9fono 2": "null",
     "Mail": "\u00bfsurrbacinstitucional@gmail.com"
   },
   "128102": {
@@ -1189,11 +999,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "PERU(1201-1800)",
-    "Tel\u00e9fono 1": "5032-5000",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "5032-5000"
   },
   "128003": {
     "C\u00f3digo": "128003",
@@ -1202,10 +1009,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "Pav\u00f3n(2901-4400)",
     "Tel\u00e9fono 1": "4921-3725",
-    "Tel\u00e9fono 2": "null",
     "Mail": "festiqypra_tesoreria@live.com.ar"
   },
   "127901": {
@@ -1244,7 +1049,6 @@
     "Sigla": "OSPESCHA",
     "Domicilio": "JULIO A. ROCA 755",
     "Tel\u00e9fono 1": "03722-444011",
-    "Tel\u00e9fono 2": "null",
     "Mail": "soesgypechaco@gigared.com"
   },
   "127604": {
@@ -1270,8 +1074,7 @@
     "Sigla": "OSADEF",
     "Domicilio": "RINCON 1035",
     "Tel\u00e9fono 1": "4941-6330",
-    "Tel\u00e9fono 2": "4941-0003",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4941-0003"
   },
   "127406": {
     "C\u00f3digo": "127406",
@@ -1283,8 +1086,7 @@
     "Sigla": "OSOETSYLARA",
     "Domicilio": "CULPINA 25/29",
     "Tel\u00e9fono 1": "4-612-2000",
-    "Tel\u00e9fono 2": "4-612-3498",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-612-3498"
   },
   "127307": {
     "C\u00f3digo": "127307",
@@ -1293,11 +1095,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "AVDA BELGRANO 768 PISO 6 L",
-    "Tel\u00e9fono 1": "4-342-5368",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-342-5368"
   },
   "127208": {
     "C\u00f3digo": "127208",
@@ -1308,7 +1107,6 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSMMEDT",
     "Domicilio": "BELGRANO 3810 1\u00ba",
-    "Tel\u00e9fono 1": "null",
     "Tel\u00e9fono 2": "4-983-8880/8882",
     "Mail": "upjet@arnet.com.ar"
   },
@@ -1335,8 +1133,7 @@
     "Sigla": "OSTES",
     "Domicilio": "BANDERA DE LOS ANDES 239",
     "Tel\u00e9fono 1": "0261-431-7309",
-    "Tel\u00e9fono 2": "0261-4326-292",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0261-4326-292"
   },
   "126908": {
     "C\u00f3digo": "126908",
@@ -1371,11 +1168,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Tucum\u00e1n",
     "Localidad": "SAN MIGUEL DE TUCUMAN",
-    "Sigla": "null",
     "Domicilio": "CONGRESO DE TUCUMAN 341",
     "Tel\u00e9fono 1": "0381-4225810",
-    "Tel\u00e9fono 2": "0381-4-205151",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0381-4-205151"
   },
   "126601": {
     "C\u00f3digo": "126601",
@@ -1400,7 +1195,6 @@
     "Sigla": "OSCOEMA",
     "Domicilio": "MITRE 1601",
     "Tel\u00e9fono 1": "4203-8856",
-    "Tel\u00e9fono 2": "null",
     "Mail": "oscoema@gmail.com"
   },
   "126304": {
@@ -1413,7 +1207,6 @@
     "Sigla": "OSBA",
     "Domicilio": "25 DE MAYO 182",
     "Tel\u00e9fono 1": "4-340-7300",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@osba.com.ar"
   },
   "126205": {
@@ -1426,8 +1219,7 @@
     "Sigla": "OSECAC",
     "Domicilio": "MORENO 648/50",
     "Tel\u00e9fono 1": "4-331-1910/1919",
-    "Tel\u00e9fono 2": "4 331-2063",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4 331-2063"
   },
   "126106": {
     "C\u00f3digo": "126106",
@@ -1449,11 +1241,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "HIPOLITO YRIGOYEN 746",
-    "Tel\u00e9fono 1": "4-378-9400",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-378-9400"
   },
   "125905": {
     "C\u00f3digo": "125905",
@@ -1464,9 +1253,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSADRA",
     "Domicilio": "VIAMONTE 1835",
-    "Tel\u00e9fono 1": "4021-9300 AL 9329",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4021-9300 AL 9329"
   },
   "125707": {
     "C\u00f3digo": "125707",
@@ -1477,7 +1264,6 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSPCN",
     "Domicilio": "TUCUMAN 949",
-    "Tel\u00e9fono 1": "null",
     "Tel\u00e9fono 2": "4-321-9400",
     "Mail": "info@unionpersonal.com.ar"
   },
@@ -1491,8 +1277,7 @@
     "Sigla": "OSFATUN",
     "Domicilio": "MEDRANO 843",
     "Tel\u00e9fono 1": "4867-0816",
-    "Tel\u00e9fono 2": "4-863-2638",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-863-2638"
   },
   "125301": {
     "C\u00f3digo": "125301",
@@ -1527,11 +1312,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "24 DE NOVIEMBRE 1126",
     "Tel\u00e9fono 1": "4957-0882",
-    "Tel\u00e9fono 2": "0800-333-4204",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0800-333-4204"
   },
   "124506": {
     "C\u00f3digo": "124506",
@@ -1555,9 +1338,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSBARA",
     "Domicilio": "MEDRANO 167",
-    "Tel\u00e9fono 1": "4-958-7425",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-958-7425"
   },
   "123909": {
     "C\u00f3digo": "123909",
@@ -1569,8 +1350,7 @@
     "Sigla": "OSVARA",
     "Domicilio": "GALLO 443",
     "Tel\u00e9fono 1": "4-866-5482",
-    "Tel\u00e9fono 2": "4-866-5478",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-866-5478"
   },
   "123701": {
     "C\u00f3digo": "123701",
@@ -1647,8 +1427,7 @@
     "Sigla": "OSTAD",
     "Domicilio": "ACEVEDO 553",
     "Tel\u00e9fono 1": "4-854-4708",
-    "Tel\u00e9fono 2": "4-854-3506",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-854-3506"
   },
   "123008": {
     "C\u00f3digo": "123008",
@@ -1685,7 +1464,6 @@
     "Localidad": "CORDOBA",
     "Sigla": "OSPEVIC",
     "Domicilio": "FAUSTINO ALLENDE 189 - BARRIO INDEPENDENCIA",
-    "Tel\u00e9fono 1": "null",
     "Tel\u00e9fono 2": "0351-471-5924",
     "Mail": "ospevic@ospevic.org.ar"
   },
@@ -1712,8 +1490,7 @@
     "Sigla": "OSPIV",
     "Domicilio": "BALBASTRO 453",
     "Tel\u00e9fono 1": "4-924-4626",
-    "Tel\u00e9fono 2": "4-924-4417",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-924-4417"
   },
   "122401": {
     "C\u00f3digo": "122401",
@@ -1751,7 +1528,6 @@
     "Sigla": "OSVVRA",
     "Domicilio": "MORENO 2045",
     "Tel\u00e9fono 1": "5237-1900",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@redsocialfuva.com.ar"
   },
   "122005": {
@@ -1774,11 +1550,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "MARTINEZ",
-    "Sigla": "null",
     "Domicilio": "ENTRE RIOS 1395",
     "Tel\u00e9fono 1": "4-792-2934",
-    "Tel\u00e9fono 2": "4-793-1903",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-793-1903"
   },
   "121804": {
     "C\u00f3digo": "121804",
@@ -1803,8 +1577,7 @@
     "Sigla": "OSPAT",
     "Domicilio": "FLORIDA 15 PISO 6 OF 10 B",
     "Tel\u00e9fono 1": "4-343-5171",
-    "Tel\u00e9fono 2": "4-343-7607",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-343-7607"
   },
   "121606": {
     "C\u00f3digo": "121606",
@@ -1813,11 +1586,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "MORENO 2969",
     "Tel\u00e9fono 1": "4-931-5452",
-    "Tel\u00e9fono 2": "4-931-2144",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-931-2144"
   },
   "121507": {
     "C\u00f3digo": "121507",
@@ -1829,7 +1600,6 @@
     "Sigla": "OSITAC",
     "Domicilio": "PARANA 327",
     "Tel\u00e9fono 1": "0351-4-238798",
-    "Tel\u00e9fono 2": "null",
     "Mail": "aoita@ositac.org.ar"
   },
   "121309": {
@@ -1842,8 +1612,7 @@
     "Sigla": "OSPIT",
     "Domicilio": "SAN LORENZO 2181",
     "Tel\u00e9fono 1": "0341-410-1825",
-    "Tel\u00e9fono 2": "0341-410-1800/1/2",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0341-410-1800/1/2"
   },
   "121101": {
     "C\u00f3digo": "121101",
@@ -1855,7 +1624,6 @@
     "Sigla": "OSETYA",
     "Domicilio": "BENITO QUINQUELA MARTIN 1738",
     "Tel\u00e9fono 1": "4-301-4175/78",
-    "Tel\u00e9fono 2": "null",
     "Mail": "informes@osetya.com.ar"
   },
   "121002": {
@@ -1868,7 +1636,6 @@
     "Sigla": "OSPIT",
     "Domicilio": "AVDA. LA PLATA 754",
     "Tel\u00e9fono 1": "4-921-4061/63",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospit@aotra.com.ar"
   },
   "120900": {
@@ -1959,7 +1726,6 @@
     "Sigla": "OSPSESBA",
     "Domicilio": "EMILIO MITRE 582",
     "Tel\u00e9fono 1": "4-433-0833",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospesba@fibertel.com.ar"
   },
   "119906": {
@@ -1969,10 +1735,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "TACUARI 1122",
     "Tel\u00e9fono 1": "5-276-4700",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ossdeb@fideisalud.com.ar"
   },
   "119708": {
@@ -1985,7 +1749,6 @@
     "Sigla": "OSPSIP",
     "Domicilio": "TUCUMAN 3689",
     "Tel\u00e9fono 1": "4-959-6500",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@opsip.org.ar"
   },
   "119609": {
@@ -2011,8 +1774,7 @@
     "Sigla": "OSPSA",
     "Domicilio": "DEAN FUNES 1242",
     "Tel\u00e9fono 1": "4-308-2550",
-    "Tel\u00e9fono 2": "4-308-2540",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-308-2540"
   },
   "119302": {
     "C\u00f3digo": "119302",
@@ -2023,9 +1785,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSPRERA",
     "Domicilio": "RECONQUISTA 630",
-    "Tel\u00e9fono 1": "4-312-2500",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-312-2500"
   },
   "119203": {
     "C\u00f3digo": "119203",
@@ -2047,10 +1807,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "BARADERO",
-    "Sigla": "null",
     "Domicilio": "ANCHORENA 1429",
     "Tel\u00e9fono 1": "03329-4-83874",
-    "Tel\u00e9fono 2": "null",
     "Mail": "Osprem@arnetbiz.com.ar"
   },
   "118903": {
@@ -2060,7 +1818,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "ROSARIO",
-    "Sigla": "null",
     "Domicilio": "BUENOS AIRES 1635",
     "Tel\u00e9fono 1": "0341-4-248702",
     "Tel\u00e9fono 2": "0341-4-484406",
@@ -2075,9 +1832,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSRGA",
     "Domicilio": "AVDA BELGRANO 510 PISO 5",
-    "Tel\u00e9fono 1": "4-137-5646/7/8/9",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-137-5646/7/8/9"
   },
   "118705": {
     "C\u00f3digo": "118705",
@@ -2089,8 +1844,7 @@
     "Sigla": "OSPIQYP",
     "Domicilio": "MEXICO 1474",
     "Tel\u00e9fono 1": "4-384-5700",
-    "Tel\u00e9fono 2": "4384-5824/5805",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4384-5824/5805"
   },
   "118606": {
     "C\u00f3digo": "118606",
@@ -2112,7 +1866,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "ROSARIO",
-    "Sigla": "null",
     "Domicilio": "LAPRIDA 1063",
     "Tel\u00e9fono 1": "0341-4495597",
     "Tel\u00e9fono 2": "0341-4400220",
@@ -2138,7 +1891,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "C\u00f3rdoba",
     "Localidad": "CORDOBA",
-    "Sigla": "null",
     "Domicilio": "PARANA 343",
     "Tel\u00e9fono 1": "0351-4-210496",
     "Tel\u00e9fono 2": "0351-4-223654",
@@ -2154,7 +1906,6 @@
     "Sigla": "OSAPM",
     "Domicilio": "AVELLANEDA 2144",
     "Tel\u00e9fono 1": "4-633-7878",
-    "Tel\u00e9fono 2": "null",
     "Mail": "obra_social@apm.org.ar"
   },
   "118002": {
@@ -2177,7 +1928,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Mendoza",
     "Localidad": "MENDOZA",
-    "Sigla": "null",
     "Domicilio": "CHILE 1661",
     "Tel\u00e9fono 1": "0261-4-251179",
     "Tel\u00e9fono 2": "0261-4-251469",
@@ -2193,7 +1943,6 @@
     "Sigla": "OSPREN",
     "Domicilio": "DORREGO 1734",
     "Tel\u00e9fono 1": "0223-4-734394",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospren@ospren.org.ar"
   },
   "117603": {
@@ -2205,9 +1954,7 @@
     "Localidad": "RESISTENCIA",
     "Sigla": "OSPPCHA",
     "Domicilio": "JOSE HERNANDEZ 212",
-    "Tel\u00e9fono 1": "03722-4-22960",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "03722-4-22960"
   },
   "117405": {
     "C\u00f3digo": "117405",
@@ -2216,7 +1963,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "BAH\u00cdA BLANCA (BAH\u00cdA BLANCA)",
-    "Sigla": "null",
     "Domicilio": "LAMADRID 266",
     "Tel\u00e9fono 1": "0291-4-562760",
     "Tel\u00e9fono 2": "0291-4560106",
@@ -2242,10 +1988,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "PUERTO GENERAL SAN MARTIN",
-    "Sigla": "null",
     "Domicilio": "CAYETANO NERBUTTI 256",
     "Tel\u00e9fono 1": "03476-4-27643",
-    "Tel\u00e9fono 2": "null",
     "Mail": "obrasocial@cooportuaria.com"
   },
   "116204": {
@@ -2283,9 +2027,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSPIP",
     "Domicilio": "PAVON 4175",
-    "Tel\u00e9fono 1": "5-168-3200",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "5-168-3200"
   },
   "115805": {
     "C\u00f3digo": "115805",
@@ -2332,11 +2074,9 @@
     "Nombre": "OBRA SOCIAL DE PETROLEROS DE CORDOBA",
     "Tipo de cobertura": "Obra social",
     "Provincia": "C\u00f3rdoba",
-    "Localidad": "null",
     "Sigla": "O.S.PE.COR",
     "Domicilio": "AYACUCHO 575 -BARRIO. GRAL. GUEMES",
     "Tel\u00e9fono 1": "0351-4-204444",
-    "Tel\u00e9fono 2": "null",
     "Mail": "afiliados@ospecor.com.ar"
   },
   "115409": {
@@ -2361,9 +2101,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSPE",
     "Domicilio": "AVDA. L. ALEM 690 1\u00ba PISO",
-    "Tel\u00e9fono 1": "5254-5100",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "5254-5100"
   },
   "115201": {
     "C\u00f3digo": "115201",
@@ -2375,8 +2113,7 @@
     "Sigla": "OSPIP",
     "Domicilio": "12 DE OCTUBRE 4445",
     "Tel\u00e9fono 1": "0223-4-800554",
-    "Tel\u00e9fono 2": "0223-4-918133",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0223-4-918133"
   },
   "115102": {
     "C\u00f3digo": "115102",
@@ -2388,7 +2125,6 @@
     "Sigla": "OSTPBA",
     "Domicilio": "PTE J.D. PERON 1173",
     "Tel\u00e9fono 1": "5-218-2832/39",
-    "Tel\u00e9fono 2": "null",
     "Mail": "raulbarr22@hotmail.com"
   },
   "115003": {
@@ -2413,9 +2149,7 @@
     "Localidad": "ROSARIO",
     "Sigla": "OSOFPP DE ROSARIO",
     "Domicilio": "MONTEVIDEO 1488",
-    "Tel\u00e9fono 1": "0341-4-488998",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "0341-4-488998"
   },
   "114703": {
     "C\u00f3digo": "114703",
@@ -2427,7 +2161,6 @@
     "Sigla": "OSPPEA",
     "Domicilio": "AYACUCHO 838",
     "Tel\u00e9fono 1": "4-965-2100",
-    "Tel\u00e9fono 2": "null",
     "Mail": "obrasocial@peluquerosargentinos.com"
   },
   "114505": {
@@ -2437,11 +2170,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "GUALEGUAY 1255 / 57",
     "Tel\u00e9fono 1": "4361-9118",
-    "Tel\u00e9fono 2": "4361-9891",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4361-9891"
   },
   "114307": {
     "C\u00f3digo": "114307",
@@ -2479,7 +2210,6 @@
     "Sigla": "OSPPCYQ",
     "Domicilio": "OSVALDO CRUZ 2075",
     "Tel\u00e9fono 1": "4126-0900",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@ospapel.org.ar"
   },
   "114000": {
@@ -2492,8 +2222,7 @@
     "Sigla": "OSSPYFER",
     "Domicilio": "VELEZ SARSFIELD 447/49",
     "Tel\u00e9fono 1": "0345-4-214266",
-    "Tel\u00e9fono 2": "0345-4-222615",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0345-4-222615"
   },
   "113908": {
     "C\u00f3digo": "113908",
@@ -2515,11 +2244,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "BERNARDO DE IRIGOYEN 840",
     "Tel\u00e9fono 1": "4-300-7033",
-    "Tel\u00e9fono 2": "4-300-7034",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-300-7034"
   },
   "113700": {
     "C\u00f3digo": "113700",
@@ -2622,8 +2349,7 @@
     "Sigla": "OSPIM",
     "Domicilio": "MEXICO 2070",
     "Tel\u00e9fono 1": "4-942-6734",
-    "Tel\u00e9fono 2": "4-942-7491",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-942-7491"
   },
   "112509": {
     "C\u00f3digo": "112509",
@@ -2648,8 +2374,7 @@
     "Sigla": "O.S.A.M.",
     "Domicilio": "ROSARIO 434/36",
     "Tel\u00e9fono 1": "4-901-3277",
-    "Tel\u00e9fono 2": "4-902-5983",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-902-5983"
   },
   "112301": {
     "C\u00f3digo": "112301",
@@ -2687,8 +2412,7 @@
     "Sigla": "OSUOMRA",
     "Domicilio": "ALSINA 485 - PISO 4",
     "Tel\u00e9fono 1": "6345-5152/27/60",
-    "Tel\u00e9fono 2": "6345-5000",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "6345-5000"
   },
   "112004": {
     "C\u00f3digo": "112004",
@@ -2713,8 +2437,7 @@
     "Sigla": "OSMATA",
     "Domicilio": "AVDA. BELGRANO 665 PISO 8",
     "Tel\u00e9fono 1": "4-334-6825",
-    "Tel\u00e9fono 2": "4-334-1919",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-334-1919"
   },
   "111803": {
     "C\u00f3digo": "111803",
@@ -2751,9 +2474,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSEMM",
     "Domicilio": "AVDA .BELGRANO 1345/51 NUEVO: BARTOLOME MITRE 3776",
-    "Tel\u00e9fono 1": "4981-8181",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4981-8181"
   },
   "111506": {
     "C\u00f3digo": "111506",
@@ -2765,8 +2486,7 @@
     "Sigla": "OSCAPBAQFLU",
     "Domicilio": "ARISTOBULO DEL VALLE 319",
     "Tel\u00e9fono 1": "4-362-8084",
-    "Tel\u00e9fono 2": "4-362-3242",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-362-3242"
   },
   "111407": {
     "C\u00f3digo": "111407",
@@ -2778,7 +2498,6 @@
     "Sigla": "OSCOMM",
     "Domicilio": "PERU 779",
     "Tel\u00e9fono 1": "4-300-9700/03",
-    "Tel\u00e9fono 2": "null",
     "Mail": "oscomm@ciudad.com.ar"
   },
   "111308": {
@@ -2788,10 +2507,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "URUGUAY 239 PISO 2 DPTO A",
     "Tel\u00e9fono 1": "4-371-7717",
-    "Tel\u00e9fono 2": "null",
     "Mail": "osmtt@infovia.com.ar"
   },
   "111209": {
@@ -2817,8 +2534,7 @@
     "Sigla": "OSPIM",
     "Domicilio": "ROJAS 254",
     "Tel\u00e9fono 1": "4-431-4791",
-    "Tel\u00e9fono 2": "4-431-4089",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-431-4089"
   },
   "110909": {
     "C\u00f3digo": "110909",
@@ -2830,8 +2546,7 @@
     "Sigla": "OSLYF",
     "Domicilio": "AVDA. GRAL PAZ 282 PISO 4",
     "Tel\u00e9fono 1": "0351-4-238027",
-    "Tel\u00e9fono 2": "0351-4-214633",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0351-4-214633"
   },
   "110800": {
     "C\u00f3digo": "110800",
@@ -2882,7 +2597,6 @@
     "Sigla": "OSPIL",
     "Domicilio": "AVDA. HIPOLITO YRIGOYEN 4054",
     "Tel\u00e9fono 1": "4-883-9200",
-    "Tel\u00e9fono 2": "null",
     "Mail": "obrasocial@atilra.org.ar"
   },
   "110404": {
@@ -2918,11 +2632,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "ROSARIO",
-    "Sigla": "null",
     "Domicilio": "OVIDIO LAGOS 1571",
     "Tel\u00e9fono 1": "0341-4-219301",
-    "Tel\u00e9fono 2": "0341-4-491065",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0341-4-491065"
   },
   "110107": {
     "C\u00f3digo": "110107",
@@ -2970,11 +2682,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "AVDA. CABILDO 4193",
     "Tel\u00e9fono 1": "4 702-7948",
-    "Tel\u00e9fono 2": "4 703-4765",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4 703-4765"
   },
   "109509": {
     "C\u00f3digo": "109509",
@@ -3009,11 +2719,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "LISANDRO DE LA TORRE 2337/9",
-    "Tel\u00e9fono 1": "4-687-8683",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-687-8683"
   },
   "109202": {
     "C\u00f3digo": "109202",
@@ -3022,7 +2729,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "MONTES DE OCA 1648",
     "Tel\u00e9fono 1": "4-301-0048",
     "Tel\u00e9fono 2": "4-301-4823",
@@ -3038,8 +2744,7 @@
     "Sigla": "OSPG",
     "Domicilio": "AVDA. BELGRANO 2530",
     "Tel\u00e9fono 1": "4-308-2678",
-    "Tel\u00e9fono 2": "4-308-2679",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-308-2679"
   },
   "108803": {
     "C\u00f3digo": "108803",
@@ -3064,8 +2769,7 @@
     "Sigla": "OSTECF",
     "Domicilio": "VIAMONTE 1328 PB PISO 1",
     "Tel\u00e9fono 1": "4-371-3969",
-    "Tel\u00e9fono 2": "4-371-8105",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-371-8105"
   },
   "108605": {
     "C\u00f3digo": "108605",
@@ -3077,7 +2781,6 @@
     "Sigla": "FAA",
     "Domicilio": "SALTA 1144",
     "Tel\u00e9fono 1": "4-305-3426",
-    "Tel\u00e9fono 2": "null",
     "Mail": "agremiados@infovia.com.ar"
   },
   "108506": {
@@ -3090,8 +2793,7 @@
     "Sigla": "OSFYHC",
     "Domicilio": "MONTECASEROS 1147",
     "Tel\u00e9fono 1": "0261-4-299591",
-    "Tel\u00e9fono 2": "0261-423-8440",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0261-423-8440"
   },
   "108407": {
     "C\u00f3digo": "108407",
@@ -3103,7 +2805,6 @@
     "Sigla": "OSPAF",
     "Domicilio": "SAAVEDRA 121",
     "Tel\u00e9fono 1": "0345-4229579",
-    "Tel\u00e9fono 2": "null",
     "Mail": "OSPAF@YAHOO.COM.AR"
   },
   "108209": {
@@ -3129,7 +2830,6 @@
     "Sigla": "OSPIF",
     "Domicilio": "MARCONI 652",
     "Tel\u00e9fono 1": "4-201-3250",
-    "Tel\u00e9fono 2": "null",
     "Mail": "osfosforo@hotmail.com"
   },
   "108001": {
@@ -3181,8 +2881,7 @@
     "Sigla": "OSPF",
     "Domicilio": "CONSTITUCION 2066",
     "Tel\u00e9fono 1": "4941-1342",
-    "Tel\u00e9fono 2": "4-943-4086",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-943-4086"
   },
   "107206": {
     "C\u00f3digo": "107206",
@@ -3194,8 +2893,7 @@
     "Sigla": "OSPESGYPE",
     "Domicilio": "HIPOLITO YRIGOYEN 2727",
     "Tel\u00e9fono 1": "4-866-1631",
-    "Tel\u00e9fono 2": "4866-4293",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4866-4293"
   },
   "107107": {
     "C\u00f3digo": "107107",
@@ -3207,8 +2905,7 @@
     "Sigla": "OSPEP",
     "Domicilio": "PASCO 148/54",
     "Tel\u00e9fono 1": "4951-2538",
-    "Tel\u00e9fono 2": "4951-2649",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4951-2649"
   },
   "107008": {
     "C\u00f3digo": "107008",
@@ -3246,7 +2943,6 @@
     "Sigla": "OSPEP",
     "Domicilio": "AV. JUJUY 226",
     "Tel\u00e9fono 1": "4-956-0408/09",
-    "Tel\u00e9fono 2": "null",
     "Mail": "informes@ospepweb.com.ar"
   },
   "106708": {
@@ -3256,7 +2952,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "R\u00edo Negro",
     "Localidad": "CIPOLLETTI",
-    "Sigla": "null",
     "Domicilio": "MENGUELLE 130",
     "Tel\u00e9fono 1": "0299-478-2686",
     "Tel\u00e9fono 2": "0299-478-2274",
@@ -3271,9 +2966,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSEN",
     "Domicilio": "AVDA JUAN DE GARAY 1900",
-    "Tel\u00e9fono 1": "4371-4896",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4371-4896"
   },
   "106500": {
     "C\u00f3digo": "106500",
@@ -3298,7 +2991,6 @@
     "Sigla": "OSPERYHRA",
     "Domicilio": "SARMIENTO 2026",
     "Tel\u00e9fono 1": "5-354-6600",
-    "Tel\u00e9fono 2": "null",
     "Mail": "osperyh@osperyh.org.ar"
   },
   "106302": {
@@ -3311,8 +3003,7 @@
     "Sigla": "OSDOP",
     "Domicilio": "JUAN DOMINGO PERON 2625",
     "Tel\u00e9fono 1": "4-342-2525",
-    "Tel\u00e9fono 2": "5-9415500",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "5-9415500"
   },
   "106203": {
     "C\u00f3digo": "106203",
@@ -3337,8 +3028,7 @@
     "Sigla": "OSEDA",
     "Domicilio": "CALLAO 220 PISO 6",
     "Tel\u00e9fono 1": "4-372-6667/8",
-    "Tel\u00e9fono 2": "4-372-8322",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-372-8322"
   },
   "106005": {
     "C\u00f3digo": "106005",
@@ -3350,7 +3040,6 @@
     "Sigla": "OSPEDYC",
     "Domicilio": "ALBERTI 646",
     "Tel\u00e9fono 1": "5353-3500",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospedyc@infovia.com"
   },
   "105804": {
@@ -3363,7 +3052,6 @@
     "Sigla": "OSCHOCA",
     "Domicilio": "SAN JOSE 1781",
     "Tel\u00e9fono 1": "4378-1000",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@camioneros-ba.org.ar"
   },
   "105705": {
@@ -3376,8 +3064,7 @@
     "Sigla": "OSPICHA",
     "Domicilio": "AVDA. CASEROS 860",
     "Tel\u00e9fono 1": "4-307-7471",
-    "Tel\u00e9fono 2": "4-307-4378",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-307-4378"
   },
   "105606": {
     "C\u00f3digo": "105606",
@@ -3389,8 +3076,7 @@
     "Sigla": "OSPICA",
     "Domicilio": "PTE. J. D. PERON 3866",
     "Tel\u00e9fono 1": "4-983-7408",
-    "Tel\u00e9fono 2": "4-983-7622",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-983-7622"
   },
   "105507": {
     "C\u00f3digo": "105507",
@@ -3428,7 +3114,6 @@
     "Sigla": "OSPATCA",
     "Domicilio": "PTE. LUIS SAENZ PE\u00d1A 1142/44",
     "Tel\u00e9fono 1": "6091-7900",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@ospatca.com.ar"
   },
   "105002": {
@@ -3441,7 +3126,6 @@
     "Sigla": "OSCONARA",
     "Domicilio": "PINZON 281",
     "Tel\u00e9fono 1": "4-362-0080/0880",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@siconara.com.ar"
   },
   "104801": {
@@ -3467,8 +3151,7 @@
     "Sigla": "OSOC",
     "Domicilio": "VIAMONTE 2045",
     "Tel\u00e9fono 1": "4-372-0509",
-    "Tel\u00e9fono 2": "4-374-0442",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-374-0442"
   },
   "104504": {
     "C\u00f3digo": "104504",
@@ -3480,7 +3163,6 @@
     "Sigla": "OSPIC",
     "Domicilio": "JUNCAL 2029",
     "Tel\u00e9fono 1": "4-808-0106",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospic@sicacine.org.ar"
   },
   "104405": {
@@ -3492,9 +3174,7 @@
     "Localidad": "MAR DEL PLATA  (MAR DEL PLATA)",
     "Sigla": "OSPERCIN",
     "Domicilio": "NEUQUEN 2655",
-    "Tel\u00e9fono 1": "0223-4738544",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "0223-4738544"
   },
   "104306": {
     "C\u00f3digo": "104306",
@@ -3506,8 +3186,7 @@
     "Sigla": "OSPACA",
     "Domicilio": "HUMAHUACA 4072",
     "Tel\u00e9fono 1": "4 862-4581",
-    "Tel\u00e9fono 2": "4 862-2666",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4 862-2666"
   },
   "104207": {
     "C\u00f3digo": "104207",
@@ -3532,8 +3211,7 @@
     "Sigla": "OSCE",
     "Domicilio": "DOBLAS 629",
     "Tel\u00e9fono 1": "4-922-6752",
-    "Tel\u00e9fono 2": "4-921-0906",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-921-0906"
   },
   "104009": {
     "C\u00f3digo": "104009",
@@ -3558,7 +3236,6 @@
     "Sigla": "OSPIC SANTA FE",
     "Domicilio": "ITURRASPE 2458",
     "Tel\u00e9fono 1": "0342-453-8863",
-    "Tel\u00e9fono 2": "null",
     "Mail": "oscauchostafe@yahoo.com.ar"
   },
   "103808": {
@@ -3584,7 +3261,6 @@
     "Sigla": "OSPIC",
     "Domicilio": "CONGRESO 2033",
     "Tel\u00e9fono 1": "4 701-5646",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospic_caucho@arnet.com.ar"
   },
   "103600": {
@@ -3620,7 +3296,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "AV. CASEROS 921/23",
     "Tel\u00e9fono 1": "4300-2191",
     "Tel\u00e9fono 2": "4300-0975",
@@ -3636,8 +3311,7 @@
     "Sigla": "OSPICAL",
     "Domicilio": "YATAY 129 PISO 4",
     "Tel\u00e9fono 1": "4 981-1164",
-    "Tel\u00e9fono 2": "4 981-1180",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4 981-1180"
   },
   "103006": {
     "C\u00f3digo": "103006",
@@ -3648,9 +3322,7 @@
     "Localidad": "GENERAL SAN MART\u00cdN",
     "Sigla": "OSPIB",
     "Domicilio": "CALLE 91 N# 1886",
-    "Tel\u00e9fono 1": "4 755-2931",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4 755-2931"
   },
   "102904": {
     "C\u00f3digo": "102904",
@@ -3659,7 +3331,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "AVELLANEDA (AVELLANEDA)",
-    "Sigla": "null",
     "Domicilio": "FLORENTINO AMEGHINO 1060",
     "Tel\u00e9fono 1": "4 222-4086",
     "Tel\u00e9fono 2": "4 222-4646",
@@ -3671,11 +3342,9 @@
     "Nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA AZUCARERA",
     "Tipo de cobertura": "Obra social",
     "Provincia": "Tucum\u00e1n",
-    "Localidad": "null",
     "Sigla": "OSPIA",
     "Domicilio": "CONGRESO 342/8",
     "Tel\u00e9fono 1": "0381-422-1478",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospia@tucbbs.com.ar"
   },
   "102300": {
@@ -3688,8 +3357,7 @@
     "Sigla": "OSPA",
     "Domicilio": "ISLAS MALVINAS S/N# - BARRIO PATRON COSTA",
     "Tel\u00e9fono 1": "03878-421800/2",
-    "Tel\u00e9fono 2": "03878-491189",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "03878-491189"
   },
   "101901": {
     "C\u00f3digo": "101901",
@@ -3700,9 +3368,7 @@
     "Localidad": "LIBERTADOR GENERAL SAN MARTIN",
     "Sigla": "OSPAIL",
     "Domicilio": "JUJUY 755 CC5",
-    "Tel\u00e9fono 1": "03886-423558",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "03886-423558"
   },
   "101802": {
     "C\u00f3digo": "101802",
@@ -3726,9 +3392,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSPACA",
     "Domicilio": "ANCHORENA 639 - PISO 1",
-    "Tel\u00e9fono 1": "4106-4500",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4106-4500"
   },
   "101208": {
     "C\u00f3digo": "101208",
@@ -3740,7 +3404,6 @@
     "Sigla": "OSPIA",
     "Domicilio": "VENEZUELA 1326",
     "Tel\u00e9fono 1": "4 383-9026/29",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospiacentral@ospia.org.ar"
   },
   "101109": {
@@ -3792,7 +3455,6 @@
     "Sigla": "OSA",
     "Domicilio": "BARTOLOME MITRE 1906 - PISO 1",
     "Tel\u00e9fono 1": "4-953-7274/79",
-    "Tel\u00e9fono 2": "null",
     "Mail": "aaa@aeronavegantes.com.ar"
   },
   "100700": {
@@ -3818,7 +3480,6 @@
     "Sigla": "OSPADEP",
     "Domicilio": "VENEZUELA 900",
     "Tel\u00e9fono 1": "4-331-1411",
-    "Tel\u00e9fono 2": "null",
     "Mail": "suobrasocial@speedy.com.a"
   },
   "100502": {
@@ -3831,7 +3492,6 @@
     "Sigla": "OSPA",
     "Domicilio": "ANCHORENA 1266",
     "Tel\u00e9fono 1": "4-823-7121",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@ospa.com.ar"
   },
   "100403": {
@@ -3857,7 +3517,6 @@
     "Sigla": "OSTVLA",
     "Domicilio": "VICTOR HUGO 369",
     "Tel\u00e9fono 1": "4-635-9010",
-    "Tel\u00e9fono 2": "null",
     "Mail": "atvla@ciudad.com.ar"
   },
   "100205": {
@@ -3883,7 +3542,6 @@
     "Sigla": "OSIAD",
     "Domicilio": "AVDA. BELGRANO 1370 PISO 2",
     "Tel\u00e9fono 1": "4-381-5041",
-    "Tel\u00e9fono 2": "null",
     "Mail": "info@osiadsalud.org.ar"
   },
   "3603": {
@@ -3893,11 +3551,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "LOMAS DE ZAMORA (LOMAS DE ZAMORA)",
-    "Sigla": "null",
     "Domicilio": "L.N.ALEM 239",
-    "Tel\u00e9fono 1": "5032-5000",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "5032-5000"
   },
   "3504": {
     "C\u00f3digo": "3504",
@@ -3909,8 +3564,7 @@
     "Sigla": "O.S.TAX.B.A",
     "Domicilio": "FRAGATA PRESIDENTE SARMIENTO 661",
     "Tel\u00e9fono 1": "4331-5503",
-    "Tel\u00e9fono 2": "4331-4864",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4331-4864"
   },
   "3405": {
     "C\u00f3digo": "3405",
@@ -3921,8 +3575,6 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "O.S.A.M.O.C",
     "Domicilio": "BILLINGHURST 1677",
-    "Tel\u00e9fono 1": "null",
-    "Tel\u00e9fono 2": "null",
     "Mail": "osamos@fibertel.com.ar"
   },
   "3306": {
@@ -3935,8 +3587,7 @@
     "Sigla": "OSTVENDRA",
     "Domicilio": "VENEZUELA 2365",
     "Tel\u00e9fono 1": "4-941-9855",
-    "Tel\u00e9fono 2": "4-941-2560",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "4-941-2560"
   },
   "3207": {
     "C\u00f3digo": "3207",
@@ -3945,11 +3596,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "SANTA FE",
-    "Sigla": "null",
     "Domicilio": "AV FACUNDO ZUVIRIA 4584",
-    "Tel\u00e9fono 1": "0342-4504800",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "0342-4504800"
   },
   "3108": {
     "C\u00f3digo": "3108",
@@ -3974,7 +3622,6 @@
     "Sigla": "O.S.PERS.A.A.M.S.",
     "Domicilio": "CALLE AVENIDA INDEPENDENCIA 206 PRIMER PISO",
     "Tel\u00e9fono 1": "(03493)-426325",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ospersaams@sancorsalud.com.ar"
   },
   "2907": {
@@ -3986,9 +3633,7 @@
     "Localidad": "VILLA CONSTITUCION",
     "Sigla": "OSAMMVC",
     "Domicilio": "JUAN MANUEL DE ROSAS 710 - PLANTA ALTA -",
-    "Tel\u00e9fono 1": "03400-479532",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "03400-479532"
   },
   "2808": {
     "C\u00f3digo": "2808",
@@ -4000,7 +3645,6 @@
     "Sigla": "O.S.E.A.R.B.A.",
     "Domicilio": "CALLE RIVADAVIA Y 1ERO. DE MAYO",
     "Tel\u00e9fono 1": "02346-471880",
-    "Tel\u00e9fono 2": "null",
     "Mail": "osearbasalud@intercal.com.ar"
   },
   "2709": {
@@ -4013,8 +3657,7 @@
     "Sigla": "OSTAMMA",
     "Domicilio": "TUCUMAN 26 LOCAL 2 GALERIA FORTUNE",
     "Tel\u00e9fono 1": "0351-4246297",
-    "Tel\u00e9fono 2": "0351-4251433",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0351-4251433"
   },
   "2600": {
     "C\u00f3digo": "2600",
@@ -4026,7 +3669,6 @@
     "Sigla": "O.S.T.C.A.R.A.",
     "Domicilio": "RODRIGUEZ PE\u00d1A 269",
     "Tel\u00e9fono 1": "4-373-5367",
-    "Tel\u00e9fono 2": "null",
     "Mail": "secretaria@ostcara.org.ar"
   },
   "2501": {
@@ -4049,11 +3691,9 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "C\u00f3rdoba",
     "Localidad": "CORDOBA",
-    "Sigla": "null",
     "Domicilio": "LIMA 446 OF.1.-",
     "Tel\u00e9fono 1": "0351-4280605",
-    "Tel\u00e9fono 2": "0351-4264580",
-    "Mail": "null"
+    "Tel\u00e9fono 2": "0351-4264580"
   },
   "2303": {
     "C\u00f3digo": "2303",
@@ -4062,7 +3702,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Mendoza",
     "Localidad": "MENDOZA",
-    "Sigla": "null",
     "Domicilio": "SAN LORENZO 221",
     "Tel\u00e9fono 1": "0261-420-1638",
     "Tel\u00e9fono 2": "0800-666-5579",
@@ -4075,11 +3714,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Buenos Aires",
     "Localidad": "HURLINGHAM (HURLINGHAM)",
-    "Sigla": "null",
     "Domicilio": "MANUEL OCAMPO 1201",
-    "Tel\u00e9fono 1": "4-665-7958",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4-665-7958"
   },
   "2105": {
     "C\u00f3digo": "2105",
@@ -4129,7 +3765,6 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSJERA",
     "Domicilio": "MORENO 1142 PLANTA BAJA",
-    "Tel\u00e9fono 1": "null",
     "Tel\u00e9fono 2": "4-381-3200",
     "Mail": "administraci\u00f3n@opsjera.com.ar"
   },
@@ -4140,7 +3775,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Santa Fe",
     "Localidad": "ROSARIO",
-    "Sigla": "null",
     "Domicilio": "SARMIENTO 2225",
     "Tel\u00e9fono 1": "0341-482-5430",
     "Tel\u00e9fono 2": "0341 482-3351",
@@ -4156,7 +3790,6 @@
     "Sigla": "OSSACRA",
     "Domicilio": "CALLE SOLIS 756 PLANTA ALTA",
     "Tel\u00e9fono 1": "4384-0463",
-    "Tel\u00e9fono 2": "null",
     "Mail": "ossacrasedecentral@gmail.com"
   },
   "1300": {
@@ -4218,10 +3851,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "Mendoza",
     "Localidad": "MENDOZA",
-    "Sigla": "null",
     "Domicilio": "JOSE VICENTE ZAPATA 144",
     "Tel\u00e9fono 1": "0261-4292012",
-    "Tel\u00e9fono 2": "null",
     "Mail": "mutualaye@infovia.com.ar"
   },
   "604": {
@@ -4234,7 +3865,6 @@
     "Sigla": "OSALARA",
     "Domicilio": "ADOLFO ALSINA 946",
     "Tel\u00e9fono 1": "5235-9810",
-    "Tel\u00e9fono 2": "null",
     "Mail": "osalara@aleara.com.ar"
   },
   "505": {
@@ -4259,9 +3889,7 @@
     "Localidad": "CIUDAD DE BUENOS AIRES",
     "Sigla": "OSPOCE",
     "Domicilio": "BARTOLOME MITRE 1523 PISO 1 B",
-    "Tel\u00e9fono 1": "5510-5000",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "5510-5000"
   },
   "307": {
     "C\u00f3digo": "307",
@@ -4283,7 +3911,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "C\u00f3rdoba",
     "Localidad": "CORDOBA",
-    "Sigla": "null",
     "Domicilio": "ARTIGAS 60",
     "Tel\u00e9fono 1": "3514238079",
     "Tel\u00e9fono 2": "0351-4236538",
@@ -4296,11 +3923,8 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "MARCELO T. DE ALVEAR 1550 PISO 3 DPTO 3 OF A",
-    "Tel\u00e9fono 1": "4 8124331",
-    "Tel\u00e9fono 2": "null",
-    "Mail": "null"
+    "Tel\u00e9fono 1": "4 8124331"
   },
   "1": {
     "C\u00f3digo": "1",
@@ -4309,7 +3933,6 @@
     "Tipo de cobertura": "Obra social",
     "Provincia": "CABA",
     "Localidad": "CIUDAD DE BUENOS AIRES",
-    "Sigla": "null",
     "Domicilio": "MEXICO 2521/23",
     "Tel\u00e9fono 1": "4308-2403",
     "Tel\u00e9fono 2": "4941-7766",

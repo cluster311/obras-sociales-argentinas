@@ -28,14 +28,25 @@ class ObrasSocialesSISA:
     params = {}
     user_agent = ''
     
-    # they use XLS extension but it's a TSV file
-    local_csv = 'sisa.csv'  # Path
-    local_json = 'sisa.json'  # path
-    local_json_object = None
+    base_folder = dir_path = os.path.dirname(os.path.realpath(__file__))
+    local_csv = os.path.join(base_folder, 'sisa.csv')
+    local_json = os.path.join(base_folder, 'sisa.json')
+    local_json_object = {}
     # requests records
     raw_response = None
     status_response = None
     errors = []
+
+    processed = False  # ready to use
+
+    def get_oss(self, rnos):
+        if not self.processed:
+            ret = self.download_database()
+            if not ret:
+                return None
+            ret = self.process_database()
+
+            return self.local_json_object.get(rnos, {})
 
     def download_database(self, force_download=False):
         """ Scrape needed. We use static download """
@@ -58,10 +69,14 @@ class ObrasSocialesSISA:
         errors = []
         for row in reader:
             rnos = row.get('RNOS', row.get('Código', ''))
-            
+            new_row = {}
+            for k, v in row.items():
+                if v not in [None, 'null']:  # valor feo como nulo
+                    new_row[k] = v
+
             if rnos not in real_rows:
                 if rnos != 'RNOS':
-                    real_rows[rnos] = row
+                    real_rows[rnos] = new_row
             else:
                 # DUPLICATED ERROR!
                 self.errors.append(f'Duplicated RNOS: {rnos}')
@@ -72,6 +87,7 @@ class ObrasSocialesSISA:
         f2.close
 
         self.local_json_object = real_rows
+        self.processed = True
         return real_rows
     
     def count_by_province(self):
@@ -85,13 +101,3 @@ class ObrasSocialesSISA:
             ret[provincia] += 1
 
         return ret
-        
-
-if __name__ == '__main__':
-    s = ObrasSocialesSISA()
-    s.download_database()
-    rows = s.process_database()
-    print('Obras sociales encontradas: {}'.format(len(rows.keys())))
-    print('Errors: {}'.format(s.errors))
-    ret = s.count_by_province()
-    print('X provincia: {}'.format(ret))
