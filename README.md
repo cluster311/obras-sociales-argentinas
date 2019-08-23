@@ -108,16 +108,15 @@ print('X provincia: {}'.format(ret))
 ```
 
 ```
-Obras sociales encontradas: 214
-Errors: []
-X provincia: {'TUCUMAN': 3, 'BUENOS AIRES': 18, 'CAPITAL FEDERAL': 155, 'MENDOZA': 4, 'CHUBUT': 2, 'NEUQUEN': 1, 'SANTA FE': 11, 'ENTRE RIOS': 3, 'RIO NEGRO': 1, 'CORDOBA': 10, 'JUJUY': 2, 'NO IDENTIFICADA': 1, 'SANTIAGO DEL ESTERO': 1, 'SALTA': 1, 'CHACO': 1}
-
+Obras sociales encontradas: 296
+Errors: ['Duplicated RNOS: 208', ...]
+X provincia: {'CORDOBA': 13, 'BUENOS AIRES': 32, 'CAPITAL FEDERAL': 209, 'MENDOZA': 6, 'SANTA FE': 16, 'JUJUY': 2, 'SALTA': 1, 'TUCUMAN': 3, 'RIO NEGRO': 1, 'SANTIAGO DEL ESTERO': 1, 'ENTRE RIOS': 5, 'CHUBUT': 4, 'CHACO': 1, 'NEUQUEN': 1, 'NO IDENTIFICADA': 1}
 ```
 
 ## Descarga automatizada
 
 Desde SSSalud: Hacer un post a https://www.sssalud.gob.ar/descargas/dump.php con los parámetros:  
-`{'obj': 'listRnosc', 'tipo': 7}`
+`{'obj': 'listRnosc', 'tipo': 7}` (el tipo va del 1 al 18).  
 
 Desde SISA se requiere un scpae un poco más complejo.  
 
