@@ -11,7 +11,8 @@ La lista oficial de obras sociales argentinas puede obtenerse por dos vías:
  - Desde el [sitio web de la superintendencia de sistemas de salud](https://www.sssalud.gob.ar/?page=listRnosc&tipo=7) (SSSalud)
  - Desde la página de [SISA](https://sisa.msal.gov.ar/sisa/#sisa) 
 
-Estas listas son diferentes y tienen alrededor de 300 elementos. No cambia mucho al parecer.  
+Estas listas son diferentes y tienen alrededor de 300 elementos. Los elementos de la lista no cambian casi nunca. Por eso esta base estática.  
+El objeto ObraSocialArgentina es una mezcla terminada de las dos fuentes de datos. Alcanza para un uso general.
 
 ```python
 from oss_ar.oss import ObraSocialArgentina
