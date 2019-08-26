@@ -71,6 +71,78 @@ for rnos in rnoss:
 
 ```
 
+## Trabajar sobre la lista completa
+
+
+La lista completa de Obras sociales puede usarse para buscar o trabajar soble la lista completa
+
+```python
+from oss_ar.oss import ObrasSocialesArgentinas
+osss = ObrasSocialesArgentinas()
+# la lista completa esta disponible en _osss.local_json_object_
+
+print(osss.local_json_object['117702'])
+```
+
+```
+{'rnos': '117702', 'exists': True, 'nombre': 'OBRA SOCIAL DEL PERSONAL DE PRENSA DE MAR DEL PLATA', 'tipo_de_cobertura': 'Obra social', 'sigla': 'OSPREN', 'provincia': 'Buenos Aires', 'localidad': 'MAR DEL PLATA  (MAR DEL PLATA)', 'domicilio': 'DORREGO 1734', 'cp': '7600', 'telefonos': ['0223-4-734394'], 'emails': ['ospren@ospren.org.ar'], 'web': 'www.prensamardelplata.org.ar', 'sources': ['SISA', 'SSSalud']}
+```
+
+Buscar obras sociales
+```python
+# buscar
+for resultado in osss.search('mendoza'):
+  print(resultado)
+```
+
+```
+{'rnos': '406', 'exists': True, 'nombre': 'OBRA SOCIAL DEL PERSONAL DEL ORGANISMO DE CONTROL EXTERNO', 'tipo_de_cobertura': 'Obra social', 'sigla': 'OSPOCE', 'provincia': 'CABA', 'localidad': 'CIUDAD DE BUENOS AIRES', 'domicilio': 'BARTOLOME MITRE 1523 PISO 1 B', 'cp': '1037', 'telefonos': ['0800-321-6776(O.S.)', '5510-5000'], 'emails': [], 'web': 'www.ospoce.com.ar', 'sources': ['SISA', 'SSSalud']}
+>>> for resultado in osss.search('mendoza'):
+...   print(resultado)
+... 
+{'rnos': '909001', 'exists': True, 'nombre': 'O.S.P. MENDOZA (OSEP)', 'tipo_de_cobertura': 'Obra social', 'sigla': 'OSEP', 'provincia': 'Mendoza', 'localidad': '', 'domicilio': 'Sin especificar', 'cp': '', 'telefonos': [], 'emails': [], 'web': None, 'sources': ['SISA']}
+{'rnos': '127000', 'exists': True, 'nombre': 'OBRA SOCIAL DE TRABAJADORES DE ESTACIONES DE SERVICIO', 'tipo_de_cobertura': 'Obra social', 'sigla': 'OSTES', 'provincia': 'Mendoza', 'localidad': 'GUAYMALLEN', 'domicilio': 'BANDERA DE LOS ANDES 239', 'cp': '5521', 'telefonos': ['0261-4326-292', '0261-431-7309'], 'emails': [], 'web': None, 'sources': ['SISA', 'SSSalud']}
+{'rnos': '117801', 'exists': True, 'nombre': ' OBRA SOCIAL DEL PERSONAL DE PRENSA DE MENDOZA', 'tipo_de_cobertura': 'Obra social', 'sigla': '', 'provincia': 'Mendoza', 'localidad': 'MENDOZA', 'domicilio': 'CHILE 1661', 'cp': '5500', 'telefonos': ['0261-4-251469', '0261-4-251179'], 'emails': ['prensaludmza@hprensaludmza.org.ar'], 'web': None, 'sources': ['SISA', 'SSSalud']}
+{'rnos': '112301', 'exists': True, 'nombre': 'OBRA SOCIAL DEL PERSONAL DE MICROS Y OMNIBUS DE MENDOZA', 'tipo_de_cobertura': 'Obra social', 'sigla': 'OSPEMOM', 'provincia': 'Mendoza', 'localidad': 'MENDOZA', 'domicilio': 'CATAMARCA 382', 'cp': '5500', 'telefonos': ['0261-4-203283', '0261-4-203342'], 'emails': ['ospemom@ospemom.org.ar'], 'web': None, 'sources': ['SISA', 'SSSalud']}
+{'rnos': '108506', 'exists': True, 'nombre': 'OBRA SOCIAL DEL PERSONAL DE MANIPULEO, EMPAQUE Y EXPEDICION DE FRUTA FRESCA Y HORTALIZAS DE CUYO', 'tipo_de_cobertura': 'Obra social', 'sigla': 'OSFYHC', 'provincia': 'Mendoza', 'localidad': 'MENDOZA', 'domicilio': 'MONTECASEROS 1147', 'cp': '5500', 'telefonos': ['0261-423-8440', '0261-4-299591'], 'emails': [], 'web': 'EN CRISIS CONFORME DECRETO 1400/01 - (VER OBSERVAC', 'sources': ['SISA', 'SSSalud']}
+{'rnos': '2303', 'exists': True, 'nombre': 'OBRA SOCIAL PARA EL PERSONAL DE EMPRESAS DE LIMPIEZA, SERVICIOS Y MAESTRANZA DE MENDOZA', 'tipo_de_cobertura': 'Obra social', 'sigla': '', 'provincia': 'Mendoza', 'localidad': 'MENDOZA', 'domicilio': 'SAN LORENZO 221', 'cp': '5500', 'telefonos': ['0800-666-5579', '0261-420-1638'], 'emails': ['ospelsym@ospelsym.com.ar'], 'web': 'www.ospelsym.com.ar', 'sources': ['SISA', 'SSSalud']}
+{'rnos': '703', 'exists': True, 'nombre': 'MUTUAL DEL PERSONAL DEL AGUA Y LA ENERGIA DE MENDOZA', 'tipo_de_cobertura': 'Obra social', 'sigla': '', 'provincia': 'Mendoza', 'localidad': 'MENDOZA', 'domicilio': 'JOSE VICENTE ZAPATA 144', 'cp': '5500', 'telefonos': ['0261-4292012'], 'emails': ['mutualaye@infovia.com.ar'], 'web': None, 'sources': ['SISA', 'SSSalud']}
+
+```
+
+```python
+# ver las OSS que estan en la bases de datos de SISA o SSSalud
+count = {}
+for rnos, oss in osss.local_json_object.items():
+  key = '-'.join([val for val in oss['sources']])
+  if key not in count:
+    count[key] = 0
+  count[key] += 1
+
+print(count)
+```
+
+```
+{'SISA': 44, 'SISA-SSSalud': 288, 'SSSalud': 8}
+```
+
+Ver cuales Obras sociales provienen de SSSalud yn no están en SISA
+```python
+solo_sss = ['{} {}'.format(oss['rnos'], oss['nombre']) for rnos, oss in osss.local_json_object.items() if oss['sources'] == ['SSSalud']]
+print('\n\t'.join(solo_sss))
+```
+
+```
+3702 OBRA SOCIAL  YACIMIENTOS CARBONIFEROS
+3801 OBRA SOCIAL  WITCEL
+128300 OBRA SOCIAL PEONES DE TAXIS DE ROSARIO
+128508 OBRA SOCIAL DE FARMACEUTICOS Y BIOQUIMICOS
+128607 OBRA SOCIAL DE TRABAJADORES DEL PETROLEO Y GAS PRIVADO DEL CHUBUT
+128706 OBRA SOCIAL DEL PERSONAL DE DRAGADO Y BALIZAMIENTO
+128805 OBRA SOCIAL DEL PERSONAL ADUANERO DE LA REPUBLICA ARGENTINA
+128904 OBRA SOCIAL DE LOS TRABAJADORES ARGENTINOS DE CENTROS DE CONTACTOS
+```
+
 ## Funcionamiento interno
 
 Esta librería usa los CSVs de origen de estas dos fuentes y mezcla los datos. Expone tambien las clases internas.

@@ -1,0 +1,7472 @@
+{
+  "997001": {
+    "rnos": "997001",
+    "exists": true,
+    "nombre": "PROGRAMA FEDERAL INCLUIR SALUD (PFIS)",
+    "tipo_de_cobertura": "Plan o seguro p\u00fablico",
+    "sigla": "PFIS",
+    "provincia": "Ministerio de Salud de la Naci\u00f3n",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "996001": {
+    "rnos": "996001",
+    "exists": false,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "924001": {
+    "rnos": "924001",
+    "exists": true,
+    "nombre": "O.S.P. TIERRA DEL FUEGO(IPAUSS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IPAUSS",
+    "provincia": "Tierra del Fuego",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "923001": {
+    "rnos": "923001",
+    "exists": true,
+    "nombre": "O.S.P. SANTA CRUZ (CSS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "CSS",
+    "provincia": "Santa Cruz",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "922001": {
+    "rnos": "922001",
+    "exists": true,
+    "nombre": "O.S.P. RIO NEGRO (IPROSS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IPROSS",
+    "provincia": "R\u00edo Negro",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "921001": {
+    "rnos": "921001",
+    "exists": true,
+    "nombre": "O.S.P. NEUQUEN (ISSN)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "ISSN",
+    "provincia": "Neuqu\u00e9n",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "920001": {
+    "rnos": "920001",
+    "exists": true,
+    "nombre": "O.S.P. MISIONES (IPS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IPS MISIONES",
+    "provincia": "Misiones",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "919001": {
+    "rnos": "919001",
+    "exists": true,
+    "nombre": "O.S.P. LA PAMPA (SEMPRE)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "SEMPRE",
+    "provincia": "La Pampa",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "918002": {
+    "rnos": "918002",
+    "exists": true,
+    "nombre": "O.S.P. FORMOSA (AMP)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "AMP",
+    "provincia": "Formosa",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "918001": {
+    "rnos": "918001",
+    "exists": true,
+    "nombre": "O.S.P. FORMOSA (IMPF)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IMPF",
+    "provincia": "Formosa",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "917001": {
+    "rnos": "917001",
+    "exists": true,
+    "nombre": "O.S.P. CHUBUT (SEROS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "SEROS",
+    "provincia": "Chubut",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "916001": {
+    "rnos": "916001",
+    "exists": true,
+    "nombre": "O.S.P. CHACO (INSSSEP)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "INSSSEP",
+    "provincia": "Chaco",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "915001": {
+    "rnos": "915001",
+    "exists": true,
+    "nombre": "O.S.P. TUCUMAN (IPSST)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IPSST",
+    "provincia": "Tucum\u00e1n",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "914001": {
+    "rnos": "914001",
+    "exists": true,
+    "nombre": "O.S.P. SANTIAGO DEL ESTERO (IOSEP)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IOSEP",
+    "provincia": "Santiago del Estero",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "913001": {
+    "rnos": "913001",
+    "exists": true,
+    "nombre": "O.S.P. SANTA FE (IAPOS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IAPOS",
+    "provincia": "Santa Fe",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "912001": {
+    "rnos": "912001",
+    "exists": true,
+    "nombre": "O.S.P. SAN LUIS (DOSEP)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "DOSEP",
+    "provincia": "San Luis",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "911001": {
+    "rnos": "911001",
+    "exists": true,
+    "nombre": "O.S.P. SAN JUAN (DOS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "DOS",
+    "provincia": "San Juan",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "910001": {
+    "rnos": "910001",
+    "exists": true,
+    "nombre": "O.S.P. SALTA (IPS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IPS SALTA",
+    "provincia": "Salta",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "909001": {
+    "rnos": "909001",
+    "exists": true,
+    "nombre": "O.S.P. MENDOZA (OSEP)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEP",
+    "provincia": "Mendoza",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "908001": {
+    "rnos": "908001",
+    "exists": true,
+    "nombre": "O.S.P. LA RIOJA (APOS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "APOS",
+    "provincia": "La Rioja",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "907001": {
+    "rnos": "907001",
+    "exists": true,
+    "nombre": "O.S.P. JUJUY (ISJ)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "ISJ",
+    "provincia": "Jujuy",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "906001": {
+    "rnos": "906001",
+    "exists": true,
+    "nombre": "O.S.P. ENTRE RIOS (IOSPER)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IOSPER",
+    "provincia": "Entre R\u00edos",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "905001": {
+    "rnos": "905001",
+    "exists": true,
+    "nombre": "O.S.P. CORRIENTES (IOSCOR)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IOSCOR",
+    "provincia": "Corrientes",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "904001": {
+    "rnos": "904001",
+    "exists": true,
+    "nombre": "O.S.P. CORDOBA (APROSS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "APROSS",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "903001": {
+    "rnos": "903001",
+    "exists": true,
+    "nombre": "O.S.P. CATAMARCA (OSEP)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEP",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "902001": {
+    "rnos": "902001",
+    "exists": true,
+    "nombre": "O.S.P. BUENOS AIRES (IOMA)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "IOMA",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "901001": {
+    "rnos": "901001",
+    "exists": true,
+    "nombre": "O.S.P. CIUDAD AUT. DE BUENOS AIRES (ObSBA)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "ObSBA",
+    "provincia": "CABA",
+    "localidad": "",
+    "domicilio": "Sin especificar",
+    "cp": "",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "900102": {
+    "rnos": "900102",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE EMPRESAS FIAT Y EMPRESAS PEUGEOT CITROEN ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEF Y EPCA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA CORDOBA 487 6\u00ba PISO OFICINA \"L\"",
+    "cp": "1001",
+    "telefonos": [
+      "4 312-8269",
+      "NO POSEE",
+      "4 312-8261"
+    ],
+    "emails": [
+      "obrasocial@osfp.com.ar"
+    ],
+    "web": "no posee",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "800501": {
+    "rnos": "800501",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ACEROS PARANA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "SAN NICOLAS DE LOS ARROYOS",
+    "domicilio": "AVDA. MORENO 187",
+    "cp": "2900",
+    "telefonos": [
+      "03461-43-7600",
+      "03461-425632"
+    ],
+    "emails": [
+      "info@osap.org.ar"
+    ],
+    "web": "www.osap.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "800303": {
+    "rnos": "800303",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PAPEL MISIONERO S.A.I.F. Y C.",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Misiones",
+    "localidad": "CAPIOVI",
+    "domicilio": "PUERTO MINERAL - KM 1457 CAPIOVI",
+    "cp": "",
+    "telefonos": [
+      "03743-493237",
+      "03743-493444"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "800105": {
+    "rnos": "800105",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ATANOR S.A",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "MUNRO",
+    "domicilio": "ALBARELLO 4914",
+    "cp": "1605",
+    "telefonos": [
+      "4-721-3442",
+      "4-721-3440"
+    ],
+    "emails": [
+      "btapia@atanorsa.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "701002": {
+    "rnos": "701002",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA EL PERSONAL MUNICIPAL DE TRES DE FEBRERO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "CASEROS",
+    "domicilio": "AMADEO SABATINI 4661/5",
+    "cp": "1678",
+    "telefonos": [
+      "4734-7550"
+    ],
+    "emails": [
+      "osppm3f@arnet.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "700801": {
+    "rnos": "700801",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL MUNICIPAL DE LA MATANZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "SAN JUSTO",
+    "domicilio": "ALMAFUERTE 3160",
+    "cp": "1754",
+    "telefonos": [
+      "4651-3347",
+      "4651-4441"
+    ],
+    "emails": [
+      "ospmlm@tutopia.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "700108": {
+    "rnos": "700108",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL MUNICIPAL DE AVELLANEDA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "AVELLANEDA (AVELLANEDA)",
+    "domicilio": "LAPRIDA 70",
+    "cp": "1870",
+    "telefonos": [
+      "4222-3965",
+      "4222-6178"
+    ],
+    "emails": [
+      "ospma@hotmail.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "603100": {
+    "rnos": "603100",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE TRELEW",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Chubut",
+    "localidad": "TRELEW",
+    "domicilio": "CALLE SARMIENTO 426",
+    "cp": "9100",
+    "telefonos": [
+      "02965-4-24583"
+    ],
+    "emails": [
+      "adostrelew@hotmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "602602": {
+    "rnos": "602602",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE SAN JORGE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "SAN JORGE",
+    "domicilio": "EVA PERON 1301",
+    "cp": "",
+    "telefonos": [
+      "03406-440604",
+      "03406-440873"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "602404": {
+    "rnos": "602404",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE RUFINO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "RUFINO",
+    "domicilio": "GALAN 100",
+    "cp": "",
+    "telefonos": [
+      "03382-429203"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "602305": {
+    "rnos": "602305",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE ROSARIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "ADOS ROSARIO",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "SAN LUIS 1554 PISO 2 LOCAL 19",
+    "cp": "2000",
+    "telefonos": [
+      "0341-4117765"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "601302": {
+    "rnos": "601302",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE MAR DEL PLATA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "ADOS MAR DEL PLATA",
+    "provincia": "Buenos Aires",
+    "localidad": "MAR DEL PLATA  (MAR DEL PLATA)",
+    "domicilio": "25 DE MAYO 3139",
+    "cp": "",
+    "telefonos": [
+      "0223-494-8490"
+    ],
+    "emails": [
+      "adosmardelplata@hotmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "601203": {
+    "rnos": "601203",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE GUALEGUAY",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Entre R\u00edos",
+    "localidad": "GUALEGUAYCHU",
+    "domicilio": "25 DE MAYO 530/38",
+    "cp": "2840",
+    "telefonos": [
+      "03444-424006",
+      "03444-425070"
+    ],
+    "emails": [
+      "adosgualeguay@arnet.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "601104": {
+    "rnos": "601104",
+    "exists": true,
+    "nombre": "ASOCIACION GUALEGUAYCHU DE OBRAS SOCIALES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Entre R\u00edos",
+    "localidad": "GUALEGUAYCHU",
+    "domicilio": "OLEGARIO V. ANDRADE 1057",
+    "cp": "2820",
+    "telefonos": [
+      "03446-4-21370",
+      "03446-4-32666",
+      "03446-4-24133"
+    ],
+    "emails": [
+      "sanatagos@yahoo.com.ar"
+    ],
+    "web": "REVERTIDA LA SITUACION DE CRISIS RES1810/13 3/5/13",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "600903": {
+    "rnos": "600903",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE ESPERANZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "ADOS ESPERANZA",
+    "provincia": "Santa Fe",
+    "localidad": "ESPERANZA",
+    "domicilio": "RIVADAVIA 2499",
+    "cp": "",
+    "telefonos": [
+      "03496-42-0713",
+      "03496-42-1361"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "600408": {
+    "rnos": "600408",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE COMODORO RIVADAVIA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Chubut",
+    "localidad": "COMODORO RIVADAVIA  (COMODORO RIVADAVIA)",
+    "domicilio": "HIPOLITO YRIGOYEN 387",
+    "cp": "9000",
+    "telefonos": [
+      "0297-4470022",
+      "0297-4463955"
+    ],
+    "emails": [
+      "infoados@adoscomodoro.org.ar"
+    ],
+    "web": "www.adoscomodoro.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "600309": {
+    "rnos": "600309",
+    "exists": true,
+    "nombre": "ASOCIACION DE OBRAS SOCIALES DE BELLA VISTA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Corrientes",
+    "localidad": "BELLA VISTA",
+    "domicilio": "SALTA 801",
+    "cp": "",
+    "telefonos": [
+      "03777-4-71400"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "510303": {
+    "rnos": "510303",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA UNIVERSIDAD NACIONAL DEL CENTRO DE DE LA PROVINCIA DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "TANDIL",
+    "domicilio": "CALLE YRIGOYEN 566 PB",
+    "cp": "",
+    "telefonos": [
+      "02293-431289"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "510204": {
+    "rnos": "510204",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA UNIVERSIDAD NACIONAL DEL LITORAL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "SANTA FE",
+    "domicilio": "9 DE JULIO 2852",
+    "cp": "",
+    "telefonos": [
+      "0342-4571184",
+      "0342-4571185"
+    ],
+    "emails": [
+      "osunl@gigared.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "510105": {
+    "rnos": "510105",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA UNIVERSIDAD NACIONAL DE LA PATAGONIA SAN JUAN BOSCO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Chubut",
+    "localidad": "COMODORO RIVADAVIA  (COMODORO RIVADAVIA)",
+    "domicilio": "MITRE 837",
+    "cp": "",
+    "telefonos": [
+      "0297-446-4444"
+    ],
+    "emails": [
+      "obrasocial@dasu.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "510006": {
+    "rnos": "510006",
+    "exists": true,
+    "nombre": "DIRECCION GENERAL DE ASISTENCIA M#DICA SOCIAL UNIVERSITARIA - SAN JUAN",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "San Juan",
+    "localidad": "SAN JUAN",
+    "domicilio": "RIVADAVIA 431 ESTE",
+    "cp": "",
+    "telefonos": [
+      "0264-422-4318",
+      "0264-422-5194"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "500807": {
+    "rnos": "500807",
+    "exists": true,
+    "nombre": "INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PERU 169 PISO 10 (VER OBSERVACIONES)",
+    "cp": "1069",
+    "telefonos": [
+      "4-344-8500"
+    ],
+    "emails": [
+      "Cualquier actividad"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402905": {
+    "rnos": "402905",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE DIRECCI\u00d3N WITCEL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BARTOLOME MITRE 1371 5\u00ba DTO. P",
+    "cp": "",
+    "telefonos": [
+      "4372-0538",
+      "4372-2096"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "402806": {
+    "rnos": "402806",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE DIRECCION DE LA ACTIVIDAD AEROCOMERCIAL PRIVADA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VENEZUELA 900",
+    "cp": "1095",
+    "telefonos": [
+      "0800-222-0034",
+      "4-331-6556"
+    ],
+    "emails": [
+      "atencionalbeneficiario@osdaap.com.ar"
+    ],
+    "web": "www.osdaap.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402707": {
+    "rnos": "402707",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE DIRECCION OSDO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SAN MARTIN 523 PISO 4 DTO H",
+    "cp": "1425",
+    "telefonos": [
+      "0800-5556736",
+      "4393-5644",
+      "4-393-5750 L.ROTATIV"
+    ],
+    "emails": [
+      "OSDO@FIBERTEL.COM.AR",
+      "inf@osdo.com.ar"
+    ],
+    "web": "WWW.OSDO.COM.AR",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402608": {
+    "rnos": "402608",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ASOCIACION DE SERVICIOS SOCIALES PARA EMPRESARIOS Y PERSONAL DE DIRECCION DE EMPRESAS DEL COMERCIO, SERVICIOS, PRODUCCION, INDUSTRIA Y CIVIL (ASSPE)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "ASSPE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AV. LEANDRO ALEM 36 PISO 1\u00a7",
+    "cp": "1037",
+    "telefonos": [
+      "5300-9095",
+      "5300-9026",
+      "0800-345-7332"
+    ],
+    "emails": [
+      "info@asspefideicomiso.com.ar"
+    ],
+    "web": "www.asspe.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402509": {
+    "rnos": "402509",
+    "exists": true,
+    "nombre": "OBRA SOCIAL YPF",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSYPF",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MACACHA GUEMES 515 1\u00ba P",
+    "cp": "1041",
+    "telefonos": [
+      "5071-1623"
+    ],
+    "emails": [
+      "evitiellor@ypf.com"
+    ],
+    "web": "www.osypf.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402400": {
+    "rnos": "402400",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA EL PERSONAL DE DIRECCION DE LA INDUSTRIA VITIVINICOLA Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEDEIV",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CACHIMAYO 301",
+    "cp": "1263",
+    "telefonos": [
+      "4988-9440",
+      "4-432-6372"
+    ],
+    "emails": [
+      "osedeiv@infovia.com.ar",
+      "osedeiv@osedeiv.com.ar"
+    ],
+    "web": "www.osedeiv.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402301": {
+    "rnos": "402301",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ASOCIACION DEL PERSONAL SUPERIOR DE LA ORGANIZACION TECHINT",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "APSOT",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CORDOBA 320 PISO 2",
+    "cp": "1054",
+    "telefonos": [
+      "0800-122-8778",
+      "4-018-2500"
+    ],
+    "emails": [
+      "apsot.consultas@apsot.com"
+    ],
+    "web": "www.apsot.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402202": {
+    "rnos": "402202",
+    "exists": true,
+    "nombre": "OBRA SOCIAL MUTUALIDAD INDUSTRIAL TEXTIL ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSMITA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PARAGUAY 610 PISO 6",
+    "cp": "1057",
+    "telefonos": [
+      "0800-888-6482",
+      "4-313-3111"
+    ],
+    "emails": [
+      "info@osmita.com.ar"
+    ],
+    "web": "www.osmita.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402103": {
+    "rnos": "402103",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ASOCIACION DEL PERSONAL DE DIRECCION DE LA INDUSTRIA SIDERURGICA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "APDIS",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. BELGRANO 367 PISO 5\u00ba",
+    "cp": "1414",
+    "telefonos": [
+      "4-331-1043/49"
+    ],
+    "emails": [
+      "info@apdis.com.ar"
+    ],
+    "web": "www.apdis.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "402004": {
+    "rnos": "402004",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA SANIDAD LUIS PASTEUR",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSLPASTEUR",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CALLAO 764/66",
+    "cp": "1023",
+    "telefonos": [
+      "4-370-1000"
+    ],
+    "emails": [
+      "info@oslpasteur.com.ar"
+    ],
+    "web": "www.oslpasteur.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "401902": {
+    "rnos": "401902",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE PERFUMERIA E.W. HOPE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "WHOPE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. CORDOBA 1345 PISO 5",
+    "cp": "1055",
+    "telefonos": [
+      "4815-0747",
+      "0800-333-34673"
+    ],
+    "emails": [
+      "obrasocial@whope.com.ar"
+    ],
+    "web": "www.whope.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "401803": {
+    "rnos": "401803",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ASOCIACION MUTUAL DEL PERSONAL DE PHILIPS ARGENTINA (AMPAR)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "AMPAR",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VEDIA 3892",
+    "cp": "1430",
+    "telefonos": [
+      "4-546-7781",
+      "4-546-7777"
+    ],
+    "emails": [
+      "obrasocial.ampar@philips.com"
+    ],
+    "web": "www.ampar.org",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "401704": {
+    "rnos": "401704",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EMPRESARIOS, PROFESIONALES Y MONOTRIBUTISTAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSDEPYM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "RECONQUISTA 458 PISO 2",
+    "cp": "1003",
+    "telefonos": [
+      "5-288-5600"
+    ],
+    "emails": [
+      "info@osdepym.com.ar"
+    ],
+    "web": "www.osdepym.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "401605": {
+    "rnos": "401605",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA PRIVADA DEL PETROLEO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSDIPP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SAN MARTIN 439 PISO 3",
+    "cp": "1002",
+    "telefonos": [
+      "5129-3900"
+    ],
+    "emails": [
+      "gerencia.general@osdipp.com.ar"
+    ],
+    "web": "www.osdipp.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "401308": {
+    "rnos": "401308",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA EL PERSONAL DE DIRECCION DE LA INDUSTRIA MADERERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSMAD",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA BELGRANO 748 PISO 10 OF. 103",
+    "cp": "1092",
+    "telefonos": [
+      "4-331-9578",
+      "4-331-9580"
+    ],
+    "emails": [],
+    "web": "www.osmad.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "401209": {
+    "rnos": "401209",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA METALURGICA Y DEMAS ACTIVIDADES EMPRESARIAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSIM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MONTEVIDEO 373 PISO 4\u00a7",
+    "cp": "1019",
+    "telefonos": [
+      "410-6700",
+      "4-0106746",
+      "4-374-1000"
+    ],
+    "emails": [
+      "osim@osim.com.ar"
+    ],
+    "web": "www.osim.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "401100": {
+    "rnos": "401100",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION ALFREDO FORTABAT",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BOUCHARD 680 PISO 4",
+    "cp": "",
+    "telefonos": [
+      "4-319-3910",
+      "4-319-3000"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "401001": {
+    "rnos": "401001",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LAS EMPRESAS QUE ACTUAN EN FRUTOS DEL PAIS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "FRUTOS",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BALCARCE 880 PISO 1\u00a7",
+    "cp": "1064",
+    "telefonos": [
+      "4 362-5300",
+      "4 362-5025"
+    ],
+    "emails": [
+      "frutosdelpais@sion.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400909": {
+    "rnos": "400909",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ACCION SOCIAL DE EMPRESARIOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "ASE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LIMA 87 PISO 9\u00ba",
+    "cp": "1073",
+    "telefonos": [
+      "4-124-2800",
+      "0810-333-3273",
+      "4-1243005"
+    ],
+    "emails": [
+      "ase@ase.com.ar"
+    ],
+    "web": "www.ase.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400800": {
+    "rnos": "400800",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EJECUTIVOS Y DEL PERSONAL DE DIRECCION DE EMPRESAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSDE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. LEANDRO N. ALEM 1067 PISO 9",
+    "cp": "1001",
+    "telefonos": [
+      "0800-555-6733",
+      "4-310-5000"
+    ],
+    "emails": [
+      "gerencia@osde.com.ar"
+    ],
+    "web": "www.osde.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400701": {
+    "rnos": "400701",
+    "exists": true,
+    "nombre": "OBRA SOCIAL CAMARA DE LA INDUSTRIA CURTIDORA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCICA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. BELGRANO 3978",
+    "cp": "1210",
+    "telefonos": [
+      "4-981-1816",
+      "4-981-4466"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400602": {
+    "rnos": "400602",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DIRECTIVO DE LA INDUSTRIA DE LA CONSTRUCCION",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSDIC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. ROQUE SAENZ PE\u00a5A 615 - PISO 3\u00ba - OF. 324",
+    "cp": "1425",
+    "telefonos": [
+      "4394-7133/4",
+      "4-326-8870"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400503": {
+    "rnos": "400503",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ASOCIACION DEL PERSONAL DE DIRECCION Y JERARQUICO DE LA INDUSTRIA DEL CIGARRILLO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "APDJIC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LAVALLE N\u00a7 445 PISO 4\u00a7",
+    "cp": "1047",
+    "telefonos": [
+      "4-393-4393"
+    ],
+    "emails": [
+      "apdjic@ba.net"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400404": {
+    "rnos": "400404",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA CERVECERA Y MALTERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "SERVESALUD",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "TUCUMAN 650 PISO 3",
+    "cp": "1021",
+    "telefonos": [
+      "4-322-5224",
+      "0800-362-7398",
+      "0800-666-5020"
+    ],
+    "emails": [
+      "sedece@servesalud.com.ar"
+    ],
+    "web": "www.servesalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400305": {
+    "rnos": "400305",
+    "exists": true,
+    "nombre": "OBRA SOCIAL COOPERATIVA LTDA. DE ASISTENCIA MEDICA ,FARMACEUTICA,CREDITO, Y CONSUMO DEL PERSONAL SUPERIOR DE LA INDUSTRIA DEL CAUCHO Y OTRAS ACTIVIDADES INDUSTRIALES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "CAMPSIC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "DR. EMILIO RAVIGNANI 2540",
+    "cp": "1425",
+    "telefonos": [
+      "4-773-5835"
+    ],
+    "emails": [
+      "info@oscampsic.com"
+    ],
+    "web": "www.campsic.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400206": {
+    "rnos": "400206",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA AUTOMOTRIZ ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPREME",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PIEDRAS 1636/40",
+    "cp": "1429",
+    "telefonos": [
+      "4307-7542",
+      "0800-999-7384"
+    ],
+    "emails": [
+      "administraci\u00f2n@ospreme.com.ar",
+      "ospreme@speedy.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "400107": {
+    "rnos": "400107",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LAS EMPRESAS DE LA ALIMENTACION Y DEMAS ACTIVIDADES EMPRESARIAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OPDEA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BERNANDO DE IRIGOYEN 540 PISO 2#",
+    "cp": "1072",
+    "telefonos": [
+      "4-338-2400",
+      "0800-999-6733"
+    ],
+    "emails": [
+      "info@opdea.org.ar"
+    ],
+    "web": "www.opdea.org",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "304003": {
+    "rnos": "304003",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE VOLKSWAGEN ARGENTINA S.A.",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MAIPU 267 PISO 11",
+    "cp": "1084",
+    "telefonos": [
+      "4-317-9515",
+      "4-317-9000"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "303901": {
+    "rnos": "303901",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE FORD AGENTINA S.C.A",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA DE MAYO 651",
+    "cp": "1084",
+    "telefonos": [
+      "4-756-9238",
+      "4-756-9328"
+    ],
+    "emails": [
+      "03327-42-9328",
+      "planmedi@ford.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "303703": {
+    "rnos": "303703",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PBBPOLISUR SA DE BAHIA BLANCA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "BAHIA BLANCA",
+    "domicilio": "ALMAFUERTE 29",
+    "cp": "8000",
+    "telefonos": [
+      "0291-453-8208",
+      "0291-454-4824"
+    ],
+    "emails": [
+      "ospbb@arnet.com.ar",
+      "info@ospbb.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "303406": {
+    "rnos": "303406",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL SHELL-CAPSA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. PTE. ROQUE SAENZ PE\u00a5A 788",
+    "cp": "1383",
+    "telefonos": [
+      "4-328-0444",
+      "4-328-0333"
+    ],
+    "emails": [
+      "silvia_grucci@scapsa.shell.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "303307": {
+    "rnos": "303307",
+    "exists": true,
+    "nombre": "OBRA SOCIAL CABOT ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "CAMPANA",
+    "domicilio": "AVDA. ROCA 189",
+    "cp": "2804",
+    "telefonos": [
+      "03487-4-26222",
+      "03489-4-24224"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "303109": {
+    "rnos": "303109",
+    "exists": true,
+    "nombre": "OBRA SOCIAL SUPERCO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CERRITO 1070 PISO 5 OF 95",
+    "cp": "1010",
+    "telefonos": [
+      "4-811-4407",
+      "4-813-4584"
+    ],
+    "emails": [
+      "ossuperco@speedy.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "302809": {
+    "rnos": "302809",
+    "exists": true,
+    "nombre": "OBRA SOCIAL REFINERIAS DE MAIZ S.A.I.C.F.",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSRM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CORDOBA 1345 PISO 16 DEPTO \"A\"",
+    "cp": "1055",
+    "telefonos": [
+      "4-815-0747"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "302601": {
+    "rnos": "302601",
+    "exists": true,
+    "nombre": "OBRA SOCIAL COOPERATIVA DE ASISTENCIA MUTUA Y TURISMO DEL PERSONAL DE LAS SOCIEDADES PIRELLI LTDA.",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "COMPIR",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PERGAMINO 402",
+    "cp": "1406",
+    "telefonos": [
+      "4-612-1643",
+      "4-612-2799"
+    ],
+    "emails": [
+      "compir@speedy.com.ar"
+    ],
+    "web": "www.compir.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "302304": {
+    "rnos": "302304",
+    "exists": true,
+    "nombre": "OBRA SOCIAL COMPANIA MINERA AGUILAR S.A",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CORDOBA 883 PISO 11",
+    "cp": "1092",
+    "telefonos": [
+      "4-325-9930/33"
+    ],
+    "emails": [
+      "bue@aguilar-arzinc.com"
+    ],
+    "web": "HOSPITAL EL AGUILAR DTO HUMAHUACA 4634 JUJUY",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "302106": {
+    "rnos": "302106",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA DIRECTIVOS, TECNICOS Y EMPLEADOS DE JOHN DEERE ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "DITEM",
+    "provincia": "Santa Fe",
+    "localidad": "GRANADERO BAIGORRIA",
+    "domicilio": "JUAN ORSETTI 481",
+    "cp": "2152",
+    "telefonos": [
+      "0341-4-718001",
+      "0341-4-101825"
+    ],
+    "emails": [
+      "bue@aguilar-sulfacid.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "301509": {
+    "rnos": "301509",
+    "exists": true,
+    "nombre": "OBRA SOCIAL MUTUALIDAD EMPLEADOS FIRESTONE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "LLAVALLOL",
+    "domicilio": "ANTARTIDA ARGENTINA 2684",
+    "cp": "",
+    "telefonos": [
+      "4-298-2984"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "300704": {
+    "rnos": "300704",
+    "exists": true,
+    "nombre": "OBRA SOCIAL CERAS JOHNSON",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "JOHNSON",
+    "provincia": "Buenos Aires",
+    "localidad": "PABLO PODESTA",
+    "domicilio": "AV. MARQUEZ 2249",
+    "cp": "1609",
+    "telefonos": [
+      "4841-8000 INT 506",
+      "4-841-8242"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "200400": {
+    "rnos": "200400",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA EMPRESA NACIONAL DE CORREOS Y TELEGRAFOS S.A. Y DE LAS COMUNICACIONES DE LA REPULICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MAIPU 39",
+    "cp": "1084",
+    "telefonos": [
+      "4-343-0621/26"
+    ],
+    "emails": [
+      "gergral@sinectis.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "128409": {
+    "rnos": "128409",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL SINDICATO OBREROS Y EMPLEADOS DE EMPRESAS DE LIMPIEZA,SERVICIOS Y AFINES DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSSOELSAC",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "ENTRE RIOS 372",
+    "cp": "5000",
+    "telefonos": [
+      "(0351) 155181407",
+      "(0351) 4215431"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "128201": {
+    "rnos": "128201",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL SINDICATO UNICO DE RECOLECTORES DE RESIDUOS Y BARRIDO DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSSURRBAC",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "",
+    "domicilio": "LIMA 342",
+    "cp": "5000",
+    "telefonos": [
+      "(0351)152072236"
+    ],
+    "emails": [
+      "surrbacinstitucional@gmail.com",
+      "\u00bfsurrbacinstitucional@gmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "128102": {
+    "rnos": "128102",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA UNION DE TRABAJADORES DEL INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSUTI",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PERU(1201-1800)",
+    "cp": "1035",
+    "telefonos": [
+      "0800-666-7884",
+      "5032-5000"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "128003": {
+    "rnos": "128003",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA FEDERACION DE SINDICATOS DE LA INDUSTRIA QUIMICAS Y PETROQUIMICAS DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "Pav\u00f3n(2901-4400)",
+    "cp": "1253",
+    "telefonos": [
+      "4921-3725"
+    ],
+    "emails": [
+      "festiqypra tesoreria@live.com.ar",
+      "festiqypra_tesoreria@live.com.ar"
+    ],
+    "web": "www.festiqypra.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127901": {
+    "rnos": "127901",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE PETROLEROS PRIVADOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OS.PE.PRI",
+    "provincia": "Neuqu\u00e9n",
+    "localidad": "NEUQUEN",
+    "domicilio": "SANTA CRUZ 275",
+    "cp": "8300",
+    "telefonos": [
+      "0800-333-8448",
+      "(0299)430-0902",
+      "(0299) 430-0910"
+    ],
+    "emails": [
+      "mildepetroleo@speedy.com.ar"
+    ],
+    "web": "www.ospepri.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127802": {
+    "rnos": "127802",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LUZ Y FUERZA DE LA PATAGONIA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSLYF PATAGONIA",
+    "provincia": "Chubut",
+    "localidad": "COMODORO RIVADAVIA  (COMODORO RIVADAVIA)",
+    "domicilio": "MAIPU 1631",
+    "cp": "9100",
+    "telefonos": [
+      "0297-4464832",
+      "0800-666-4363",
+      "0297-4473213"
+    ],
+    "emails": [
+      "info@generarsalud.com.ar"
+    ],
+    "web": "www.generarsalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127703": {
+    "rnos": "127703",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PERSONAL ESTACIONES DE SERVICIO,GARAGES,PLAYAS Y LAVADEROS DE LA PROVINCIA DEL CHACO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPESCHA",
+    "provincia": "Chaco",
+    "localidad": "RESISTENCIA",
+    "domicilio": "JULIO A. ROCA 755",
+    "cp": "3500",
+    "telefonos": [
+      "03722-444011"
+    ],
+    "emails": [
+      "soesgypechaco@gigared.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127604": {
+    "rnos": "127604",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA EL PERSONAL DE OBRAS Y SERVICIOS SANITARIOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSOSS",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVELLANEDA 212 PISO 3",
+    "cp": "1405",
+    "telefonos": [
+      "4 958-2002/04/6",
+      "0800-666-7805",
+      "0800-999-1702"
+    ],
+    "emails": [
+      "presidencia@ososs.com.ar"
+    ],
+    "web": "www.ososs.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127505": {
+    "rnos": "127505",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LAS ASOCIACIONES DE EMPLEADOS DE FARMACIA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSADEF",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "RINCON 1035",
+    "cp": "1227",
+    "telefonos": [
+      "0800-666-2333",
+      "4941-6330",
+      "4941-0003"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127406": {
+    "rnos": "127406",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE OBREROS Y EMPLEADOS TINTOREROS SOMBREREROS Y LAVADEROS DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSOETSYLARA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CULPINA 25/29",
+    "cp": "1406",
+    "telefonos": [
+      "4-612-3498",
+      "4-612-2000"
+    ],
+    "emails": [],
+    "web": "www.uoesylra.org",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127307": {
+    "rnos": "127307",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES VIALES Y AFINES DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA BELGRANO 768 PISO 6 L",
+    "cp": "1097",
+    "telefonos": [
+      "4-342-5368"
+    ],
+    "emails": [
+      "info@vialsalud.com.ar"
+    ],
+    "web": "www.vialsalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127208": {
+    "rnos": "127208",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE MANDOS MEDIOS DE TELECOMUNICACIONES EN LA REPUBLICA ARGENTINA Y MERCOSUR",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSMMEDT",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BELGRANO 3810 1\u00ba",
+    "cp": "1414",
+    "telefonos": [
+      "0810 777 6767",
+      "4-983-8880/8882"
+    ],
+    "emails": [
+      "info@osmmedt.com.ar",
+      "upjet@arnet.com.ar"
+    ],
+    "web": "www.osmmedt.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127109": {
+    "rnos": "127109",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE TELECOMUNICACIONES SINDICATO BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPETELCO",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "URUGUAY 362 1\u00ba",
+    "cp": "1015",
+    "telefonos": [
+      "4-373-0311",
+      "4-3730311/0248",
+      "0800-999-6241"
+    ],
+    "emails": [
+      "info@ospetelco.org"
+    ],
+    "web": "www.ospetelco.org",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "127000": {
+    "rnos": "127000",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES DE ESTACIONES DE SERVICIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTES",
+    "provincia": "Mendoza",
+    "localidad": "GUAYMALLEN",
+    "domicilio": "BANDERA DE LOS ANDES 239",
+    "cp": "5521",
+    "telefonos": [
+      "0261-4326-292",
+      "0261-431-7309"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126908": {
+    "rnos": "126908",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS MEDICOS DE LA CIUDAD DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSMEDICA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "HIP\u00d3LITO YRIGOYEN 1264/1270",
+    "cp": "1058",
+    "telefonos": [
+      "4-370-1777",
+      "0800-999-5396",
+      "5277-8300"
+    ],
+    "emails": [
+      "obrasocial@osmedica.com.ar"
+    ],
+    "web": "www.osmedica.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126809": {
+    "rnos": "126809",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CONDUCTORES DE REMISES Y AUTOS AL INSTANTE Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCRAIA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CERRITO 228 1\u00ba B",
+    "cp": "1010",
+    "telefonos": [
+      "4381-6415",
+      "4-381-2507"
+    ],
+    "emails": [
+      "oscraia@live.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126700": {
+    "rnos": "126700",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD AZUCARERA TUCUMANA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Tucum\u00e1n",
+    "localidad": "SAN MIGUEL DE TUCUMAN",
+    "domicilio": "CONGRESO DE TUCUMAN 341",
+    "cp": "4000",
+    "telefonos": [
+      "0381-4-205151",
+      "0381-4225810"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126601": {
+    "rnos": "126601",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE INDUSTRIAS QUIMICAS Y PETROQUIMICAS DE ZARATE CAMPANA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OPZC",
+    "provincia": "Buenos Aires",
+    "localidad": "ZARATE",
+    "domicilio": "DR FELIX PAGOLA 1712",
+    "cp": "2800",
+    "telefonos": [
+      "0387-4-22102",
+      "0387-4-20613"
+    ],
+    "emails": [
+      "info@obrasocialquimicos.com.ar",
+      "hadad@ba.net"
+    ],
+    "web": "www.obrasocialquimicos.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126502": {
+    "rnos": "126502",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA CONFEDERACION DE OBREROS Y EMPLEADOS MUNICIPALES ARGENTINA (OSCOEMA)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCOEMA",
+    "provincia": "Buenos Aires",
+    "localidad": "AVELLANEDA (AVELLANEDA)",
+    "domicilio": "MITRE 1601",
+    "cp": "1091",
+    "telefonos": [
+      "4203-8856",
+      "0810-333-3057"
+    ],
+    "emails": [
+      "oscoema@gmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126304": {
+    "rnos": "126304",
+    "exists": true,
+    "nombre": "OBRA SOCIAL BANCARIA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSBA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "25 DE MAYO 182",
+    "cp": "1002",
+    "telefonos": [
+      "4-340-7300",
+      "0800-555-6722"
+    ],
+    "emails": [
+      "info@osba.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126205": {
+    "rnos": "126205",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS EMPLEADOS DE COMERCIO Y ACTIVIDADES CIVILES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSECAC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MORENO 648/50",
+    "cp": "1091",
+    "telefonos": [
+      "0800-666-0400",
+      "4-331-1910/1919",
+      "4 331-2063"
+    ],
+    "emails": [],
+    "web": "www.osecac.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126106": {
+    "rnos": "126106",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA LOS TRABAJADORES DE LA EDUCACION PRIVADA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTEP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SALTA 534",
+    "cp": "1074",
+    "telefonos": [
+      "4384-0017/18",
+      "4381-7637"
+    ],
+    "emails": [
+      "ostep@infovia.com.ar"
+    ],
+    "web": "www.ostepdigital.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "126007": {
+    "rnos": "126007",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA FEDERACION GREMIAL DE LA INDUSTRIA DE LA CARNE Y SUS DERIVADOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "HIPOLITO YRIGOYEN 746",
+    "cp": "1086",
+    "telefonos": [
+      "4-378-9400",
+      "0800-222-7938"
+    ],
+    "emails": [],
+    "web": "www.obrasocialdelacarne.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "125905": {
+    "rnos": "125905",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE ARBITROS DEPORTIVOS DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSADRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VIAMONTE 1835",
+    "cp": "1056",
+    "telefonos": [
+      "4021-9300 AL 9329"
+    ],
+    "emails": [],
+    "web": "www.osadra.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "125707": {
+    "rnos": "125707",
+    "exists": true,
+    "nombre": "OBRA SOCIAL UNION PERSONAL DE LA UNION DEL PERSONAL CIVIL DE LA NACION",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPCN",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "TUCUMAN 949",
+    "cp": "1049",
+    "telefonos": [
+      "4-321-9400",
+      "0810-8888646"
+    ],
+    "emails": [
+      "info@unionpersonal.com.ar"
+    ],
+    "web": "www.unionpersonal.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "125509": {
+    "rnos": "125509",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA FEDERACION ARGENTINA DEL TRABAJADOR DE LAS UNIVERSIDADES NACIONALES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSFATUN",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MEDRANO 843",
+    "cp": "1210",
+    "telefonos": [
+      "0-800-666--5173",
+      "4-863-2638",
+      "4867-0816"
+    ],
+    "emails": [
+      "info@osfatun.com.ar"
+    ],
+    "web": "www.osfatun.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "125301": {
+    "rnos": "125301",
+    "exists": true,
+    "nombre": "OBRA SOCIAL FEDERAL DE LA FEDERACION NACIONAL DE TRABAJADORES DE OBRAS SANITARIAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSFFENTOS",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PASCO 580 - PB",
+    "cp": "1219",
+    "telefonos": [
+      "5901-1005/7",
+      "0800-555-1133",
+      "5901-1009"
+    ],
+    "emails": [
+      "osffentos@fentos.org. ar.",
+      "osfentos@sinectis.com.ar"
+    ],
+    "web": "www.fentos.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "125103": {
+    "rnos": "125103",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS PROFESIONALES UNIVERSITARIOS DEL AGUA Y LA ENERGIA ELECTRICA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPUAYE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "RECONQUISTA 1048 PISO 2",
+    "cp": "1003",
+    "telefonos": [
+      "4-312-1111",
+      "4-312-0409/06"
+    ],
+    "emails": [
+      "ospuaye@apuaye.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "125004": {
+    "rnos": "125004",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE YACIMIENTOS CARBONIFEROS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "24 DE NOVIEMBRE 1126",
+    "cp": "",
+    "telefonos": [
+      "0800-333-4204",
+      "4957-0882"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "124506": {
+    "rnos": "124506",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES DE LA INDUSTRIA DEL GAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTIG",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BOEDO 90",
+    "cp": "1206",
+    "telefonos": [
+      "4-958-0700/4046",
+      "4-958-0230/1455"
+    ],
+    "emails": [
+      "ostig@impsat 1.com.ar."
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "124001": {
+    "rnos": "124001",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE BOXEADORES AGREMIADOS DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSBARA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MEDRANO 167",
+    "cp": "1013",
+    "telefonos": [
+      "4-958-7425"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "123909": {
+    "rnos": "123909",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE VENDEDORES AMBULANTES DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSVARA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "GALLO 443",
+    "cp": "1172",
+    "telefonos": [
+      "4-866-5482",
+      "4-866-5478"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "123701": {
+    "rnos": "123701",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE PEONES DE TAXIS DE LA CAPITAL FEDERAL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPETAX",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA LA PLATA 1554/60/62/64",
+    "cp": "1250",
+    "telefonos": [
+      "4-920-7100",
+      "4-920-7000"
+    ],
+    "emails": [
+      "sindicato taxis@speedy.com.ar"
+    ],
+    "web": "www.ospetax.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "123602": {
+    "rnos": "123602",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES DE PERKINS ARGENTINA S.A.I.C",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTP",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "ROQUE SAENZ PE\u00d1A 1377",
+    "cp": "5000",
+    "telefonos": [
+      "0800-444-0663",
+      "0351-4-715738",
+      "0351-4713240"
+    ],
+    "emails": [
+      "obrasocialperkins@hotmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "123503": {
+    "rnos": "123503",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE TUCUMAN",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPRENTUC",
+    "provincia": "Tucum\u00e1n",
+    "localidad": "SAN MIGUEL DE TUCUMAN",
+    "domicilio": "JUNIN 775",
+    "cp": "4000",
+    "telefonos": [
+      "0381-431-0941",
+      "0381-430-5567"
+    ],
+    "emails": [
+      "osprentuc@yahoo.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "123404": {
+    "rnos": "123404",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE ROSARIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPRO",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "JUAN MANUEL DE ROSAS 958",
+    "cp": "2000",
+    "telefonos": [
+      "0341-4-408292",
+      "0341-4-445918"
+    ],
+    "emails": [
+      "ospro@arnet.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "123305": {
+    "rnos": "123305",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE SOCIEDADES DE AUTORES Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPESA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LAVALLE 1576 PISO 1",
+    "cp": "1019",
+    "telefonos": [
+      "4-374-4452/4863",
+      "4-373-1140"
+    ],
+    "emails": [
+      "ospesa@infovia.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "123107": {
+    "rnos": "123107",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TALLERISTAS A DOMICILIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTAD",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ACEVEDO 553",
+    "cp": "1414",
+    "telefonos": [
+      "4-854-4708",
+      "4-854-3506"
+    ],
+    "emails": [
+      "ostad@fibertel.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "123008": {
+    "rnos": "123008",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA EL PERSONAL DE ESTACIONES DE SERVICIO, GARAGES, PLAYAS DE ESTACIONAMIENTO, LAVADEROS AUTOMATICOS Y GOMERIAS DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPES",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. JUJUY 110 PISO 3 DTOS A , B",
+    "cp": "1083",
+    "telefonos": [
+      "4956-0321",
+      "4956-0954"
+    ],
+    "emails": [
+      "central@ospes.org.ar"
+    ],
+    "web": "www.ospes.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "122906": {
+    "rnos": "122906",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE ESTACIONES DE SERVICIO, GARAGES, PLAYAS Y LAVADEROS AUTOMATICOS DE LA PROVINCIA DE SANTA FE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPESGA",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "RIOBAMBA 1069",
+    "cp": "2000",
+    "telefonos": [
+      "0341-4-815552",
+      "0341-4-826705"
+    ],
+    "emails": [
+      "ospesgaros@arnet.com.ar",
+      "recpcion@ospesga.com.ar"
+    ],
+    "web": "www.ospesga.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "122807": {
+    "rnos": "122807",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE VIGILANCIA Y SEGURIDAD COMERCIAL, INDUSTRIAL E INVESTIGACIONES PRIVADAS DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEVIC",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "FAUSTINO ALLENDE 189 - BARRIO INDEPENDENCIA",
+    "cp": "5000",
+    "telefonos": [
+      "0351-471-5924",
+      "0810-888-6773"
+    ],
+    "emails": [
+      "ospevic@ospevic.org.ar"
+    ],
+    "web": "www.ospevic.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "122609": {
+    "rnos": "122609",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD VITIVINICOLA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPAV",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "WARNES 1894",
+    "cp": "1416",
+    "telefonos": [
+      "0800-444-6772",
+      "4-583-7894",
+      "4-582-0579"
+    ],
+    "emails": [
+      "info@ospav.com.ar"
+    ],
+    "web": "www.ospav.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "122500": {
+    "rnos": "122500",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL VIDRIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIV",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BALBASTRO 453",
+    "cp": "1424",
+    "telefonos": [
+      "4-924-4417",
+      "4-924-4626"
+    ],
+    "emails": [],
+    "web": "www.soivavidrio.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "122401": {
+    "rnos": "122401",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EMPLEADOS DE LA INDUSTRIA DEL VIDRIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEIV",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CARABOBO 217",
+    "cp": "1406",
+    "telefonos": [
+      "4-631-9205",
+      "4-631-1042"
+    ],
+    "emails": [
+      "oseiv@ciudad.com.ar",
+      "oseiv.vidrio@hotmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "122302": {
+    "rnos": "122302",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD VIAL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPA-VIAL",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. DE MAYO 1439",
+    "cp": "1085",
+    "telefonos": [
+      "4-381-7714",
+      "4 382-3863"
+    ],
+    "emails": [
+      "ospacentral@yahoo.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "122104": {
+    "rnos": "122104",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE VIAJANTES VENDEDORES DE LA REPUBLICA ARGENTINA. (ANDAR)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSVVRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MORENO 2045",
+    "cp": "1094",
+    "telefonos": [
+      "0800-345-26327",
+      "5237-1900"
+    ],
+    "emails": [
+      "info@redsocialfuva.com.ar"
+    ],
+    "web": "www.redsocialfuva.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "122005": {
+    "rnos": "122005",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL VESTIDO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIV",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "TUCUMAN 737",
+    "cp": "1049",
+    "telefonos": [
+      "08009991941",
+      "4-393-7114",
+      "4-322-0463"
+    ],
+    "emails": [
+      "presidencia@osvestido.com.ar",
+      "factempospiv@ciudad.com.ar"
+    ],
+    "web": "www.osvestido.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "121903": {
+    "rnos": "121903",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE VAREADORES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "MARTINEZ",
+    "domicilio": "ENTRE RIOS 1395",
+    "cp": "1640",
+    "telefonos": [
+      "4-792-2934",
+      "4-793-1903"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "121804": {
+    "rnos": "121804",
+    "exists": true,
+    "nombre": "OBRA SOCIAL CONDUCTORES DE TAXIS DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTC",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "SAN LUIS 373 - B. GUEMES",
+    "cp": "5000",
+    "telefonos": [
+      "0351-4213888",
+      "0351-4247799"
+    ],
+    "emails": [
+      "osct-cba@hotmaail.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "121705": {
+    "rnos": "121705",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD DEL TURF",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPAT",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "FLORIDA 15 PISO 6 OF 10 B",
+    "cp": "1005",
+    "telefonos": [
+      "4-343-7607",
+      "0800-999-1656",
+      "4-343-5171"
+    ],
+    "emails": [],
+    "web": "www.ospat.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "121606": {
+    "rnos": "121606",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CONDUCTORES DE TRANSPORTE COLECTIVO DE PASAJEROS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MORENO 2969",
+    "cp": "1209",
+    "telefonos": [
+      "4-931-5452",
+      "4-931-2144",
+      "INT 109.183,155,117,"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "121507": {
+    "rnos": "121507",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA INDUSTRIA DEL TRANSPORTE AUTOMOTOR DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSITAC",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "PARANA 327",
+    "cp": "5000",
+    "telefonos": [
+      "0351-4-238798"
+    ],
+    "emails": [
+      "aoita@ositac.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "121309": {
+    "rnos": "121309",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL TRACTOR",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIT",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "SAN LORENZO 2181",
+    "cp": "2000",
+    "telefonos": [
+      "0341-410-1800/1/2",
+      "0341-410-1825"
+    ],
+    "emails": [
+      "soeita@yahoo.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "121101": {
+    "rnos": "121101",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EMPLEADOS TEXTILES Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSETYA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BENITO QUINQUELA MARTIN 1738",
+    "cp": "1433",
+    "telefonos": [
+      "4-301-4175/78",
+      "0810-999-6738"
+    ],
+    "emails": [
+      "informes@osetya.com.ar"
+    ],
+    "web": "www.osetya.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "121002": {
+    "rnos": "121002",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA TEXTIL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIT",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. LA PLATA 754",
+    "cp": "1235",
+    "telefonos": [
+      "0800-333-63733",
+      "4-921-4061/63"
+    ],
+    "emails": [
+      "ospit@aotra.com.ar"
+    ],
+    "web": "www.ospit.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "120900": {
+    "rnos": "120900",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE TELEVISION",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPTV",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "QUINTINO BOCAYUVA 38/50",
+    "cp": "1181",
+    "telefonos": [
+      "5-555-3100",
+      "0800-288-8872"
+    ],
+    "emails": [
+      "info@tvsalud.com.ar"
+    ],
+    "web": "www.tvsalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "120801": {
+    "rnos": "120801",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES DE LAS COMUNICACIONES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTRAC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CHACABUCO 140",
+    "cp": "1069",
+    "telefonos": [
+      "4-345-0084",
+      "4-342-5142"
+    ],
+    "emails": [
+      "ostrac@infovia.com.ar"
+    ],
+    "web": "www.aatrac.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "120702": {
+    "rnos": "120702",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LAS TELECOMUNICACIONES DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTEL",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "GRAL. JUAN D. PERON 2740",
+    "cp": "1256",
+    "telefonos": [
+      "4-954-5200",
+      "0800-333-6783",
+      "4-954-6400"
+    ],
+    "emails": [
+      "compras@ostel.org"
+    ],
+    "web": "www.ostel.org",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "120603": {
+    "rnos": "120603",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EMPLEADOS DEL TABACO DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSETRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BOLIVIA 384",
+    "cp": "1406",
+    "telefonos": [
+      "4-637-3236",
+      "4-637-3232"
+    ],
+    "emails": [
+      "osetra@advancedsl.com.ar"
+    ],
+    "web": "www.suetra-tabacos.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "120504": {
+    "rnos": "120504",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL TABACO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIT",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ESTEBAN BONORINO 281",
+    "cp": "1406",
+    "telefonos": [
+      "4-613-0804",
+      "4-613-9183"
+    ],
+    "emails": [
+      "ospitabaco@infovia.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "120405": {
+    "rnos": "120405",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA EMPRESA SUBTERRANEOS DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPDESBA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BARTOLOME MITRE 2051 1*PISO",
+    "cp": "1022",
+    "telefonos": [
+      "4-953-0525",
+      "4-952-4463"
+    ],
+    "emails": [
+      "ospdesba@speedy.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "120306": {
+    "rnos": "120306",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE SUPERVISION DE LA EMPRESA SUBTERRANEOS DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPSESBA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "EMILIO MITRE 582",
+    "cp": "1424",
+    "telefonos": [
+      "4-433-0833"
+    ],
+    "emails": [
+      "ospesba@fibertel.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "119906": {
+    "rnos": "119906",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE SERENOS DE BUQUES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "TACUARI 1122",
+    "cp": "1072",
+    "telefonos": [
+      "0800-345-7332",
+      "5-276-4700"
+    ],
+    "emails": [
+      "ossdeb@fideisalud.com.ar"
+    ],
+    "web": "www.fideisalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "119708": {
+    "rnos": "119708",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE SEGURIDAD COMERCIAL, INDUSTRIAL E INVESTIGACIONES PRIVADAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPSIP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "TUCUMAN 3689",
+    "cp": "1189",
+    "telefonos": [
+      "4-959-6500",
+      "0800-333-6777"
+    ],
+    "emails": [
+      "info@opsip.org.ar"
+    ],
+    "web": "www.ospsip.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "119609": {
+    "rnos": "119609",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE INSTALACIONES SANITARIAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIS",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PASCO N\u00ba 1040",
+    "cp": "1219",
+    "telefonos": [
+      "4-941-7456",
+      "0800-555-8774",
+      "4943-6109"
+    ],
+    "emails": [
+      "ospis@fibertel.com.ar"
+    ],
+    "web": "www.ospis.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "119500": {
+    "rnos": "119500",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA SANIDAD ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPSA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "DEAN FUNES 1242",
+    "cp": "1244",
+    "telefonos": [
+      "4-308-2540",
+      "4-308-2550"
+    ],
+    "emails": [
+      "informes@sanidad.org.ar"
+    ],
+    "web": "www.sanidad.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "119302": {
+    "rnos": "119302",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL RURAL Y ESTIBADORES DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPRERA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "RECONQUISTA 630",
+    "cp": "1003",
+    "telefonos": [
+      "0800-77-78725",
+      "4-312-2500"
+    ],
+    "emails": [],
+    "web": "www.osprera.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "119203": {
+    "rnos": "119203",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE RELOJEROS Y JOYEROS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSRJA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VALENTIN GOMEZ 3828",
+    "cp": "1191",
+    "telefonos": [
+      "4-867-5420",
+      "0800-333-3420",
+      "4-866-1481"
+    ],
+    "emails": [
+      "osrja@yahoo.com.ar",
+      "info@osrja.org.ar"
+    ],
+    "web": "www.osrja..org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "119005": {
+    "rnos": "119005",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE REFINERIAS DE MAIZ",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "BARADERO",
+    "domicilio": "ANCHORENA 1429",
+    "cp": "2942",
+    "telefonos": [
+      "03329-4-83874"
+    ],
+    "emails": [
+      "Osprem@arnetbiz.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118903": {
+    "rnos": "118903",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE RECOLECCION Y BARRIDO DE ROSARIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "BUENOS AIRES 1635",
+    "cp": "2000",
+    "telefonos": [
+      "0341-4-484406",
+      "0341-4-248702"
+    ],
+    "emails": [
+      "osprbyl@arnet.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118804": {
+    "rnos": "118804",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE RECIBIDORES DE GRANOS Y ANEXOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSRGA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA BELGRANO 510 PISO 5",
+    "cp": "1092",
+    "telefonos": [
+      "4-137-5646/7/8/9"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118705": {
+    "rnos": "118705",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE INDUSTRIAS QUIMICAS Y PETROQUIMICAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIQYP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MEXICO 1474",
+    "cp": "1097",
+    "telefonos": [
+      "4384-5824/5805",
+      "4-384-5700"
+    ],
+    "emails": [],
+    "web": "www.ospiqyp.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118606": {
+    "rnos": "118606",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA PUBLICIDAD",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA CORDOBA 1576",
+    "cp": "1055",
+    "telefonos": [
+      "4-811-7416",
+      "4-813-5058"
+    ],
+    "emails": [
+      "ospp@ciudad.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118507": {
+    "rnos": "118507",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE ROSARIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "LAPRIDA 1063",
+    "cp": "2000",
+    "telefonos": [
+      "0341-4495597",
+      "0341-4400220",
+      "0800-333-0276"
+    ],
+    "emails": [
+      "apmsalud@osapmr.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118408": {
+    "rnos": "118408",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE ENTRE RIOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSAPMER",
+    "provincia": "Entre R\u00edos",
+    "localidad": "PARANA",
+    "domicilio": "LA PAZ 134",
+    "cp": "3100",
+    "telefonos": [
+      "0343-4-225534",
+      "0343-4-316507"
+    ],
+    "emails": [
+      "apmentrario@infovia.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118309": {
+    "rnos": "118309",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "PARANA 343",
+    "cp": "5003",
+    "telefonos": [
+      "0351-4-223654",
+      "0351-4-210496"
+    ],
+    "emails": [
+      "osapm@arnet.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118200": {
+    "rnos": "118200",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSAPM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVELLANEDA 2144",
+    "cp": "1406",
+    "telefonos": [
+      "4-633-7878"
+    ],
+    "emails": [
+      "obra_social@apm.org.ar"
+    ],
+    "web": "www.apm.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "118002": {
+    "rnos": "118002",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EMPLEADOS DE PRENSA DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEPC",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "OBISPO TREJO 365",
+    "cp": "5000",
+    "telefonos": [
+      "0351-4-243517",
+      "0351-4-229214"
+    ],
+    "emails": [
+      "osepc@onenet.com.ar"
+    ],
+    "web": "www.prensalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "117801": {
+    "rnos": "117801",
+    "exists": true,
+    "nombre": " OBRA SOCIAL DEL PERSONAL DE PRENSA DE MENDOZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Mendoza",
+    "localidad": "MENDOZA",
+    "domicilio": "CHILE 1661",
+    "cp": "5500",
+    "telefonos": [
+      "0261-4-251469",
+      "0261-4-251179"
+    ],
+    "emails": [
+      "prensaludmza@hprensaludmza.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "117702": {
+    "rnos": "117702",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE MAR DEL PLATA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPREN",
+    "provincia": "Buenos Aires",
+    "localidad": "MAR DEL PLATA  (MAR DEL PLATA)",
+    "domicilio": "DORREGO 1734",
+    "cp": "7600",
+    "telefonos": [
+      "0223-4-734394"
+    ],
+    "emails": [
+      "ospren@ospren.org.ar"
+    ],
+    "web": "www.prensamardelplata.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "117603": {
+    "rnos": "117603",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE LA PROVINCIA DE CHACO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPPCHA",
+    "provincia": "Chaco",
+    "localidad": "RESISTENCIA",
+    "domicilio": "JOSE HERNANDEZ 212",
+    "cp": "",
+    "telefonos": [
+      "03722-4-22960"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "117405": {
+    "rnos": "117405",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE BAHIA BLANCA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "BAH\u00cdA BLANCA (BAH\u00cdA BLANCA)",
+    "domicilio": "LAMADRID 266",
+    "cp": "8000",
+    "telefonos": [
+      "0291-4560106",
+      "0291-4-562760"
+    ],
+    "emails": [
+      "prensabblanca@bvconline.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "117207": {
+    "rnos": "117207",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPPRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SOLIS 1158 PISO 3\u00a7",
+    "cp": "1078",
+    "telefonos": [
+      "4-305-3018",
+      "4-305-6768"
+    ],
+    "emails": [
+      "info@osppra.com.ar"
+    ],
+    "web": "www.osppra.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "116709": {
+    "rnos": "116709",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PORTUARIOS DE PUERTO SAN MARTIN Y BELLA VISTA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "PUERTO GENERAL SAN MARTIN",
+    "domicilio": "CAYETANO NERBUTTI 256",
+    "cp": "2202",
+    "telefonos": [
+      "03476-4-27643"
+    ],
+    "emails": [
+      "obrasocial@cooportuaria.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "116204": {
+    "rnos": "116204",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE PORTUARIOS ARGENTINOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BOLIVAR 839",
+    "cp": "1066",
+    "telefonos": [
+      "4-369-4133",
+      "4-369-4132"
+    ],
+    "emails": [
+      "ospabue@infovia.com.ar"
+    ],
+    "web": "www.ospaport.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "116105": {
+    "rnos": "116105",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CAPATACES ESTIBADORES PORTUARIOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCEP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PINZON 1012/1016",
+    "cp": "1161",
+    "telefonos": [
+      "4 302-5770",
+      "4302-4640"
+    ],
+    "emails": [
+      "capatacesport@hotmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "116006": {
+    "rnos": "116006",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL PLASTICO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PAVON 4175",
+    "cp": "1253",
+    "telefonos": [
+      "0800-222-6774",
+      "5-168-3200"
+    ],
+    "emails": [],
+    "web": "www.ospip.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115805": {
+    "rnos": "115805",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE FABRICAS DE PINTURA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "UPFPARA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "NAZCA 845",
+    "cp": "1406",
+    "telefonos": [
+      "4-612-7826",
+      "0800-999-8525",
+      "4613-1979"
+    ],
+    "emails": [
+      "ospfp@comnet.com.ar",
+      "osocial@ospfp.org.ar"
+    ],
+    "web": "http://www.ospfp.org.ar/",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115706": {
+    "rnos": "115706",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA PILOTOS DE LINEAS AEREAS COMERCIALES Y REGULARES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPLA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LEZICA 4047",
+    "cp": "1202",
+    "telefonos": [
+      "4-958-2956",
+      "4-958-2959"
+    ],
+    "emails": [
+      "ospla@ospla.org.ar"
+    ],
+    "web": "www.ospla.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115607": {
+    "rnos": "115607",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA PETROQUIMICA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIP",
+    "provincia": "Santa Fe",
+    "localidad": "SAN LORENZO",
+    "domicilio": "AVDA. SAN MARTIN 698 PA",
+    "cp": "2200",
+    "telefonos": [
+      "03476-4-23356",
+      "03476-4-22607"
+    ],
+    "emails": [
+      "administracion@ospip-os.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115508": {
+    "rnos": "115508",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE PETROLEROS DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "O.S.PE.COR",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "",
+    "domicilio": "AYACUCHO 575 -BARRIO. GRAL. GUEMES",
+    "cp": "5000",
+    "telefonos": [
+      "4244014",
+      "0351-4-204444"
+    ],
+    "emails": [
+      "afiliados@ospecor.com.ar"
+    ],
+    "web": "www.ospecor.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115409": {
+    "rnos": "115409",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PETROLEO Y GAS PRIVADO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEGAP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AV. CASEROS 715",
+    "cp": "1152",
+    "telefonos": [
+      "4-300-0491",
+      "4-300-5010/0523",
+      "0800-555-6773"
+    ],
+    "emails": [
+      "ospegap@petroleoygas.com.ar"
+    ],
+    "web": "www.petroleoygas.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115300": {
+    "rnos": "115300",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE PETROLEROS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. L. ALEM 690 1\u00ba PISO",
+    "cp": "1001",
+    "telefonos": [
+      "5254-5100",
+      "0800-444-6773"
+    ],
+    "emails": [
+      "informes@ospesalud.com.ar"
+    ],
+    "web": "www.ospesalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115201": {
+    "rnos": "115201",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL PESCADO DE MAR DEL PLATA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIP",
+    "provincia": "Buenos Aires",
+    "localidad": "MAR DEL PLATA",
+    "domicilio": "12 DE OCTUBRE 4445",
+    "cp": "7600",
+    "telefonos": [
+      "0223-4-918133",
+      "0223-4-800554"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115102": {
+    "rnos": "115102",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES DE PRENSA DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTPBA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PTE J.D. PERON 1173",
+    "cp": "1038",
+    "telefonos": [
+      "0800-345-6787",
+      "5-218-2832/39"
+    ],
+    "emails": [
+      "raulbarr22@hotmail.com"
+    ],
+    "web": "www.ostpba.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "115003": {
+    "rnos": "115003",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD PERFUMISTA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPAP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "TREINTA Y TRES ORIENTALES 148",
+    "cp": "1182",
+    "telefonos": [
+      "4-981-1477",
+      "0800-345-0332",
+      "4-981-0859"
+    ],
+    "emails": [
+      "ospap@hotmail.com"
+    ],
+    "web": "www.ospap.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "114901": {
+    "rnos": "114901",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE OFICIALES PELUQUEROS Y PEINADORES DE ROSARIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSOFPP DE ROSARIO",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "MONTEVIDEO 1488",
+    "cp": "2000",
+    "telefonos": [
+      "0341-4-488998"
+    ],
+    "emails": [
+      "spprosario@sinetis.com.ar"
+    ],
+    "web": "www.sindicatopeluq-ros.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "114703": {
+    "rnos": "114703",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PELUQUERIAS, ESTETICAS Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPPEA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AYACUCHO 838",
+    "cp": "1111",
+    "telefonos": [
+      "4-965-2100"
+    ],
+    "emails": [
+      "obrasocial@peluquerosargentinos.com"
+    ],
+    "web": "www.peluquerosargentinos.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "114505": {
+    "rnos": "114505",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE PATRONES DE CABOTAJE DE RIOS Y PUERTOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "GUALEGUAY 1255 / 57",
+    "cp": "1265",
+    "telefonos": [
+      "4361-9118",
+      "4361-9891"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "114307": {
+    "rnos": "114307",
+    "exists": true,
+    "nombre": "OBRA SOCIAL TRABAJADORES PASTELEROS, CONFITEROS, PIZZEROS , HELADEROS Y ALFAJOREROS DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTPCHPYARA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BOGADO 4541",
+    "cp": "1183",
+    "telefonos": [
+      "4-861-7493",
+      "4-864-1799"
+    ],
+    "emails": [
+      "fatpchpya@infovia.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "114208": {
+    "rnos": "114208",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA INDUSTRIA DE PASTAS ALIMENTICIAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSIPA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA.. BELGRANO 4280",
+    "cp": "1210",
+    "telefonos": [
+      "4-981-5015",
+      "4-981-4776"
+    ],
+    "emails": [
+      "stipa@arnet.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "114109": {
+    "rnos": "114109",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL PAPEL, CARTON Y QUIMICOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPPCYQ",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "OSVALDO CRUZ 2075",
+    "cp": "1293",
+    "telefonos": [
+      "4126-0900",
+      "0800-222-2727"
+    ],
+    "emails": [
+      "info@ospapel.org.ar"
+    ],
+    "web": "www.ospapel.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "114000": {
+    "rnos": "114000",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE PANADEROS, PASTELEROS Y FACTUREROS DE ENTRE RIOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSSPYFER",
+    "provincia": "Entre R\u00edos",
+    "localidad": "CONCORDIA",
+    "domicilio": "VELEZ SARSFIELD 447/49",
+    "cp": "3200",
+    "telefonos": [
+      "0345-4-214266",
+      "0345-4-222615"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "113908": {
+    "rnos": "113908",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE PANADERIAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BOEDO 168",
+    "cp": "1206",
+    "telefonos": [
+      "4-957-3100/7728/1533",
+      "0800-999-3861",
+      "4-957-1800"
+    ],
+    "emails": [
+      "ospep@ciudad.com.ar",
+      "info@ospep.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "113809": {
+    "rnos": "113809",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE COMISARIOS NAVALES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BERNARDO DE IRIGOYEN 840",
+    "cp": "1072",
+    "telefonos": [
+      "4-300-7033",
+      "4-300-7034",
+      "0800-333-6726"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "113700": {
+    "rnos": "113700",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA NAVAL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIN",
+    "provincia": "Buenos Aires",
+    "localidad": "TIGRE (TIGRE)",
+    "domicilio": "CHACABUCO 528",
+    "cp": "1648",
+    "telefonos": [
+      "4-749-2115",
+      "4-749-0592"
+    ],
+    "emails": [
+      "osnavales@yahoo.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "113601": {
+    "rnos": "113601",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL NEUMATICO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIN",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "JUJUY 995",
+    "cp": "1229",
+    "telefonos": [
+      "4-943-1703",
+      "4-943-1189"
+    ],
+    "emails": [
+      "ospin@sinectis.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "113403": {
+    "rnos": "113403",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL NAVAL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPENA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "JUAN DE DIOS FILIBERTO 914",
+    "cp": "1162",
+    "telefonos": [
+      "4-301-7067",
+      "4-301-7697"
+    ],
+    "emails": [
+      "ospena1340@hotmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "113304": {
+    "rnos": "113304",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE JEFES Y OFICIALES MAQUINISTAS NAVALES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSJOMN",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LIBERTAD 1668",
+    "cp": "1021",
+    "telefonos": [
+      "4-815-3102",
+      "4-815-3302"
+    ],
+    "emails": [
+      "infoobrasocial@osjomn.com.ar",
+      "obrasocial@maquinaval.com.ar"
+    ],
+    "web": "www.maquinaval.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "113205": {
+    "rnos": "113205",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE JEFES Y OFICIALES NAVALES DE RADIOCOMUNICACIONES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSJONR",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "24 DE NOVIEMBRE 643/5",
+    "cp": "1224",
+    "telefonos": [
+      "4-931-5178",
+      "4932-8079"
+    ],
+    "emails": [
+      "radionaval@arnet.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112806": {
+    "rnos": "112806",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE MUSICOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSDEM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. BELGRANO 3655",
+    "cp": "1210",
+    "telefonos": [
+      "4-931-4453",
+      "4-931-6621"
+    ],
+    "emails": [
+      "sadem@interlink.com.ar"
+    ],
+    "web": "www.sadem.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112707": {
+    "rnos": "112707",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL MOSAISTA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "QUIRNO 89",
+    "cp": "1406",
+    "telefonos": [
+      "4-619-0208",
+      "4-619-0209"
+    ],
+    "emails": [
+      "mosaistas@hotmail.com"
+    ],
+    "web": "RESOLUCION 147/12 (VER OBSERVACIONES)",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112608": {
+    "rnos": "112608",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA MOLINERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MEXICO 2070",
+    "cp": "1232",
+    "telefonos": [
+      "4-942-6734",
+      "4-942-7491"
+    ],
+    "emails": [
+      "info@ospim.org.ar"
+    ],
+    "web": "www.ospim.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112509": {
+    "rnos": "112509",
+    "exists": true,
+    "nombre": "OBRA SOCIAL MODELOS ARGENTINOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSMA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. CORRIENTES 1622 - PISO 1",
+    "cp": "1042",
+    "telefonos": [
+      "4-372-7823",
+      "4-371-2502"
+    ],
+    "emails": [
+      "osmodelos@fibertel.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112400": {
+    "rnos": "112400",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA ACTIVIDAD MINERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "O.S.A.M.",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ROSARIO 434/36",
+    "cp": "1424",
+    "telefonos": [
+      "4-902-5983",
+      "4-901-3277"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112301": {
+    "rnos": "112301",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE MICROS Y OMNIBUS DE MENDOZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEMOM",
+    "provincia": "Mendoza",
+    "localidad": "MENDOZA",
+    "domicilio": "CATAMARCA 382",
+    "cp": "5500",
+    "telefonos": [
+      "0261-4-203283",
+      "0261-4-203342"
+    ],
+    "emails": [
+      "ospemom@ospemom.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112202": {
+    "rnos": "112202",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS SUPERVISORES DE LA INDUSTRIA METALMECANICA DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSSIMRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AZCUENAGA 1234",
+    "cp": "1115",
+    "telefonos": [
+      "0-800-888-2746",
+      "4-823-3071/75",
+      "4-823-5062/63"
+    ],
+    "emails": [
+      "asinra@arnet.com.ar"
+    ],
+    "web": "www.ossimra.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112103": {
+    "rnos": "112103",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA UNION OBRERA METALURGICA DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSUOMRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ALSINA 485 - PISO 4",
+    "cp": "1087",
+    "telefonos": [
+      "6345-5152/27/60",
+      "6345-5000"
+    ],
+    "emails": [],
+    "web": "www.forjarsalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "112004": {
+    "rnos": "112004",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL SUPERIOR MERCEDES BENZ ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPS MERCEDES",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. RIVADAVIA 10964",
+    "cp": "1408",
+    "telefonos": [
+      "4-643-0326",
+      "4-641-7479"
+    ],
+    "emails": [
+      "obrasocial@apsmba.com.ar",
+      "obrasocial@apsmda.com.ar"
+    ],
+    "web": "www.apsmba.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111902": {
+    "rnos": "111902",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL SINDICATO DE MECANICOS Y AFINES DEL TRANSPORTE AUTOMOTOR",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSMATA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. BELGRANO 665 PISO 8",
+    "cp": "1092",
+    "telefonos": [
+      "4-334-1919",
+      "4-340-7412",
+      "4-334-6825"
+    ],
+    "emails": [],
+    "web": "www.smata.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111803": {
+    "rnos": "111803",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL MARITIMO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VENEZUELA 1427",
+    "cp": "1095",
+    "telefonos": [
+      "4-381-4362",
+      "4-381-2486"
+    ],
+    "emails": [
+      "ospm@teletel.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111704": {
+    "rnos": "111704",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE ENCARGADOS APUNTADORES MARITIMOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEAM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MEXICO 2183 DTO A",
+    "cp": "1222",
+    "telefonos": [
+      "4-941-8264",
+      "4-941-8327"
+    ],
+    "emails": [
+      "oseam@speedy.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111605": {
+    "rnos": "111605",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EMPLEADOS DE LA MARINA MERCANTE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEMM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA .BELGRANO 1345/51 NUEVO: BARTOLOME MITRE 3776",
+    "cp": "1201",
+    "telefonos": [
+      "4981-8181"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111506": {
+    "rnos": "111506",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CAPITANES BAQUEANOS FLUVIALES DE LA MARINA MERCANTE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCAPBAQFLU",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ARISTOBULO DEL VALLE 319",
+    "cp": "1161",
+    "telefonos": [
+      "4-362-3242",
+      "4-362-8084"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111407": {
+    "rnos": "111407",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CAPITANES DE ULTRAMAR Y OFICIALES DE LA MARINA MERCANTE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCOMM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PERU 779",
+    "cp": "1099",
+    "telefonos": [
+      "0800-6667266",
+      "4-300-9700/03"
+    ],
+    "emails": [
+      "oscomm@ciudad.com.ar",
+      "secretaria@capitanes.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111308": {
+    "rnos": "111308",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE MAQUINISTAS DE TEATRO Y TELEVISION",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "URUGUAY 239 PISO 2 DPTO A",
+    "cp": "1042",
+    "telefonos": [
+      "4-371-7717"
+    ],
+    "emails": [
+      "osmtt@osmtt.org.ar",
+      "osmtt@infovia.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111209": {
+    "rnos": "111209",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE MAESTRANZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ALZAGA 2271",
+    "cp": "1240",
+    "telefonos": [
+      "0800-333-8154",
+      "4-923-8900",
+      "4-924-6045/47"
+    ],
+    "emails": [
+      "s-o-m@satlink.com"
+    ],
+    "web": "www.somlimpieza.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "111001": {
+    "rnos": "111001",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA MADERERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIM",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ROJAS 254",
+    "cp": "1405",
+    "telefonos": [
+      "4-431-4791",
+      "4-431-4089"
+    ],
+    "emails": [
+      "contacto@ospim.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110909": {
+    "rnos": "110909",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LUZ Y FUERZA DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSLYF",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "AVDA. GRAL PAZ 282 PISO 4",
+    "cp": "5000",
+    "telefonos": [
+      "0800-333-3202",
+      "0351-4-214633",
+      "0351-4-238027"
+    ],
+    "emails": [],
+    "web": "luzfuerzacbasalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110800": {
+    "rnos": "110800",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS TRABAJADORES DE LAS EMPRESAS DE ELECTRICIDAD",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTEE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "HUMBERTO 1\u00ba 434",
+    "cp": "1103",
+    "telefonos": [
+      "5168-2600",
+      "5168-2601",
+      "0800-999-1534"
+    ],
+    "emails": [
+      "obrasocial@osteeluzmedica.com.ar"
+    ],
+    "web": "www.osteeluzmedica.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110701": {
+    "rnos": "110701",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA FEDERACION ARGENTINA DE TRABAJADORES DE LUZ Y FUERZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSFATLYF",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LIMA 163 4\u00b0 PISO",
+    "cp": "1073",
+    "telefonos": [
+      "4383-5498",
+      "4-383-4541"
+    ],
+    "emails": [
+      "bettinottir@osfatlyf_salud.com.ar"
+    ],
+    "web": "www.osfatlyf-salud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110602": {
+    "rnos": "110602",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOCUTORES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSDEL",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VIDT 2011",
+    "cp": "1425",
+    "telefonos": [
+      "4-827-4611",
+      "4-827-4599"
+    ],
+    "emails": [
+      "locutores@sinectis.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110503": {
+    "rnos": "110503",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA LECHERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIL",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. HIPOLITO YRIGOYEN 4054",
+    "cp": "1208",
+    "telefonos": [
+      "4-883-9200"
+    ],
+    "emails": [
+      "obrasocial@atilra.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110404": {
+    "rnos": "110404",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA LADRILLERA A MAQUINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPILM",
+    "provincia": "Buenos Aires",
+    "localidad": "GENERAL SAN MART\u00cdN",
+    "domicilio": "RIVADAVIA 3521",
+    "cp": "1650",
+    "telefonos": [
+      "4713-6209",
+      "4-755-1454"
+    ],
+    "emails": [
+      "institucional@ospilm.org.ar",
+      "ospilm@ciudad.com.ar"
+    ],
+    "web": "www.ospilm.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110305": {
+    "rnos": "110305",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL LADRILLERO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPL",
+    "provincia": "Buenos Aires",
+    "localidad": "CIUDADELA",
+    "domicilio": "MU\u00d1OZ 3611",
+    "cp": "1089",
+    "telefonos": [
+      "4653-8358",
+      "4657-8457"
+    ],
+    "emails": [
+      "autorizacionesospl@live.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110206": {
+    "rnos": "110206",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL JOCKEY CLUB DE ROSARIO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "OVIDIO LAGOS 1571",
+    "cp": "2000",
+    "telefonos": [
+      "0341-4-219301",
+      "0341-4-491065"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110107": {
+    "rnos": "110107",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE JARDINEROS, PARQUISTAS, VIVERISTAS Y FLORICULTORES DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSJPVYF",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LUIS SAENZ PE\u00a5A 480",
+    "cp": "1110",
+    "telefonos": [
+      "0800-666-7386",
+      "4381-7475",
+      "4383-6825"
+    ],
+    "emails": [
+      "osjard@grupoa.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "110008": {
+    "rnos": "110008",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE JABONEROS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEJ",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SARMIENTO 1113 PISO 8 B",
+    "cp": "1041",
+    "telefonos": [
+      "4-383-2983",
+      "4-383-2986",
+      "4-383-2985"
+    ],
+    "emails": [
+      "ospej11000-8@ciudad.com.ar"
+    ],
+    "web": "www.osjaboneros.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "109707": {
+    "rnos": "109707",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE IMPRENTA, DIARIOS Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIDA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SAN JOSE 157",
+    "cp": "1076",
+    "telefonos": [
+      "4-382-2051",
+      "4-382-2045"
+    ],
+    "emails": [
+      "ospida@ospida.org.ar"
+    ],
+    "web": "www.ospida.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "109608": {
+    "rnos": "109608",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL MENSUALIZADO DEL JOCKEY CLUB DE BUENOS AIRES Y LOS HIPODROMOS DE PALERMO Y SAN ISIDRO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. CABILDO 4193",
+    "cp": "1429",
+    "telefonos": [
+      "4 702-7948",
+      "4 703-4765"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "109509": {
+    "rnos": "109509",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LOS HIPODROMOS DE BUENOS AIRES Y SAN ISIDRO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPHGBAYSI",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "JURAMENTO 1590 PISO 1",
+    "cp": "1428",
+    "telefonos": [
+      "4-786-9889",
+      "4-788-3883"
+    ],
+    "emails": [
+      "osphbaysi@fibertel.com.ar."
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "109400": {
+    "rnos": "109400",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL HIELO Y MERCADOS PARTICULARES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIHMP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "COLOMBRES 1573",
+    "cp": "1238",
+    "telefonos": [
+      "0800-666-7744",
+      "4-923-5372",
+      "4-921-6419"
+    ],
+    "emails": [
+      "ospihmp@speedy.com.ar",
+      "auditoria@ospihmp.org.ar"
+    ],
+    "web": "www.stihmpra.hypermart.net",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "109301": {
+    "rnos": "109301",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE CONSIGNATARIOS DEL MERCADO NACIONAL DE HACIENDA DE LINIERS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEMER",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LISANDRO DE LA TORRE 2337/9",
+    "cp": "1440",
+    "telefonos": [
+      "4-687-8683"
+    ],
+    "emails": [],
+    "web": "en CRISIS desde el  14/08/14 - Resol. 1291/14-SSS",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "109202": {
+    "rnos": "109202",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE GUINCHEROS Y MAQUINISTAS DE GRUAS MOVILES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MONTES DE OCA 1648",
+    "cp": "1296",
+    "telefonos": [
+      "4-301-0048",
+      "4-301-4823"
+    ],
+    "emails": [
+      "osguincheros@compulogic.com.ar"
+    ],
+    "web": "www.osocialguincheros.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "109004": {
+    "rnos": "109004",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL GRAFICO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPG",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. BELGRANO 2530",
+    "cp": "1096",
+    "telefonos": [
+      "4-308-2678",
+      "4-308-2679"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "108803": {
+    "rnos": "108803",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL TURISMO, HOTELERO Y GASTRONOMICO DE LA UNION DE TRABAJADORES DEL TURISMO HOTELEROS Y GASTRONOMICOS DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSUTHGRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. DE MAYO 930",
+    "cp": "1084",
+    "telefonos": [
+      "4341-8020",
+      "0800-222-8844",
+      "4341-8090"
+    ],
+    "emails": [
+      "info@uthgra.org.ar"
+    ],
+    "web": "www.uthgra.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "108704": {
+    "rnos": "108704",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TECNICOS DE FUTBOL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTECF",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VIAMONTE 1328 PB PISO 1",
+    "cp": "1053",
+    "telefonos": [
+      "4-371-8105",
+      "4-371-3969"
+    ],
+    "emails": [],
+    "web": "www.ostecf.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "108605": {
+    "rnos": "108605",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE FUTBOLISTAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "FAA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SALTA 1144",
+    "cp": "1074",
+    "telefonos": [
+      "4-305-3426"
+    ],
+    "emails": [
+      "agremiados@infovia.com.ar"
+    ],
+    "web": "www.agremiados.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "108506": {
+    "rnos": "108506",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE MANIPULEO, EMPAQUE Y EXPEDICION DE FRUTA FRESCA Y HORTALIZAS DE CUYO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSFYHC",
+    "provincia": "Mendoza",
+    "localidad": "MENDOZA",
+    "domicilio": "MONTECASEROS 1147",
+    "cp": "5500",
+    "telefonos": [
+      "0261-423-8440",
+      "0261-4-299591"
+    ],
+    "emails": [],
+    "web": "EN CRISIS CONFORME DECRETO 1400/01 - (VER OBSERVAC",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "108407": {
+    "rnos": "108407",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD FRUTICOLA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPAF",
+    "provincia": "Entre R\u00edos",
+    "localidad": "CONCORDIA",
+    "domicilio": "SAAVEDRA 121",
+    "cp": "3200",
+    "telefonos": [
+      "0345-4229579"
+    ],
+    "emails": [
+      "OSPAF@YAHOO.COM.AR"
+    ],
+    "web": "EN CRISIS CONFORME DECRETO 1400/01 (VER OBSERV)",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "108209": {
+    "rnos": "108209",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE FOTOGRAFOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSFOT",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PRINGLES 1090/92",
+    "cp": "1183",
+    "telefonos": [
+      "4-867-2102",
+      "4-867-3990"
+    ],
+    "emails": [
+      "osfot@speedy.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "108100": {
+    "rnos": "108100",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL FOSFORO, ENCENDIDO Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIF",
+    "provincia": "Buenos Aires",
+    "localidad": "AVELLANEDA (AVELLANEDA)",
+    "domicilio": "MARCONI 652",
+    "cp": "1870",
+    "telefonos": [
+      "4-201-3250"
+    ],
+    "emails": [
+      "osfosforo@hotmail.com"
+    ],
+    "web": "www.redospif.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "108001": {
+    "rnos": "108001",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA FORESTAL DE SANTIAGO DEL ESTERO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIFSE",
+    "provincia": "Santiago del Estero",
+    "localidad": "SANTIAGO DEL ESTERO",
+    "domicilio": "MISIONES 332",
+    "cp": "4200",
+    "telefonos": [
+      "0385-4-211877",
+      "0385-4-214030"
+    ],
+    "emails": [
+      "ingresos@ospifse.com.ar"
+    ],
+    "web": "www.ospifse.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "107909": {
+    "rnos": "107909",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA FIDEERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIF",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "RIO DE JANEIRO 34/36",
+    "cp": "1405",
+    "telefonos": [
+      "4-902-3032",
+      "4-901-6125"
+    ],
+    "emails": [
+      "ospif@mastersoft.com.ar",
+      "ospif-central@speedy.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "107800": {
+    "rnos": "107800",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL FIBROCEMENTO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIF",
+    "provincia": "Buenos Aires",
+    "localidad": "SAN JUSTO",
+    "domicilio": "CONSTITUCION 3674",
+    "cp": "1754",
+    "telefonos": [
+      "4 651-7411",
+      "4-482-5141"
+    ],
+    "emails": [
+      "osdelfibro@hotmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "107404": {
+    "rnos": "107404",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE FARMACIA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPF",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CONSTITUCION 2066",
+    "cp": "1254",
+    "telefonos": [
+      "4941-1342",
+      "0800-333-9820",
+      "4-943-4086"
+    ],
+    "emails": [
+      "privada@ospf.org.ar"
+    ],
+    "web": "www.ospf.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "107206": {
+    "rnos": "107206",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE ESTACIONES DE SERVICIO, GARAGES, PLAYAS DE ESTACIONAMIENTO Y LAVADEROS AUTOMATICOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPESGYPE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "HIPOLITO YRIGOYEN 2727",
+    "cp": "1090",
+    "telefonos": [
+      "4866-4293",
+      "4-866-1631"
+    ],
+    "emails": [],
+    "web": "www.soesgype.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "107107": {
+    "rnos": "107107",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL ESPECTACULO PUBLICO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PASCO 148/54",
+    "cp": "1081",
+    "telefonos": [
+      "4951-2649",
+      "4951-2538"
+    ],
+    "emails": [],
+    "web": "www.ospepsalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "107008": {
+    "rnos": "107008",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE ESCRIBANOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "RODRIGUEZ PE\u00d1A 536/38",
+    "cp": "1020",
+    "telefonos": [
+      "4-373-5740",
+      "4-371-8957"
+    ],
+    "emails": [
+      "obrasocial@ospe.org.ar"
+    ],
+    "web": "www.ospe.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106906": {
+    "rnos": "106906",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE ESCRIBANIAS DE LA PROVINCIA DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEPBA",
+    "provincia": "Buenos Aires",
+    "localidad": "LA PLATA",
+    "domicilio": "CALLE 45 N\u00ba 509",
+    "cp": "1900",
+    "telefonos": [
+      "0221-4821457",
+      "0221-4-257230/1629"
+    ],
+    "emails": [
+      "social@personalescribanias.org"
+    ],
+    "web": "www.personalescribanias.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106807": {
+    "rnos": "106807",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA ENSE\u00a5ANZA PRIVADA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AV. JUJUY 226",
+    "cp": "1083",
+    "telefonos": [
+      "4-956-0408/09"
+    ],
+    "emails": [
+      "informes@ospepweb.com.ar"
+    ],
+    "web": "www.ospepweb.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106708": {
+    "rnos": "106708",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE OBREROS EMPACADORES DE FRUTA DE RIO NEGRO Y NEUQUEN",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "R\u00edo Negro",
+    "localidad": "CIPOLLETTI",
+    "domicilio": "MENGUELLE 130",
+    "cp": "8324",
+    "telefonos": [
+      "0299-478-2274",
+      "0299-478-2686"
+    ],
+    "emails": [
+      "victoria@neunt.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106609": {
+    "rnos": "106609",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ELECTRICISTAS NAVALES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEN",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA JUAN DE GARAY 1900",
+    "cp": "1256",
+    "telefonos": [
+      "4371-4896"
+    ],
+    "emails": [
+      "info@osensalud.com.ar"
+    ],
+    "web": "www.osensalud.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106500": {
+    "rnos": "106500",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE EDIFICIOS DE RENTA Y HORIZONTAL DE LA CIUDAD AUTONOMA DE BUENOS AIRES Y GRAN BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPERYH",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SARMIENTO 2026",
+    "cp": "1044",
+    "telefonos": [
+      "5354-6600 INT 2106",
+      "0800-266-0066"
+    ],
+    "emails": [
+      "osperyh@osperyh.org.ar"
+    ],
+    "web": "www.fateryh.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106401": {
+    "rnos": "106401",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE EDIFICIOS DE RENTA Y HORIZONTAL DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPERYHRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SARMIENTO 2026",
+    "cp": "1044",
+    "telefonos": [
+      "5-354-6600"
+    ],
+    "emails": [
+      "osperyh@osperyh.org.ar"
+    ],
+    "web": "www.fateryh.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106302": {
+    "rnos": "106302",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE DOCENTES PARTICULARES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSDOP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "JUAN DOMINGO PERON 2625",
+    "cp": "1039",
+    "telefonos": [
+      "5-9415500",
+      "0800-6666-450",
+      "4-342-2525"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106203": {
+    "rnos": "106203",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DISTRIBUIDORAS CINEMATOGRAFICAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEDICI",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "RIOBAMBA 588",
+    "cp": "1025",
+    "telefonos": [
+      "4371-4348",
+      "4373-8723"
+    ],
+    "emails": [
+      "info@ospedici.org.ar",
+      "ospedici@speedy.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106104": {
+    "rnos": "106104",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EMPLEADOS DE DESPACHANTES DE ADUANA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEDA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CALLAO 220 PISO 6",
+    "cp": "1022",
+    "telefonos": [
+      "4-372-6667/8",
+      "4-372-8322"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "106005": {
+    "rnos": "106005",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE ENTIDADES DEPORTIVAS Y CIVILES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEDYC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ALBERTI 646",
+    "cp": "1223",
+    "telefonos": [
+      "5353-3500"
+    ],
+    "emails": [
+      "ospedyc@infovia.com"
+    ],
+    "web": "www.ospedyc.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "105804": {
+    "rnos": "105804",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CHOFERES DE CAMIONES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCHOCA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SAN JOSE 1781",
+    "cp": "1136",
+    "telefonos": [
+      "0800-777-0020",
+      "4378-1000"
+    ],
+    "emails": [
+      "info@camioneros-ba.org.ar"
+    ],
+    "web": "www.camioneros-ba.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "105705": {
+    "rnos": "105705",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CHACINADO Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPICHA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. CASEROS 860",
+    "cp": "1233",
+    "telefonos": [
+      "4-307-7471",
+      "4-307-4378"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "105606": {
+    "rnos": "105606",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CUERO Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPICA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PTE. J. D. PERON 3866",
+    "cp": "1872",
+    "telefonos": [
+      "4-983-7622",
+      "4-983-7408"
+    ],
+    "emails": [],
+    "web": "www.ospica.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "105507": {
+    "rnos": "105507",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS CORTADORES DE LA INDUMENTARIA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSUCI",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "SANTIAGO DEL ESTERO 576",
+    "cp": "1075",
+    "telefonos": [
+      "4-383-8801",
+      "4-383-8774"
+    ],
+    "emails": [
+      "obrasocial@uci.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "105408": {
+    "rnos": "105408",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA CONSTRUCCION",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPECON",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. BELGRANO 1862/70",
+    "cp": "1094",
+    "telefonos": [
+      "0800-222-0123",
+      "4-384-7140/50"
+    ],
+    "emails": [
+      "salud@uocra.org"
+    ],
+    "web": "www.construirsalud.com.ar.",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "105309": {
+    "rnos": "105309",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL ADMINISTRATIVO Y TECNICO DE LA CONSTRUCCION Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPATCA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PTE. LUIS SAENZ PE\u00d1A 1142/44",
+    "cp": "1110",
+    "telefonos": [
+      "6091-7900",
+      "0800-333-3480"
+    ],
+    "emails": [
+      "info@ospatca.com.ar"
+    ],
+    "web": "www.ospatca.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "105002": {
+    "rnos": "105002",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CONDUCTORES NAVALES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCONARA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PINZON 281",
+    "cp": "1161",
+    "telefonos": [
+      "4-362-0080/0880"
+    ],
+    "emails": [
+      "info@siconara.com.ar"
+    ],
+    "web": "www.siconara.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "104801": {
+    "rnos": "104801",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE COLOCADORES DE AZULEJOS, MOSAICOS, GRANITEROS, LUSTRADORES Y PORCELANEROS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCAMGLYP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "JOSE EUSEBIO COLOMBRES 1419",
+    "cp": "1238",
+    "telefonos": [
+      "4 922-3801",
+      "4-922-2631"
+    ],
+    "emails": [
+      "oscamglyp@speedy.com.ar"
+    ],
+    "web": "no poseen",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "104603": {
+    "rnos": "104603",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE OPERADORES CINEMATOGRAFICOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSOC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VIAMONTE 2045",
+    "cp": "1056",
+    "telefonos": [
+      "4-372-0509",
+      "4-374-0442"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "104504": {
+    "rnos": "104504",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA CINEMATOGRAFICA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "JUNCAL 2029",
+    "cp": "1116",
+    "telefonos": [
+      "4-808-0106"
+    ],
+    "emails": [
+      "ospic@sicacine.org.ar"
+    ],
+    "web": "www.sicacine.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "104405": {
+    "rnos": "104405",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL CINEMATOGRAFICO DE MAR DEL PLATA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPERCIN",
+    "provincia": "Buenos Aires",
+    "localidad": "MAR DEL PLATA  (MAR DEL PLATA)",
+    "domicilio": "NEUQUEN 2655",
+    "cp": "7600",
+    "telefonos": [
+      "0223-4738544"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "104306": {
+    "rnos": "104306",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD CERVECERA Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPACA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "HUMAHUACA 4072",
+    "cp": "1192",
+    "telefonos": [
+      "0800-3336772",
+      "4 862-2666",
+      "4 862-4581"
+    ],
+    "emails": [
+      "consultas@oscervecera.org.ar"
+    ],
+    "web": "www.oscervecera.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "104207": {
+    "rnos": "104207",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA CERAMICA, SANITARIOS, PORCELANA DE MESA Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPCSPMYA",
+    "provincia": "Buenos Aires",
+    "localidad": "AVELLANEDA (AVELLANEDA)",
+    "domicilio": "AV. HIIPOLITO IRIGOYEN 1255",
+    "cp": "1870",
+    "telefonos": [
+      "4-208-2079",
+      "4-208-8779"
+    ],
+    "emails": [
+      "ospecesa@speedy.com.ar"
+    ],
+    "web": "www.ospecesa.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "104108": {
+    "rnos": "104108",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CERAMISTAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSCE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "DOBLAS 629",
+    "cp": "1424",
+    "telefonos": [
+      "4-922-6752",
+      "4-921-0906"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "104009": {
+    "rnos": "104009",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE CEMENTERIOS DE LA REPUBLICA ARGENTINA.",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPCRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "FEDERICO LACROZE 3908",
+    "cp": "1427",
+    "telefonos": [
+      "4553-3947",
+      "4553-1999",
+      "0800-555-6772"
+    ],
+    "emails": [
+      "soecra@uolsinectis.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "103907": {
+    "rnos": "103907",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CAUCHO DE SANTA FE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIC SANTA FE",
+    "provincia": "Santa Fe",
+    "localidad": "BARRANCAS",
+    "domicilio": "ITURRASPE 2458",
+    "cp": "3034",
+    "telefonos": [
+      "0342-453-8863"
+    ],
+    "emails": [
+      "oscauchostafe@yahoo.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "103808": {
+    "rnos": "103808",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL CAUCHO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPECA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VALLE 1281",
+    "cp": "1406",
+    "telefonos": [
+      "4-432-9404",
+      "4-433-3317"
+    ],
+    "emails": [
+      "ospeca@fibertel.com.ar"
+    ],
+    "web": "www.ospeca.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "103709": {
+    "rnos": "103709",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CAUCHO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIC",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CONGRESO 2033",
+    "cp": "1428",
+    "telefonos": [
+      "4 701-5646"
+    ],
+    "emails": [
+      "ospic_caucho@arnet.com.ar",
+      "info@ospic-caucho.org.ar"
+    ],
+    "web": "www.ospic-caucho.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "103600": {
+    "rnos": "103600",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL AUXILIAR DE CASAS PARTICULARES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPACP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CHARCAS 2745",
+    "cp": "1425",
+    "telefonos": [
+      "4 829-1212",
+      "4 826-1806",
+      "0800-888-2748"
+    ],
+    "emails": [
+      "info@ospacp.org.ar"
+    ],
+    "web": "www.ospacp.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "103402": {
+    "rnos": "103402",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE CARGA Y DESCARGA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPCYD",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "COCHABAMBA 1635",
+    "cp": "1148",
+    "telefonos": [
+      "4304-5484",
+      "4304-8358"
+    ],
+    "emails": [
+      "estibaro@hotmail.com.ar"
+    ],
+    "web": "www.geocities.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "103204": {
+    "rnos": "103204",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CONDUCTORES CAMIONEROS Y PERSONAL DEL TRANSPORTE AUTOMOTOR DE CARGAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AV. CASEROS 921/23",
+    "cp": "1152",
+    "telefonos": [
+      "4300-0975",
+      "4300-2191"
+    ],
+    "emails": [
+      "aliciak@spdps.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "103105": {
+    "rnos": "103105",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CALZADO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPICAL",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "YATAY 129 PISO 4",
+    "cp": "1184",
+    "telefonos": [
+      "4 981-1180",
+      "4 981-1164"
+    ],
+    "emails": [
+      "institucional@ospical.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "103006": {
+    "rnos": "103006",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA BOTONERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIB",
+    "provincia": "Buenos Aires",
+    "localidad": "GENERAL SAN MART\u00cdN",
+    "domicilio": "CALLE 91 N# 1886",
+    "cp": "1650",
+    "telefonos": [
+      "4 755-2931"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "102904": {
+    "rnos": "102904",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE BARRACAS DE LANAS, CUEROS Y ANEXOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "AVELLANEDA (AVELLANEDA)",
+    "domicilio": "FLORENTINO AMEGHINO 1060",
+    "cp": "1870",
+    "telefonos": [
+      "4 222-4646",
+      "4 222-4086",
+      "0-800-222-7203"
+    ],
+    "emails": [
+      "osblyca@uolsinectis.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "102706": {
+    "rnos": "102706",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA AZUCARERA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIA",
+    "provincia": "Tucum\u00e1n",
+    "localidad": "",
+    "domicilio": "CONGRESO 342/8",
+    "cp": "4000",
+    "telefonos": [
+      "0381-422-1478"
+    ],
+    "emails": [
+      "ospia@tucbbs.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "102300": {
+    "rnos": "102300",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO SAN MARTIN",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPA",
+    "provincia": "Salta",
+    "localidad": "EL TABACAL",
+    "domicilio": "ISLAS MALVINAS S/N# - BARRIO PATRON COSTA",
+    "cp": "4533",
+    "telefonos": [
+      "03878-491189",
+      "03878-421800/2"
+    ],
+    "emails": [
+      "ospasalta102300@gmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "101901": {
+    "rnos": "101901",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO LEDESMA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPAIL",
+    "provincia": "Jujuy",
+    "localidad": "LIBERTADOR GENERAL SAN MARTIN",
+    "domicilio": "JUJUY 755 CC5",
+    "cp": "4512",
+    "telefonos": [
+      "03886-423558"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "101802": {
+    "rnos": "101802",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO LA ESPERANZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPA",
+    "provincia": "Jujuy",
+    "localidad": "SAN PEDRO",
+    "domicilio": "SERAPIO SORIA 337",
+    "cp": "4500",
+    "telefonos": [
+      "03884-421222",
+      "03884-426117"
+    ],
+    "emails": [
+      "ospalesp@arnet.com.ar",
+      "ospalesp@arnetbiz,com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "101604": {
+    "rnos": "101604",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL AUTOMOVIL CLUB ARGENTINO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPACA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ANCHORENA 639 - PISO 1",
+    "cp": "1170",
+    "telefonos": [
+      "4106-4500",
+      "0800-999-6772"
+    ],
+    "emails": [],
+    "web": "www.ospaca.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "101208": {
+    "rnos": "101208",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DE LA ALIMENTACION",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPIA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VENEZUELA 1326",
+    "cp": "1096",
+    "telefonos": [
+      "0800-666-6774",
+      "4 383-9026/29"
+    ],
+    "emails": [
+      "ospiacentral@ospia.org.ar"
+    ],
+    "web": "www.ospia.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "101109": {
+    "rnos": "101109",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE ALFAJOREROS, REPOSTEROS, PIZZEROS Y HELADEROS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSARPYH",
+    "provincia": "Buenos Aires",
+    "localidad": "MAR DEL PLATA  (MAR DEL PLATA)",
+    "domicilio": "AV. LURO 3523",
+    "cp": "7600",
+    "telefonos": [
+      "0223-472-4163",
+      "0223-4734838 INT 255"
+    ],
+    "emails": [
+      "osarpyh@starphymdp.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "101000": {
+    "rnos": "101000",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE AGUAS GASEOSAS Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPAGA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BACACAY 2735/37",
+    "cp": "1406",
+    "telefonos": [
+      "4-637-3793",
+      "4-637-9796",
+      "0800-222-677242"
+    ],
+    "emails": [
+      "ospaga@yahoo.com.ar"
+    ],
+    "web": "www.ospaga.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100908": {
+    "rnos": "100908",
+    "exists": true,
+    "nombre": "OBRA SOCIAL EMPLEADOS DE AGENCIAS DE INFORMES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSEADI",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "LAVALLE 1783 PISO 1 - OF. A",
+    "cp": "1048",
+    "telefonos": [
+      "4-372-9598",
+      "4-373-4977"
+    ],
+    "emails": [
+      "oseadi@VELOCOM.com.ar"
+    ],
+    "web": "WWW.OSEADI.COM.AR",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100809": {
+    "rnos": "100809",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE AERONAVEGANTES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BARTOLOME MITRE 1906 - PISO 1",
+    "cp": "1039",
+    "telefonos": [
+      "4-953-7274/79",
+      "0800 9999 672"
+    ],
+    "emails": [
+      "osa@aeronavegantes.com",
+      "aaa@aeronavegantes.com.ar"
+    ],
+    "web": "www.osa-aeronavegantes.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100700": {
+    "rnos": "100700",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL TECNICO AERONAUTICO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPTA",
+    "provincia": "Buenos Aires",
+    "localidad": "CIUDADELA",
+    "domicilio": "D ONOFRIO 158",
+    "cp": "1702",
+    "telefonos": [
+      "0800--666-2096",
+      "4-653-3017",
+      "4-653-3016"
+    ],
+    "emails": [
+      "aviones@aviones.com"
+    ],
+    "web": "www.aviones.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100601": {
+    "rnos": "100601",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE AERONAVEGACION DE ENTES PRIVADOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPADEP",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VENEZUELA 900",
+    "cp": "1095",
+    "telefonos": [
+      "4-331-1411",
+      "0800-222-2722"
+    ],
+    "emails": [
+      "suobrasocial@speedy.com.a",
+      "info@ospadep.com"
+    ],
+    "web": "www.ospadep.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100502": {
+    "rnos": "100502",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL AERONAUTICO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ANCHORENA 1266",
+    "cp": "1425",
+    "telefonos": [
+      "4-823-7121"
+    ],
+    "emails": [
+      "info@ospa.com.ar",
+      "ybalbis@ospa.com.ar"
+    ],
+    "web": "www.ospa.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100403": {
+    "rnos": "100403",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL SUPERIOR Y PROFESIONAL DE EMPRESAS AEROCOMERCIALES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPEA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "INDEPENDENCIA 1111 - PISO 2",
+    "cp": "1099",
+    "telefonos": [
+      "4-383-8907",
+      "4-383-3185",
+      "0800-999-8907"
+    ],
+    "emails": [
+      "ospea@upsa-ospea.com.ar"
+    ],
+    "web": "www.upsa-ospea.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100304": {
+    "rnos": "100304",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TECNICOS DE VUELO DE LINEAS AEREAS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTVLA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VICTOR HUGO 369",
+    "cp": "1407",
+    "telefonos": [
+      "4-635-9010"
+    ],
+    "emails": [
+      "atvla@ciudad.com.ar",
+      "obrasocial@tecnicosdevuelo.org.ar"
+    ],
+    "web": "www.tecnicosdevuelo.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100205": {
+    "rnos": "100205",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE ACTORES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PASTEUR 24 PISO 1",
+    "cp": "1025",
+    "telefonos": [
+      "4 952-8402",
+      "0-800-999-0301",
+      "4 953-6740"
+    ],
+    "emails": [
+      "0800-222-9216"
+    ],
+    "web": "www.osa.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "100106": {
+    "rnos": "100106",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA EL PERSONAL DE LA INDUSTRIA ACEITERA, DESMOTADORA Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSIAD",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA. BELGRANO 1370 PISO 2",
+    "cp": "1093",
+    "telefonos": [
+      "4-381-5041",
+      "0810-345-6742"
+    ],
+    "emails": [
+      "info@osiadsalud.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "3603": {
+    "rnos": "3603",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PROGRAMAS MEDICOS SOCIEDAD ARGENTINA DE CONSULTORIA MUTUAL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "LOMAS DE ZAMORA (LOMAS DE ZAMORA)",
+    "domicilio": "L.N.ALEM 239",
+    "cp": "1832",
+    "telefonos": [
+      "5032-5000"
+    ],
+    "emails": [],
+    "web": "www.programasmedicos.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "3504": {
+    "rnos": "3504",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CONDUCTORES TITULARES DE TAXIS DE LA CIUDAD AUTONOMA DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "O.S.TAX.B.A",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "FRAGATA PRESIDENTE SARMIENTO 661",
+    "cp": "1416",
+    "telefonos": [
+      "4331-5503",
+      "4331-4864"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "3405": {
+    "rnos": "3405",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ASOCIACION MUTUAL DE LOS OBREROS CATOLICOS \"PADRE FEDERICO GROTE\"",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "O.S.A.M.O.C",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BILLINGHURST 1677",
+    "cp": "1425",
+    "telefonos": [
+      "0810-555-6726"
+    ],
+    "emails": [
+      "prestaciones@osamoc.ar",
+      "osamos@fibertel.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "3306": {
+    "rnos": "3306",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES VENDEDORES DE DIARIOS REVISTAS Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTVENDRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VENEZUELA 2365",
+    "cp": "1096",
+    "telefonos": [
+      "4-941-2560",
+      "4-941-9855"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "3207": {
+    "rnos": "3207",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES SOCIOS DE LA ASOCIACION MUTUAL DEL PERSONAL JERARQUICO DE BANCOS OFICIALES NACIONALES-JERARQUICOS SALUD-",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "SANTA FE",
+    "domicilio": "AV FACUNDO ZUVIRIA 4584",
+    "cp": "3000",
+    "telefonos": [
+      "0800-555-4844",
+      "0342-4504800"
+    ],
+    "emails": [
+      "obrasocialpmo@jerarquicossalud.com.ar"
+    ],
+    "web": "www.jerarquicos.com",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "3108": {
+    "rnos": "3108",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS INMIGRANTES ESPA\u00d1OLES Y SUS DESCENDIENTES RESIDENTES EN LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPA\u00d1A",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "AVDA BELGRANO 2133",
+    "cp": "1095",
+    "telefonos": [
+      "4-127-1000",
+      "4-127-1102",
+      "0800-999-0000"
+    ],
+    "emails": [
+      "ricciardi@ospana.com.ar",
+      "info@ospana.com.ar"
+    ],
+    "web": "www.ospana.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "3009": {
+    "rnos": "3009",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL ASOCIADO A ASOCIACION MUTUAL SANCOR",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "O.S.PERS.A.A.M.S.",
+    "provincia": "Santa Fe",
+    "localidad": "SUNCHALES",
+    "domicilio": "CALLE AVENIDA INDEPENDENCIA 206 PRIMER PISO",
+    "cp": "1041",
+    "telefonos": [
+      "(03493)-426325"
+    ],
+    "emails": [
+      "ospersaams@sancorsalud.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2907": {
+    "rnos": "2907",
+    "exists": true,
+    "nombre": "OBRA SOCIAL ASOCIACION MUTUAL METALURGICA VILLA CONSTITUCION",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSAMMVC",
+    "provincia": "Santa Fe",
+    "localidad": "VILLA CONSTITUCION",
+    "domicilio": "JUAN MANUEL DE ROSAS 710 - PLANTA ALTA -",
+    "cp": "2919",
+    "telefonos": [
+      "03400-479532"
+    ],
+    "emails": [
+      "osammvc@cablenet.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2808": {
+    "rnos": "2808",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA CAMARA DE EMPRESARIOS DE AGENCIAS DE REMISES DE LA PROVINCIA DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "O.S.E.A.R.B.A.",
+    "provincia": "Buenos Aires",
+    "localidad": "ALBERTI",
+    "domicilio": "CALLE RIVADAVIA Y 1ERO. DE MAYO",
+    "cp": "6634",
+    "telefonos": [
+      "02346-471880"
+    ],
+    "emails": [
+      "osearbasalud@intercal.com.ar",
+      "info@osceara.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2709": {
+    "rnos": "2709",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS TRABAJADORES ASOCIADOS A LA ASOCIACION MUTUAL MERCANTIL ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSTAMMA",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "TUCUMAN 26 LOCAL 2 GALERIA FORTUNE",
+    "cp": "5900",
+    "telefonos": [
+      "0351-4246297",
+      "0351-4251433"
+    ],
+    "emails": [],
+    "web": "WWW.amma.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2600": {
+    "rnos": "2600",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS TRABAJADORES DE LA CARNE Y AFINES DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "O.S.T.C.A.R.A.",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "RODRIGUEZ PE\u00d1A 269",
+    "cp": "1017",
+    "telefonos": [
+      "4-373-5367"
+    ],
+    "emails": [
+      "secretaria@ostcara.org.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2501": {
+    "rnos": "2501",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE MINISTROS, SECRETARIOS Y SUBSECRETARIOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSMISS",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ADOLFO ALSINA 943 PISO 2",
+    "cp": "1088",
+    "telefonos": [
+      "0800-3336373",
+      "4-334-6644",
+      "4-334-6611"
+    ],
+    "emails": [
+      "info@osmiss.org.ar",
+      "gerencia.administracion@osmiss.org.ar"
+    ],
+    "web": "www.osmiss.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2402": {
+    "rnos": "2402",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL JERARQUICO DEL TRANSPORTE AUTOMOTOR DE PASAJEROS DE CORDOBA Y AFINES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "LIMA 446 OF.1.-",
+    "cp": "5000",
+    "telefonos": [
+      "0351-4280605",
+      "0351-4264580"
+    ],
+    "emails": [],
+    "web": "www.ospjtap.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2303": {
+    "rnos": "2303",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA EL PERSONAL DE EMPRESAS DE LIMPIEZA, SERVICIOS Y MAESTRANZA DE MENDOZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Mendoza",
+    "localidad": "MENDOZA",
+    "domicilio": "SAN LORENZO 221",
+    "cp": "5500",
+    "telefonos": [
+      "0800-666-5579",
+      "0261-420-1638"
+    ],
+    "emails": [
+      "ospelsym@ospelsym.com.ar"
+    ],
+    "web": "www.ospelsym.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2204": {
+    "rnos": "2204",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE EMPLEADOS Y PERSONAL JERARQUICO DE LA ACTIVIDAD DEL NEUMATICO ARGENTINO DE NEUMATICOS GOOD YEAR SRL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Buenos Aires",
+    "localidad": "HURLINGHAM (HURLINGHAM)",
+    "domicilio": "MANUEL OCAMPO 1201",
+    "cp": "1686",
+    "telefonos": [
+      "4-665-7958",
+      "0800-333-2820"
+    ],
+    "emails": [
+      "DIR MED DR.FERNANDO A SAN CRISTOBAL (MN"
+    ],
+    "web": "www.osejana.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2105": {
+    "rnos": "2105",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PROFESIONALES DEL TURF DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPROTURA",
+    "provincia": "Buenos Aires",
+    "localidad": "ACASSUSO",
+    "domicilio": "TRES SARGENTOS 863",
+    "cp": "1641",
+    "telefonos": [
+      "4-792-1851",
+      "4-798-3868"
+    ],
+    "emails": [
+      "interturf@ciudad.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "1904": {
+    "rnos": "1904",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA FEDERACION DE CAMARAS Y CENTROS COMERCIALES ZONALES DE LA REPUBLICA ARGENTINA (FEDECAMARAS)",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "FEDECAMARAS",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "URUGUAY 252 - 1\u00ba CUERPO - PISO 2\u00ba - OFICINA C",
+    "cp": "1424",
+    "telefonos": [
+      "4372-4600",
+      "0800-345-0770",
+      "4372-3838"
+    ],
+    "emails": [
+      "mecheconea@osfedecamaras.com.ar",
+      "info@osfedecamaras.com.ar"
+    ],
+    "web": "www.osfedecamaras.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "1805": {
+    "rnos": "1805",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS LEGISLADORES DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSLERA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MEXICO 565",
+    "cp": "1097",
+    "telefonos": [
+      "4331-1245",
+      "0800-444-3423",
+      "4331-1090"
+    ],
+    "emails": [
+      "oslera@clnoslera.com.ar"
+    ],
+    "web": "www.clnoslera.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "1706": {
+    "rnos": "1706",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL JERARQUICO DE LA REPUBLICA ARGENTINA PARA EL PERSONAL JERARQUICO DE LA INDUSTRIA GRAFICA Y EL PERSONAL JERARQUICO DEL AGUA Y LA ENERGIA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSJERA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MORENO 1142 PLANTA BAJA",
+    "cp": "1091",
+    "telefonos": [
+      "4-381-3200",
+      "0810-345-753"
+    ],
+    "emails": [
+      "administraci\u00f3n@opsjera.com.ar",
+      "atancion@opsjera.com.ar"
+    ],
+    "web": "www.osjera.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "1607": {
+    "rnos": "1607",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL SINDICATO UNIDO DE TRABAJADORES DE LA INDUSTRIA DE AGUAS GASEOSAS DE LA PROVINCIA DE SANTA FE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Santa Fe",
+    "localidad": "ROSARIO",
+    "domicilio": "SARMIENTO 2225",
+    "cp": "2000",
+    "telefonos": [
+      "0341 482-3351",
+      "0341-482-5430"
+    ],
+    "emails": [
+      "sutiaga@coopvgg.com.ar",
+      "sutiagarosario@arnetbiz.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "1508": {
+    "rnos": "1508",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA ASOCIACION CIVIL PROSINDICATO DE AMAS DE CASA DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSSACRA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "CALLE SOLIS 756 PLANTA ALTA",
+    "cp": "1121",
+    "telefonos": [
+      "0800-345-2627",
+      "4384-0463"
+    ],
+    "emails": [
+      "ossacrasedecentral@gmail.com",
+      "info@amassalud.org"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "1300": {
+    "rnos": "1300",
+    "exists": true,
+    "nombre": "OBRA SOCIAL FERROVIARIA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSFE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "INDEPENDENCIA 2852",
+    "cp": "1227",
+    "telefonos": [
+      "0800-333-3313",
+      "4127-7706/7791",
+      "4127-7731"
+    ],
+    "emails": [
+      "info@osferroviaria.org.ar"
+    ],
+    "web": "www.osfe.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "1201": {
+    "rnos": "1201",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA EL PERSONAL DEL MINISTERIO DE ECONOMIA Y DE OBRAS Y SERVICIOS PUBLICOS",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSME",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "VENEZUELA 155",
+    "cp": "1095",
+    "telefonos": [
+      "0800-3456763",
+      "4-345-0786",
+      "4-345-0746/50"
+    ],
+    "emails": [
+      "osme.cc@ciudad.com.ar"
+    ],
+    "web": "www.osme.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "1102": {
+    "rnos": "1102",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PARA LA ACTIVIDAD DOCENTE",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPLAD",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "TACUARI 345",
+    "cp": "1071",
+    "telefonos": [
+      "4 334-1427",
+      "0810-666-7752",
+      "4 334-1410"
+    ],
+    "emails": [
+      "info@osplad.org.ar",
+      "secpres@infovia.com.ar"
+    ],
+    "web": "www.osplad.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "901": {
+    "rnos": "901",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LA ACTIVIDAD DE SEGUROS, REASEGUROS, CAPITALIZACION Y AHORRO Y PRESTAMO PARA LA VIVIENDA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSSEG",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "PELLEGRINI 575",
+    "cp": "1009",
+    "telefonos": [
+      "0800-666-7734",
+      "4131-2000",
+      "4131-2100"
+    ],
+    "emails": [
+      "informacion@osseg.org.ar"
+    ],
+    "web": "www.osseg.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "703": {
+    "rnos": "703",
+    "exists": true,
+    "nombre": "MUTUAL DEL PERSONAL DEL AGUA Y LA ENERGIA DE MENDOZA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "Mendoza",
+    "localidad": "MENDOZA",
+    "domicilio": "JOSE VICENTE ZAPATA 144",
+    "cp": "5500",
+    "telefonos": [
+      "0261-4292012"
+    ],
+    "emails": [
+      "mutualaye@infovia.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "604": {
+    "rnos": "604",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE AGENTES DE LOTERIAS Y AFINES DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSALARA",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "ADOLFO ALSINA 946",
+    "cp": "1088",
+    "telefonos": [
+      "0800-333-8866",
+      "5235-9810"
+    ],
+    "emails": [
+      "osalara@aleara.com.ar"
+    ],
+    "web": "www.aleara.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "505": {
+    "rnos": "505",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE CAPITANES, PILOTOS Y PATRONES DE PESCA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPESCA",
+    "provincia": "Buenos Aires",
+    "localidad": "MAR DEL PLATA  (MAR DEL PLATA)",
+    "domicilio": "AVDA JUAN B. JUSTO 518",
+    "cp": "7600",
+    "telefonos": [
+      "0223-4800580",
+      "0223-4809739"
+    ],
+    "emails": [
+      "ospesca@capitanesdepesca.org.ar"
+    ],
+    "web": "www.capitanesdepesca.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "406": {
+    "rnos": "406",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DEL ORGANISMO DE CONTROL EXTERNO",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPOCE",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "BARTOLOME MITRE 1523 PISO 1 B",
+    "cp": "1037",
+    "telefonos": [
+      "0800-321-6776(O.S.)",
+      "5510-5000"
+    ],
+    "emails": [],
+    "web": "www.ospoce.com.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "307": {
+    "rnos": "307",
+    "exists": true,
+    "nombre": " OBRA SOCIAL PORTUARIOS ARGENTINOS DE MAR DEL PLATA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "OSPA",
+    "provincia": "Buenos Aires",
+    "localidad": "MAR DEL PLATA",
+    "domicilio": "RONDEAU 63",
+    "cp": "7600",
+    "telefonos": [
+      "0223 480-0421",
+      "0223-4890039"
+    ],
+    "emails": [
+      "portuariosargentinosmdp@yahoo.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "208": {
+    "rnos": "208",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA GRAFICA DE LA PROVINCIA DE CORDOBA",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "C\u00f3rdoba",
+    "localidad": "CORDOBA",
+    "domicilio": "ARTIGAS 60",
+    "cp": "5000",
+    "telefonos": [
+      "3514238079",
+      "0351-4236538"
+    ],
+    "emails": [
+      "ospigpc@hotmail.com"
+    ],
+    "web": "ww.uogc.org.ar",
+    "sources": [
+      "SISA",
+      "SSSalud"
+    ]
+  },
+  "2": {
+    "rnos": "2",
+    "exists": true,
+    "nombre": "CONSORCIO DE OBRAS SOCIALES UNION FEDERAL",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MARCELO T. DE ALVEAR 1550 PISO 3 DPTO 3 OF A",
+    "cp": "",
+    "telefonos": [
+      "4 8124331"
+    ],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "1": {
+    "rnos": "1",
+    "exists": true,
+    "nombre": "MUTUAL DE LOS MEDICOS MUNICIPALES DE LA CIUDAD DE BUENOS AIRES",
+    "tipo_de_cobertura": "Obra social",
+    "sigla": "",
+    "provincia": "CABA",
+    "localidad": "CIUDAD DE BUENOS AIRES",
+    "domicilio": "MEXICO 2521/23",
+    "cp": "",
+    "telefonos": [
+      "4308-2403",
+      "4941-7766"
+    ],
+    "emails": [
+      "info@lamutua.com.ar"
+    ],
+    "web": null,
+    "sources": [
+      "SISA"
+    ]
+  },
+  "3702": {
+    "rnos": "3702",
+    "exists": true,
+    "nombre": "OBRA SOCIAL  YACIMIENTOS CARBONIFEROS",
+    "tipo_de_cobertura": "",
+    "sigla": "OSYC",
+    "provincia": "CAPITAL FEDERAL",
+    "localidad": "",
+    "domicilio": "24 DE NOVIEMBRE 1126",
+    "cp": "1224",
+    "telefonos": [],
+    "emails": [],
+    "web": "RES. 626/12 -12/7/12-SE RECTIFICA ART.1-DENOMINAC",
+    "sources": [
+      "SSSalud"
+    ]
+  },
+  "3801": {
+    "rnos": "3801",
+    "exists": true,
+    "nombre": "OBRA SOCIAL  WITCEL",
+    "tipo_de_cobertura": "",
+    "sigla": "",
+    "provincia": "CAPITAL FEDERAL",
+    "localidad": "",
+    "domicilio": "AVDA CALLAO 625 PISO 3",
+    "cp": "1022",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SSSalud"
+    ]
+  },
+  "128300": {
+    "rnos": "128300",
+    "exists": true,
+    "nombre": "OBRA SOCIAL PEONES DE TAXIS DE ROSARIO",
+    "tipo_de_cobertura": "",
+    "sigla": "O.S.PE.TAX.R",
+    "provincia": "SANTA FE",
+    "localidad": "",
+    "domicilio": "SALTA 2882",
+    "cp": "2000",
+    "telefonos": [],
+    "emails": [],
+    "web": "w.w.w.sptrosario.com.ar",
+    "sources": [
+      "SSSalud"
+    ]
+  },
+  "128508": {
+    "rnos": "128508",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE FARMACEUTICOS Y BIOQUIMICOS",
+    "tipo_de_cobertura": "",
+    "sigla": "OSFYB",
+    "provincia": "CAPITAL FEDERAL",
+    "localidad": "",
+    "domicilio": "AGUERO 1595 PISO 13",
+    "cp": "1425",
+    "telefonos": [],
+    "emails": [],
+    "web": "www.safyb.org.ar",
+    "sources": [
+      "SSSalud"
+    ]
+  },
+  "128607": {
+    "rnos": "128607",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE TRABAJADORES DEL PETROLEO Y GAS PRIVADO DEL CHUBUT",
+    "tipo_de_cobertura": "",
+    "sigla": "",
+    "provincia": "CHUBUT",
+    "localidad": "",
+    "domicilio": "AVDA ALSINA 728 PISO 3",
+    "cp": "9000",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SSSalud"
+    ]
+  },
+  "128706": {
+    "rnos": "128706",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL DE DRAGADO Y BALIZAMIENTO",
+    "tipo_de_cobertura": "",
+    "sigla": "OSPEDYB",
+    "provincia": "CAPITAL FEDERAL",
+    "localidad": "",
+    "domicilio": "CALLE PIEDRAS 1693/95",
+    "cp": "1140",
+    "telefonos": [],
+    "emails": [
+      "ospedyb@gmail.com"
+    ],
+    "web": null,
+    "sources": [
+      "SSSalud"
+    ]
+  },
+  "128805": {
+    "rnos": "128805",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DEL PERSONAL ADUANERO DE LA REPUBLICA ARGENTINA",
+    "tipo_de_cobertura": "",
+    "sigla": "OSPAD",
+    "provincia": "CAPITAL FEDERAL",
+    "localidad": "",
+    "domicilio": "PERU 625",
+    "cp": "1068",
+    "telefonos": [],
+    "emails": [
+      "info.ospad@gmail.com"
+    ],
+    "web": "se recibe notificaci\u00f3nes en TACUARI 560 5/7/19",
+    "sources": [
+      "SSSalud"
+    ]
+  },
+  "128904": {
+    "rnos": "128904",
+    "exists": true,
+    "nombre": "OBRA SOCIAL DE LOS TRABAJADORES ARGENTINOS DE CENTROS DE CONTACTOS",
+    "tipo_de_cobertura": "",
+    "sigla": "O.S.T.A.C.C,",
+    "provincia": "NO IDENTIFICADA",
+    "localidad": "",
+    "domicilio": "ROSARIO DE SANTA FE 414",
+    "cp": "0",
+    "telefonos": [],
+    "emails": [],
+    "web": null,
+    "sources": [
+      "SSSalud"
+    ]
+  }
+}

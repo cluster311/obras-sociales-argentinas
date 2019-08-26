@@ -2,4 +2,5 @@ include oss_ar/data/sisa.csv
 include oss_ar/data/sisa.json
 include oss_ar/data/sss-*.tsv
 include oss_ar/data/sss.json
+include oss_ar/data/final-oss.json
 
