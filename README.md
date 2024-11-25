@@ -72,6 +72,44 @@ for rnos in rnoss:
 
 ```
 
+### Actualziar la base de datos
+
+Una copia de los datos esta en este repositorio, si necesitas bajar los 19 archivos de nuevo
+para tener una version del dia podes ejecutar:
+
+```python
+from oss_ar.sssalud import ObrasSocialesSSS
+oss = ObrasSocialesSSS()
+oss.download_databases(force=True)
+```
+
+### Tipos de agente de seguro
+
+Estos son los tipos de seguro disponibles en https://www.sssalud.gob.ar/?page=listRnosc&tipo=19.  
+Podes cambiar el numero de tipo en la URL para verlos a todos y hacer a mano lo que este repositorio hace automaticamente.  
+
+```
+"1": "Agentes del Seguro que aceptan Personal de Servicio Doméstico",
+"2": "Obras Sociales para Empleados de Monotributistas",
+"3": "Agentes del Seguro que aceptan de Monotributistas",
+"4": "Agentes del Seguro con Regimen de Adherentes",
+"5": "Agentes del Seguro que aceptan Jubilados y Pensionados",
+"6": "Agentes del Seguro de otra Naturaleza",
+"7": "Agentes del Seguro Sindicales",
+"8": "Agentes del Seguro Estatales",
+"9": "Agentes del Seguro por Convenio",
+"10": "Agentes del Seguro para el Personal de Dirección",
+"11": "Agentes del Seguro de Administración Mixta",
+"12": "Asociaciones de Obras Sociales (A.D.O.S.)",
+"13": "Agentes del Seguro Ley 21.476",
+"14": "Agentes del Seguro de Empresas",
+"15": "Federaciones (Vacio)",
+"16": "Mutuales",
+"17": "Agentes del Seguro Universitarios",
+"18": "Agentes del Seguro por Adhesión",
+"19": "Agentes del Seguro Ley 23.660, Art.1°, inc. i)"
+```
+
 ## Trabajar sobre la lista completa
 
 
