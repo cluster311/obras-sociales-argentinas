@@ -72,7 +72,7 @@ for rnos in rnoss:
 
 ```
 
-### Actualziar la base de datos
+### Actualizar la base de datos
 
 Una copia de los datos esta en este repositorio, si necesitas bajar los 19 archivos de nuevo
 para tener una version del dia podes ejecutar:
