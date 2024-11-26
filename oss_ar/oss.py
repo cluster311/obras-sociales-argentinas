@@ -49,7 +49,7 @@ class ObraSocialArgentina:
         self.cp = oss_sss.get('cp', '')
         self.telefonos = set()
         self.emails = set()
-        
+
         telefonos = [oss_sisa.get('Teléfono 1', None),
                      oss_sisa.get('Teléfono 2', None),
                      oss_sss.get('telefono', None),
@@ -58,7 +58,7 @@ class ObraSocialArgentina:
         for tel in telefonos:
             if tel is not None:
                 self.telefonos.add(tel)
-        
+
         email1 = oss_sisa.get('Mail', None)
         email2 = oss_sss.get('e_mail', None)
         if email1 is not None:
@@ -67,7 +67,7 @@ class ObraSocialArgentina:
             self.emails.add(email2)
 
         self.web = oss_sss.get('web', None)
-    
+
     def as_dict(self):
         dct = {
             'rnos': self.rnos,
@@ -101,9 +101,9 @@ class ObrasSocialesArgentinas:
     processed = False  # ready for use
 
     def __init__(self):
-        
+
         self.process_database()  # initialice databases
-    
+
     def process_database(self, force=False):
         """ read the excel file, clean an return/write a nice json file """
 
@@ -113,14 +113,14 @@ class ObrasSocialesArgentinas:
             f.close
             self.processed = True
             return self.local_json_object
-        
+
         logger.info('Merging databases')
         sisa = ObrasSocialesSISA()
         sss = ObrasSocialesSSS()
-        
+
         sisa.process_database()
         sss.process_database()
-        
+
         real_rows = {}
 
         for rnos, oss in sisa.local_json_object.items():
@@ -146,7 +146,7 @@ class ObrasSocialesArgentinas:
             # agregar al dict final
             real_rows[rnos] = osa.as_dict()
             real_rows[rnos]['sources'] = ['SSSalud']
-        
+
         f2 = open(self.local_json, 'w')
         f2.write(json.dumps(real_rows, indent=2))
         f2.close

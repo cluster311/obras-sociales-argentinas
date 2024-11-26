@@ -45,7 +45,7 @@ class ObrasSocialesSSS:
     here = os.path.dirname(os.path.realpath(__file__))
     base_folder = os.path.join(here, 'data')
     # they use XLS extension but it's a TSV file
-    local_excel = os.path.join(base_folder, 'sss-{tipo}.tsv')  # son 18 CSVs
+    local_excel = os.path.join(base_folder, 'sss-{tipo}.tsv')  # son 19 CSVs
     local_json = os.path.join(base_folder, 'sss.json')  # se pasan a un JSON global
     local_json_object = {}
     # requests records

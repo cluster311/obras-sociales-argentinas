@@ -20,7 +20,7 @@ setuptools.setup(
      ],
      include_package_data=True,  # for CSV y JSON files
      packages=['oss_ar'],  # setuptools.find_packages(),
-     
+
      classifiers=[
          'Programming Language :: Python :: 3',
          'Programming Language :: Python :: 3.6',
@@ -29,4 +29,4 @@ setuptools.setup(
          'Intended Audience :: Developers', 
      ],
      python_requires='>=3.6',
- )
+)
