@@ -76,8 +76,8 @@ class ObrasSocialesSSS:
         return oks > 10  # ponele
 
     def download_database(self, force_download=False, tipo_obra_social=7):
-        """ Download and save database. Return True if OK or None if fails 
-            If the file exist we do not re-download. 
+        """ Download and save database. Return True if OK or None if fails
+            If the file exist we do not re-download.
             Use force_download for change this behaviour
         """
 
@@ -103,7 +103,7 @@ class ObrasSocialesSSS:
 
         self.status_response = response.status_code
         self.raw_response = response.content
-        logger.info('respuesta de PUCO: {} {}'.format(response.status_code, response.content))
+        logger.info('respuesta de SSS: {} {}'.format(response.status_code, response.content))
 
         # El contenido tiene encoding 'iso-8859-1'
         f = open(excel_path, 'wb')
@@ -143,23 +143,23 @@ class ObrasSocialesSSS:
             for row in reader:
                 # FIX THE SHIT
                 row['web'] = row.get('otros_telefonos', '')
-                if type(row['web']) == str:
+                if isinstance(row['web'], str):
                     row['web'] = row['web'].strip()
 
                 row['e_mail'] = row.get('telefono', '')
-                if type(row['e_mail']) == str:
+                if isinstance(row['e_mail'], str):
                     row['e_mail'] = row['e_mail'].strip()
 
                 row['telefono'] = row.get('provincia', '')
-                if type(row['telefono']) == str:
+                if isinstance(row['telefono'], str):
                     row['telefono'] = row['telefono'].strip()
 
                 row['provincia'] = row.get('cp', '')
-                if type(row['provincia']) == str:
+                if isinstance(row['provincia'], str):
                     row['provincia'] = row['provincia'].strip()
 
                 row['cp'] = row.get('localidad', '')
-                if type(row['web']) == str:
+                if isinstance(row['web'], str):
                     row['cp'] = row['cp'].strip()
 
                 row['localidad'] = ''
@@ -171,7 +171,8 @@ class ObrasSocialesSSS:
                 row['sigla'] = row['sigla'].strip()
                 row['domicilio'] = row['domicilio'].strip()
 
-                new_row = {}
+                # Agregar una referencia al tipo original
+                new_row = {'tipos': [tipo]}
                 for k, v in row.items():
                     if v not in [None, '']:  # valor feo como nulo
                         new_row[k] = v
@@ -180,8 +181,8 @@ class ObrasSocialesSSS:
                     if rnos != 'rnos':
                         real_rows[rnos] = new_row
                 else:
-                    # DUPLICATED ERROR!
-                    self.errors.append(f'Duplicated RNOS: {rnos}')
+                    # Hay OSS de mas de un tipo
+                    real_rows[rnos]['tipos'].append(tipo)
 
             f.close()
 
@@ -192,6 +193,16 @@ class ObrasSocialesSSS:
         self.local_json_object = real_rows
         self.processed = True
         return real_rows
+
+    def get_by_tipo(self, tipo, force=False):
+        """ return a list of OSS by tipo """
+        ret = []
+        self.process_database(force=force)
+        for _, oss in self.local_json_object.items():
+            if tipo in oss['tipos']:
+                ret.append(oss)
+
+        return ret
 
     def count_by_province(self):
         """ conut by province """
