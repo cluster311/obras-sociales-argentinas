@@ -1,5 +1,9 @@
 {
   "208": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "208",
     "denominacion": "OBRA SOCIAL DEL  PERSONAL DE LA INDUSTRIA GRAFICA DE LA PROVINCIA DE CORDOBA",
     "domicilio": "AVELLANEDA 54",
@@ -9,6 +13,10 @@
     "web": "ww.uogc.org.ar"
   },
   "307": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "307",
     "denominacion": "OBRA SOCIAL PORTUARIOS ARGENTINOS DE MAR DEL PLATA",
     "sigla": "OSPA",
@@ -18,6 +26,10 @@
     "e_mail": "portuariosargentinosmdp@yahoo.com.ar"
   },
   "406": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "406",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL ORGANISMO DE CONTROL EXTERNO",
     "sigla": "OSPOCE",
@@ -28,6 +40,11 @@
     "web": "www.ospoce.com.ar"
   },
   "505": {
+    "tipos": [
+      "1",
+      "5",
+      "6"
+    ],
     "rnos": "505",
     "denominacion": "OBRA SOCIAL DE CAPITANES, PILOTOS Y PATRONES DE PESCA",
     "sigla": "OSPESCA",
@@ -38,6 +55,11 @@
     "web": "www.capitanesdepesca.org.ar"
   },
   "604": {
+    "tipos": [
+      "1",
+      "4",
+      "6"
+    ],
     "rnos": "604",
     "denominacion": "OBRA SOCIAL DE AGENTES DE LOTERIAS Y AFINES DE LA REPUBLICA  ARGENTINA",
     "sigla": "OSALARA",
@@ -49,6 +71,12 @@
     "web": "www.aleara.com.ar"
   },
   "703": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "16"
+    ],
     "rnos": "703",
     "denominacion": "MUTUAL DEL PERSONAL DEL AGUA Y LA ENERGIA  DE MENDOZA",
     "domicilio": "AVDA. JOSE VICENTE ZAPATA  N\u00ba 144",
@@ -57,6 +85,12 @@
     "e_mail": "mutualaye@mutualaye.com.ar"
   },
   "901": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "6"
+    ],
     "rnos": "901",
     "denominacion": "OBRA SOCIAL DE LA ACTIVIDAD DE SEGUROS, REASEGUROS, CAPITALIZACION Y AHORRO Y PRESTAMO PARA LA VIVIENDA",
     "sigla": "OSSEG",
@@ -68,6 +102,10 @@
     "web": "www.osseg.org.ar"
   },
   "1102": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "1102",
     "denominacion": "OBRA SOCIAL PARA LA ACTIVIDAD DOCENTE",
     "sigla": "OSPLAD",
@@ -79,6 +117,10 @@
     "web": "www.osplad.org.ar"
   },
   "1201": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "1201",
     "denominacion": "OBRA SOCIAL PARA EL PERSONAL DEL MINISTERIO DE ECONOMIA Y DE OBRAS Y SERVICIOS PUBLICOS",
     "sigla": "OSME",
@@ -89,6 +131,11 @@
     "web": "www.osme.org.ar"
   },
   "1300": {
+    "tipos": [
+      "1",
+      "5",
+      "6"
+    ],
     "rnos": "1300",
     "denominacion": "OBRA SOCIAL FERROVIARIA",
     "sigla": "OSFE",
@@ -100,6 +147,10 @@
     "web": "www.osfe.org.ar"
   },
   "1508": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "1508",
     "denominacion": "OBRA SOCIAL DE LA ASOCIACION CIVIL PROSINDICATO DE AMAS DE CASA DE LA REPUBLICA ARGENTINA",
     "sigla": "OSSACRA",
@@ -109,6 +160,10 @@
     "e_mail": "info@ossacra.org.ar"
   },
   "1607": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "1607",
     "denominacion": "OBRA SOCIAL DEL SINDICATO UNIDO DE TRABAJADORES DE LA INDUSTRIA DE AGUAS GASEOSAS DE LA PROVINCIA DE SANTA FE",
     "domicilio": "SARMIENTO 2225",
@@ -117,6 +172,11 @@
     "e_mail": "sutiagarosario@arnetbiz.com.ar"
   },
   "1706": {
+    "tipos": [
+      "1",
+      "5",
+      "6"
+    ],
     "rnos": "1706",
     "denominacion": "OBRA SOCIAL DEL PERSONAL JERARQUICO DE LA REPUBLICA ARGENTINA PARA EL PERSONAL JERARQUICO DE LA INDUSTRIA GRAFICA Y EL PERSONAL JERARQUICO DEL AGUA Y LA ENERGIA",
     "sigla": "OSJERA",
@@ -128,6 +188,11 @@
     "web": "www.osjera.com.ar"
   },
   "1805": {
+    "tipos": [
+      "1",
+      "4",
+      "6"
+    ],
     "rnos": "1805",
     "denominacion": "OBRA SOCIAL DE LOS  LEGISLADORES DE LA REPUBLICA ARGENTINA",
     "sigla": "OSLERA",
@@ -139,6 +204,11 @@
     "web": "www.clnoslera.com.ar"
   },
   "1904": {
+    "tipos": [
+      "1",
+      "4",
+      "6"
+    ],
     "rnos": "1904",
     "denominacion": "OBRA SOCIAL DE FEDECAMARAS",
     "sigla": "FEDECAMARAS",
@@ -150,6 +220,10 @@
     "web": "www.osfedecamaras.com.ar"
   },
   "2105": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "2105",
     "denominacion": "OBRA SOCIAL PROFESIONALES DEL TURF DE LA REPUBLICA ARGENTINA",
     "sigla": "OSPROTURA",
@@ -159,6 +233,12 @@
     "e_mail": "osprotura@gremialdelturf.com.ar"
   },
   "2204": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "6"
+    ],
     "rnos": "2204",
     "denominacion": "OBRA SOCIAL DE EMPLEADOS Y PERSONAL JERARQUICO  DE LA ACTIVIDAD DEL  NEUMATICO ARGENTINO DE NEUMATICOS GOOD YEAR SRL",
     "domicilio": "MANUEL OCAMPO 1201",
@@ -169,6 +249,10 @@
     "web": "www.osejana.com.ar"
   },
   "2303": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "2303",
     "denominacion": "OBRA SOCIAL PARA EL  PERSONAL DE EMPRESAS DE  LIMPIEZA, SERVICIOS Y MAESTRANZA DE MENDOZA",
     "domicilio": "MONTEVIDEO 270",
@@ -179,6 +263,10 @@
     "web": "www.ospelsym.com.ar"
   },
   "2402": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "2402",
     "denominacion": "OBRA SOCIAL DEL PERSONAL JERARQUICO DEL TRANSPORTE AUTOMOTOR DE PASAJEROS DE CORDOBA Y AFINES",
     "domicilio": "CASEROS N\u00ba 636",
@@ -187,6 +275,10 @@
     "web": "www.ospjtap.com.ar"
   },
   "2501": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "2501",
     "denominacion": "OBRA SOCIAL DE MINISTROS, SECRETARIOS Y SUBSECRETARIOS",
     "sigla": "OSMISS",
@@ -198,6 +290,10 @@
     "web": "www.osmiss.org.ar"
   },
   "2600": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "2600",
     "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES DE LA CARNE Y AFINES DE LA REPUBLICA ARGENTINA",
     "sigla": "O.S.T.C.A.R.A.",
@@ -207,6 +303,11 @@
     "e_mail": "secretaria@ostcara.org.ar"
   },
   "2709": {
+    "tipos": [
+      "1",
+      "5",
+      "6"
+    ],
     "rnos": "2709",
     "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES ASOCIADOS A LA ASOCIACION MUTUAL MERCANTIL ARGENTINA",
     "sigla": "OSTAMMA",
@@ -218,6 +319,11 @@
     "web": "www.ostamma.org.ar"
   },
   "2808": {
+    "tipos": [
+      "1",
+      "4",
+      "6"
+    ],
     "rnos": "2808",
     "denominacion": "OBRA SOCIAL DE LA CAMARA DE EMPRESARIOS DE AGENCIAS DE REMISES DE ARGENTINA",
     "domicilio": "CALLE RIVADAVIA Y 1ERO. DE MAYO",
@@ -226,6 +332,10 @@
     "e_mail": "info@osceara.com.ar"
   },
   "2907": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "2907",
     "denominacion": "OBRA SOCIAL ASOCIACION MUTUAL METALURGICA VILLA CONSTITUCION",
     "sigla": "OSAMMVC",
@@ -235,6 +345,10 @@
     "e_mail": "osammvc@cablenet.com.ar"
   },
   "3009": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "3009",
     "denominacion": "OBRA SOCIAL DEL PERSONAL ASOCIADO A ASOCIACION MUTUAL SANCOR",
     "sigla": "O.S.PERS.A.A.M.S.",
@@ -244,6 +358,11 @@
     "e_mail": "ospersaams@sancorsalud.com.ar"
   },
   "3108": {
+    "tipos": [
+      "1",
+      "5",
+      "6"
+    ],
     "rnos": "3108",
     "denominacion": "OBRA SOCIAL DE LOS INMIGRANTES ESPA\u00d1OLES Y SUS DESCENDIENTES RESIDENTES EN LA REPUBLICA ARGENTINA",
     "sigla": "OSPA\u00d1A",
@@ -255,6 +374,11 @@
     "web": "www.ospana.com.ar"
   },
   "3207": {
+    "tipos": [
+      "1",
+      "5",
+      "6"
+    ],
     "rnos": "3207",
     "denominacion": "OBRA SOCIAL DE TRABAJADORES SOCIOS DE LA ASOCIACION MUTUAL DEL PERSONAL JERARQUICO DE BANCOS OFICIALES NACIONALES-JERARQUICOS SALUD-",
     "domicilio": "AV FACUNDO ZUVIRIA 4584",
@@ -265,6 +389,10 @@
     "web": "www.jerarquicos.com"
   },
   "3306": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "3306",
     "denominacion": "OBRA SOCIAL DE TRABAJADORES VENDEDORES DE DIARIOS REVISTAS Y AFINES",
     "sigla": "OSTVENDRA",
@@ -274,6 +402,12 @@
     "e_mail": "auditoriamedica@ostvendra.org.ar"
   },
   "3405": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
     "rnos": "3405",
     "denominacion": "OBRA SOCIAL ASOCIACION  MUTUAL DE LOS OBREROS CATOLICOS PADRE FEDERICO GROTE",
     "sigla": "O.S.A.M.O.C",
@@ -284,6 +418,10 @@
     "e_mail": "prestaciones@osamoc.ar"
   },
   "3504": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "3504",
     "denominacion": "OBRA SOCIAL DE CONDUCTORES TITULARES DE TAXIS DE LA CIUDAD AUTONOMA DE BUENOS AIRES",
     "sigla": "O.S.TAX.B.A",
@@ -292,6 +430,12 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "3603": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
     "rnos": "3603",
     "denominacion": "OBRA SOCIAL PROGRAMAS MEDICOS SOCIEDAD ARGENTINA DE CONSULTORIA MUTUAL",
     "domicilio": "ESPA\u00d1A 160 PISO 2",
@@ -302,6 +446,10 @@
     "web": "www.osprogmed.com.ar"
   },
   "3702": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "3702",
     "denominacion": "OBRA SOCIAL  YACIMIENTOS CARBONIFEROS",
     "sigla": "OSYC",
@@ -312,6 +460,10 @@
     "web": "RES. 626/12 -12/7/12-SE RECTIFICA ART.1-DENOMINAC"
   },
   "3801": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "3801",
     "denominacion": "OBRA SOCIAL  DE LA PREVENCION Y LA SALUD",
     "domicilio": "AVDA CALLAO 625 PISO 3",
@@ -319,6 +471,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "3900": {
+    "tipos": [
+      "1",
+      "6"
+    ],
     "rnos": "3900",
     "denominacion": "OBRA SOCIAL DE TECNICOS DE VUELO DE LINEAS AEREAS",
     "sigla": "OSTVLA",
@@ -329,6 +485,11 @@
     "web": "www.tecnicosdevuelo.org.ar"
   },
   "4002": {
+    "tipos": [
+      "1",
+      "5",
+      "6"
+    ],
     "rnos": "4002",
     "denominacion": "OBRA SOCIAL PARA EMPLEADOS Y PRODUCTORES DE ENTIDADES DE LA ACTIVIDAD AGROPECUARIA Y AGROALIMENTARIA DE LA ECONOMIA SOCIAL",
     "domicilio": "CORRIENTES 878 - 4\u00ba PISO",
@@ -337,6 +498,11 @@
     "e_mail": "atenci\u00f3n@ospedeaa.com.ar"
   },
   "100106": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "100106",
     "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE LA INDUSTRIA ACEITERA, DESMOTADORA Y AFINES",
     "sigla": "OSIAD",
@@ -347,6 +513,11 @@
     "e_mail": "info@osiadsalud.org.ar"
   },
   "100205": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "100205",
     "denominacion": "OBRA SOCIAL DE ACTORES",
     "sigla": "OSA",
@@ -357,6 +528,12 @@
     "web": "www.osa.org.ar"
   },
   "100403": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "100403",
     "denominacion": "OBRA SOCIAL DEL PERSONAL SUPERIOR Y PROFESIONAL DE EMPRESAS AEROCOMERCIALES",
     "sigla": "OSPEA",
@@ -368,6 +545,12 @@
     "web": "www.upsa-ospea.com.ar"
   },
   "100502": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "100502",
     "denominacion": "OBRA SOCIAL DEL PERSONAL AERONAUTICO",
     "sigla": "OSPA",
@@ -378,6 +561,11 @@
     "web": "www.ospa.com.ar"
   },
   "100601": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "100601",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE AERONAVEGACION DE ENTES PRIVADOS",
     "sigla": "OSPADEP",
@@ -389,6 +577,12 @@
     "web": "www.ospadep.com.ar"
   },
   "100700": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "100700",
     "denominacion": "OBRA SOCIAL DEL PERSONAL TECNICO AERONAUTICO",
     "sigla": "OSPTA",
@@ -400,6 +594,11 @@
     "web": "www.aviones.com"
   },
   "100809": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "100809",
     "denominacion": "OBRA SOCIAL DE AERONAVEGANTES",
     "sigla": "OSA",
@@ -411,6 +610,11 @@
     "web": "www.osa-aeronavegantes.com"
   },
   "100908": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "100908",
     "denominacion": "OBRA SOCIAL  EMPLEADOS DE AGENCIAS DE INFORMES",
     "sigla": "OSEADI",
@@ -421,6 +625,10 @@
     "web": "WWW.OSEADI.COM.AR"
   },
   "101000": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "101000",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE AGUAS GASEOSAS Y AFINES",
     "sigla": "OSPAGA",
@@ -432,6 +640,10 @@
     "web": "www.ospaga.com.ar"
   },
   "101208": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "101208",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DE LA ALIMENTACION",
     "sigla": "OSPIA",
@@ -443,6 +655,11 @@
     "web": "www.ospia.org.ar"
   },
   "101604": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "101604",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL AUTOMOVIL  CLUB ARGENTINO",
     "sigla": "OSPACA",
@@ -454,6 +671,10 @@
     "web": "www.ospaca.com"
   },
   "101802": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "101802",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO LA ESPERANZA",
     "sigla": "OSPA",
@@ -463,6 +684,10 @@
     "e_mail": "ospalaesperanzajujuy@gmail.com"
   },
   "101901": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "101901",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO LEDESMA",
     "sigla": "OSPAIL",
@@ -471,6 +696,11 @@
     "provincia": "JUJUY"
   },
   "102300": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "102300",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL AZUCAR DEL INGENIO SAN MARTIN",
     "sigla": "OSPA",
@@ -480,6 +710,11 @@
     "e_mail": "ospasalta102300@gmail.com"
   },
   "102706": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "102706",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA AZUCARERA",
     "sigla": "OSPIA",
@@ -489,6 +724,11 @@
     "e_mail": "ospia@tucbbs.com.ar"
   },
   "102904": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "102904",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE BARRACAS DE LANAS, CUEROS Y ANEXOS",
     "domicilio": "FLORENTINO AMEGHINO 1060",
@@ -498,6 +738,10 @@
     "e_mail": "osblyca@uolsinectis.com.ar"
   },
   "103006": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "103006",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA BOTONERA",
     "sigla": "OSPIB",
@@ -506,6 +750,11 @@
     "provincia": "BUENOS AIRES"
   },
   "103105": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "103105",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CALZADO",
     "sigla": "OSPICAL",
@@ -515,6 +764,10 @@
     "e_mail": "institucional@ospical.org.ar"
   },
   "103204": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "103204",
     "denominacion": "OBRA SOCIAL DE CONDUCTORES CAMIONEROS Y PERSONAL DEL TRANSPORTE AUTOMOTOR DE CARGAS",
     "domicilio": "AV. CASEROS 921/23",
@@ -523,6 +776,10 @@
     "e_mail": "aliciak@spdps.com.ar"
   },
   "103402": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "103402",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE CARGA Y DESCARGA",
     "sigla": "OSPCYD",
@@ -533,6 +790,11 @@
     "web": "www.unioncargaydescarga.org."
   },
   "103600": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "103600",
     "denominacion": "OBRA SOCIAL DEL PERSONAL AUXILIAR DE CASAS PARTICULARES",
     "sigla": "OSPACP",
@@ -544,6 +806,10 @@
     "web": "www.ospacp.org.ar"
   },
   "103709": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "103709",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CAUCHO",
     "sigla": "OSPIC",
@@ -554,6 +820,10 @@
     "web": "www.ospic-caucho.org.ar"
   },
   "103808": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "103808",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL CAUCHO",
     "sigla": "OSPECA",
@@ -564,6 +834,11 @@
     "web": "www.ospeca.org.ar"
   },
   "103907": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "103907",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CAUCHO DE SANTA FE",
     "sigla": "OSPIC SANTA FE",
@@ -573,6 +848,11 @@
     "e_mail": "oscauchostafe@yahoo.com.ar"
   },
   "104009": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "104009",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE CEMENTERIOS DE LA REPUBLICA ARGENTINA.",
     "sigla": "OSPCRA",
@@ -584,6 +864,12 @@
     "web": "www.ospcra.org"
   },
   "104108": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "104108",
     "denominacion": "OBRA SOCIAL DE CERAMISTAS",
     "sigla": "OSCE",
@@ -592,6 +878,12 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "104207": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "104207",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA CERAMICA, SANITARIOS, PORCELANA DE MESA Y AFINES",
     "sigla": "OSPCSPMYA",
@@ -602,6 +894,10 @@
     "web": "www.ospecesa.com.ar"
   },
   "104306": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "104306",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD CERVECERA Y AFINES",
     "sigla": "OSPACA",
@@ -613,6 +909,10 @@
     "web": "www.oscervecera.org.ar"
   },
   "104405": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "104405",
     "denominacion": "OBRA SOCIAL DEL PERSONAL CINEMATOGRAFICO DE MAR DEL PLATA",
     "sigla": "OSPERCIN",
@@ -622,6 +922,10 @@
     "web": "ospercin@ospercinweb.com.ar"
   },
   "104504": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "104504",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA CINEMATOGRAFICA",
     "sigla": "OSPIC",
@@ -632,6 +936,12 @@
     "web": "www.sicacine.com.ar"
   },
   "104603": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
     "rnos": "104603",
     "denominacion": "OBRA SOCIAL DE OPERADORES CINEMATOGRAFICOS",
     "sigla": "OSOC",
@@ -640,6 +950,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "104801": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "104801",
     "denominacion": "OBRA SOCIAL DE COLOCADORES DE AZULEJOS, MOSAICOS, GRANITEROS, LUSTRADORES Y PORCELANEROS",
     "sigla": "OSCAMGLYP",
@@ -650,6 +964,11 @@
     "web": "www.oscamglyp.com"
   },
   "105002": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "105002",
     "denominacion": "OBRA SOCIAL DE CONDUCTORES NAVALES",
     "sigla": "OSCONARA",
@@ -660,6 +979,10 @@
     "web": "www.siconara.org.ar"
   },
   "105309": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "105309",
     "denominacion": "OBRA SOCIAL DEL PERSONAL ADMINISTRATIVO Y TECNICO DE LA CONSTRUCCION Y AFINES",
     "sigla": "OSPATCA",
@@ -671,6 +994,10 @@
     "web": "www.ospatca.org.ar"
   },
   "105408": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "105408",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA CONSTRUCCION",
     "sigla": "OSPECON",
@@ -682,6 +1009,11 @@
     "web": "www.construirsalud.com.ar."
   },
   "105507": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "105507",
     "denominacion": "OBRA SOCIAL DE LOS CORTADORES DE LA INDUMENTARIA",
     "sigla": "OSUCI",
@@ -691,6 +1023,10 @@
     "e_mail": "obrasocial@uci.org.ar"
   },
   "105606": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "105606",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CUERO Y AFINES",
     "sigla": "OSPICA",
@@ -700,6 +1036,11 @@
     "web": "www.ospica.org.ar"
   },
   "105705": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "105705",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL CHACINADO Y AFINES",
     "sigla": "OSPICHA",
@@ -708,6 +1049,11 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "105804": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "105804",
     "denominacion": "OBRA SOCIAL DE CHOFERES DE CAMIONES",
     "sigla": "OSCHOCA",
@@ -719,6 +1065,10 @@
     "web": "www.camioneros-ba.org.ar"
   },
   "106005": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "106005",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE ENTIDADES DEPORTIVAS Y CIVILES",
     "sigla": "OSPEDYC",
@@ -729,6 +1079,10 @@
     "web": "www.ospedyc.org.ar"
   },
   "106104": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "106104",
     "denominacion": "OBRA SOCIAL DE EMPLEADOS DE DESPACHANTES DE ADUANA",
     "sigla": "OSEDA",
@@ -737,6 +1091,13 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "106203": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
     "rnos": "106203",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DISTRIBUIDORAS CINEMATOGRAFICAS DE LA R.A.",
     "sigla": "OSPEDICI",
@@ -747,6 +1108,10 @@
     "web": "www.ospedici.ar"
   },
   "106302": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "106302",
     "denominacion": "OBRA SOCIAL DE DOCENTES PARTICULARES",
     "sigla": "OSDOP",
@@ -756,6 +1121,10 @@
     "telefono": "0800-6666-450"
   },
   "106401": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "106401",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE EDIFICIOS DE RENTA Y HORIZONTAL DE LA REPUBLICA ARGENTINA",
     "sigla": "OSPERYHRA",
@@ -766,6 +1135,10 @@
     "web": "www.fateryh.org.ar"
   },
   "106500": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "106500",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE EDIFICIOS DE RENTA Y HORIZONTAL DE LA CIUDAD AUTONOMA DE BUENOS AIRES  Y GRAN BUENOS AIRES",
     "sigla": "OSPERYH",
@@ -777,6 +1150,10 @@
     "web": "www.fateryh.org.ar"
   },
   "106609": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "106609",
     "denominacion": "OBRA SOCIAL ELECTRICISTAS NAVALES",
     "sigla": "OSEN",
@@ -787,6 +1164,10 @@
     "web": "www.osensalud.com.ar"
   },
   "106708": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "106708",
     "denominacion": "OBRA SOCIAL DE OBREROS EMPACADORES DE FRUTA  DE RIO NEGRO Y NEUQUEN",
     "domicilio": "MENGUELLE 130",
@@ -795,6 +1176,10 @@
     "e_mail": "info@osoefrnyn.org"
   },
   "106807": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "106807",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ENSE\u00d1ANZA PRIVADA",
     "sigla": "OSPEP",
@@ -805,6 +1190,11 @@
     "web": "www.ospepweb.com.ar"
   },
   "106906": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "106906",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE ESCRIBANIAS DE LA PROVINCIA DE BUENOS AIRES",
     "sigla": "OSPEPBA",
@@ -816,6 +1206,10 @@
     "web": "www.empleadosescribania.org.ar"
   },
   "107008": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "107008",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE ESCRIBANOS",
     "sigla": "OSPE",
@@ -826,6 +1220,10 @@
     "web": "www.ospe.org.ar"
   },
   "107107": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "107107",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL ESPECTACULO PUBLICO",
     "sigla": "OSPEP",
@@ -835,6 +1233,10 @@
     "web": "www.ospepsalud.com.ar"
   },
   "107206": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "107206",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE ESTACIONES DE SERVICIO Y G.N.C, GARAGES, PLAYAS DE ESTACIONAMIENTO Y LAVADEROS AUTOMATICOS",
     "sigla": "OSPESGYPE",
@@ -844,6 +1246,10 @@
     "web": "www.soesgype.org.ar"
   },
   "107404": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "107404",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE FARMACIA",
     "sigla": "OSPF",
@@ -855,6 +1261,11 @@
     "web": "www.ospf.org.ar"
   },
   "107800": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "107800",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL FIBROCEMENTO",
     "sigla": "OSPIF",
@@ -864,6 +1275,10 @@
     "e_mail": "osdelfibro@hotmail.com"
   },
   "107909": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "107909",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA FIDEERA",
     "sigla": "OSPIF",
@@ -873,6 +1288,11 @@
     "e_mail": "ospif-central@speedy.com.ar"
   },
   "108001": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "108001",
     "denominacion": "OBRA SOCIAL  PARA EL PERSONAL DE LA INDUSTRIA FORESTAL DE SANTIAGO DEL ESTERO",
     "sigla": "OSPIFSE",
@@ -883,6 +1303,11 @@
     "web": "www.ospifse.com.ar"
   },
   "108100": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "108100",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL FOSFORO, ENCENDIDO Y AFINES",
     "sigla": "OSPIF",
@@ -893,6 +1318,11 @@
     "web": "www..ospif.net.ar"
   },
   "108209": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "108209",
     "denominacion": "OBRA SOCIAL DE FOTOGRAFOS",
     "sigla": "OSFOT",
@@ -902,6 +1332,10 @@
     "e_mail": "osfotadm@gmail.com/seoffra@gmail.com"
   },
   "108407": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "108407",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD FRUTICOLA",
     "sigla": "OSPAF",
@@ -912,6 +1346,10 @@
     "web": "EN CRISIS CONFORME DECRETO 1400/01 (VER OBSERV)"
   },
   "108506": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "108506",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE MANIPULEO, EMPAQUE Y EXPEDICION DE FRUTA FRESCA Y HORTALIZAS DE CUYO",
     "sigla": "OSFYHC",
@@ -922,6 +1360,10 @@
     "web": "EN CRISIS CONFORME DECRETO 1400/01 - (VER OBSERVAC"
   },
   "108605": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "108605",
     "denominacion": "OBRA SOCIAL DE FUTBOLISTAS",
     "sigla": "FAA",
@@ -932,6 +1374,10 @@
     "web": "www.agremiados.com.ar"
   },
   "108704": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "108704",
     "denominacion": "OBRA SOCIAL DE TECNICOS DE FUTBOL",
     "sigla": "OSTECF",
@@ -941,6 +1387,12 @@
     "web": "www.ostecf.com.ar"
   },
   "108803": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "108803",
     "denominacion": "OBRA SOCIAL  DE LA UNION  DE TRABAJADORES  DEL TURISMO, HOTELEROS Y GASTRONOMICOS DE LA REPUBLICA  ARGENTINA",
     "sigla": "OSUTHGRA",
@@ -952,6 +1404,10 @@
     "web": "www.uthgra.org.ar"
   },
   "109004": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "109004",
     "denominacion": "OBRA SOCIAL DEL PERSONAL GRAFICO",
     "sigla": "OSPG",
@@ -961,6 +1417,12 @@
     "e_mail": "legales@ospg.org.ar"
   },
   "109202": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "109202",
     "denominacion": "OBRA SOCIAL DE GUINCHEROS Y MAQUINISTAS DE GRUAS MOVILES",
     "domicilio": "CORONEL SALVADORES 1638",
@@ -970,6 +1432,10 @@
     "web": "www.osocialguincheros.com"
   },
   "109301": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "109301",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE CONSIGNATARIOS DEL MERCADO NACIONAL DE HACIENDA DE LINIERS",
     "sigla": "OSPEMER",
@@ -979,6 +1445,11 @@
     "web": "en CRISIS desde el  14/08/14 - Resol. 1291/14-SSS"
   },
   "109400": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "109400",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL HIELO Y MERCADOS PARTICULARES",
     "sigla": "OSPIHMP",
@@ -990,6 +1461,10 @@
     "web": "www.stihmpra.hypermart.net"
   },
   "109509": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "109509",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LOS HIPODROMOS DE BUENOS AIRES Y SAN ISIDRO",
     "sigla": "OSPHGBAYSI",
@@ -1000,6 +1475,10 @@
     "e_mail": "osshipo.com.ar ;"
   },
   "109608": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "109608",
     "denominacion": "OBRA SOCIAL DEL PERSONAL MENSUALIZADO DEL JOCKEY CLUB DE BUENOS AIRES Y LOS HIPODROMOS DE PALERMO Y SAN ISIDRO",
     "domicilio": "AVDA. CABILDO 4193",
@@ -1007,6 +1486,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "109707": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "109707",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE IMPRENTAS, DIARIOS Y AFINES",
     "sigla": "OSPIDA",
@@ -1017,6 +1500,12 @@
     "web": "www.ospida.org.ar"
   },
   "110008": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "110008",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE JABONEROS",
     "sigla": "OSPEJ",
@@ -1026,6 +1515,11 @@
     "e_mail": "notificaciones@osjaboneros.com.ar"
   },
   "110107": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "110107",
     "denominacion": "OBRA SOCIAL DE JARDINEROS, PARQUISTAS, VIVERISTAS Y FLORICULTORES DE LA REPUBLICA ARGENTINA",
     "sigla": "OSJPVYF",
@@ -1036,6 +1530,12 @@
     "e_mail": "osjard@grupoa.com.ar"
   },
   "110206": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "110206",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL JOCKEY CLUB DE ROSARIO",
     "domicilio": "OVIDIO LAGOS 1571",
@@ -1043,6 +1543,12 @@
     "provincia": "SANTA FE"
   },
   "110305": {
+    "tipos": [
+      "1",
+      "2",
+      "4",
+      "7"
+    ],
     "rnos": "110305",
     "denominacion": "OBRA SOCIAL DEL PERSONAL LADRILLERO",
     "sigla": "OSPL",
@@ -1052,6 +1558,11 @@
     "e_mail": "secretariamedica@o-s-p-l.org"
   },
   "110404": {
+    "tipos": [
+      "1",
+      "2",
+      "7"
+    ],
     "rnos": "110404",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA LADRILLERA A MAQUINA",
     "sigla": "OSPILM",
@@ -1062,6 +1573,12 @@
     "web": "www.ospilm.org.ar"
   },
   "110503": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "110503",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA LECHERA",
     "sigla": "OSPIL",
@@ -1071,6 +1588,10 @@
     "e_mail": "obrasocial@atilra.org.ar"
   },
   "110602": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "110602",
     "denominacion": "OBRA SOCIAL DE LOCUTORES",
     "sigla": "OSDEL",
@@ -1081,6 +1602,12 @@
     "web": "www.sal.org.ar"
   },
   "110701": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "110701",
     "denominacion": "OBRA SOCIAL DE LA FEDERACION ARGENTINA DE TRABAJADORES DE LUZ Y FUERZA",
     "sigla": "OSFATLYF",
@@ -1091,6 +1618,11 @@
     "web": "www.osfatlyf-salud.com.ar"
   },
   "110800": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "110800",
     "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES DE LAS EMPRESAS DE ELECTRICIDAD",
     "sigla": "OSTEE",
@@ -1102,6 +1634,11 @@
     "web": "www.osteeluzmedica.com.ar"
   },
   "110909": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "110909",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LUZ Y FUERZA DE CORDOBA",
     "sigla": "OSLYF",
@@ -1112,6 +1649,10 @@
     "web": "luzfuerzacbasalud.com.ar"
   },
   "111001": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "111001",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA MADERERA",
     "sigla": "OSPIM",
@@ -1121,6 +1662,10 @@
     "e_mail": "contacto@ospim.com.ar"
   },
   "111209": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "111209",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE MAESTRANZA",
     "sigla": "OSPM",
@@ -1132,6 +1677,12 @@
     "web": "www.somlimpieza.com.ar"
   },
   "111308": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
     "rnos": "111308",
     "denominacion": "OBRA SOCIAL DE MAQUINISTAS DE TEATRO Y TELEVISION",
     "domicilio": "AVDA CORRIENTES 1642 PISO 1 OFICINA 21",
@@ -1140,6 +1691,11 @@
     "e_mail": "osmtt@osmtt.org.ar"
   },
   "111407": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "111407",
     "denominacion": "OBRA SOCIAL DE CAPITANES DE ULTRAMAR Y OFICIALES DE LA MARINA MERCANTE",
     "sigla": "OSCOMM",
@@ -1150,6 +1706,10 @@
     "e_mail": "secretaria@capitanes.org.ar"
   },
   "111506": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "111506",
     "denominacion": "OBRA SOCIAL ASOCIACION PROFESIONAL DE CAPITANES Y BAQUEANOS FLUVIALES Y PERSONAL CON  CONOCIMIENTO DE ZONA DE LA MARINA MERCANTE",
     "sigla": "OSCAPBAQFLU",
@@ -1158,6 +1718,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "111605": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "111605",
     "denominacion": "OBRA SOCIAL DE EMPLEADOS DE LA MARINA MERCANTE",
     "sigla": "OSEMM",
@@ -1167,6 +1731,10 @@
     "e_mail": "osemm@osemm.org.ar"
   },
   "111704": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "111704",
     "denominacion": "OBRA SOCIAL DE ENCARGADOS APUNTADORES MARITIMOS",
     "sigla": "OSEAM",
@@ -1176,6 +1744,10 @@
     "e_mail": "oseam@speedy.com.ar"
   },
   "111803": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "111803",
     "denominacion": "OBRA SOCIAL DEL PERSONAL MARITIMO",
     "sigla": "OSPM",
@@ -1185,6 +1757,11 @@
     "e_mail": "gerencia@ospm.com.ar"
   },
   "111902": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "111902",
     "denominacion": "OBRA SOCIAL DEL SINDICATO DE MECANICOS Y AFINES DEL TRANSPORTE AUTOMOTOR",
     "sigla": "OSMATA",
@@ -1195,6 +1772,11 @@
     "web": "www.smata.com.ar"
   },
   "112004": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "112004",
     "denominacion": "OBRA SOCIAL DEL PERSONAL SUPERIOR MERCEDES BENZ ARGENTINA",
     "sigla": "OSPS MERCEDES",
@@ -1205,6 +1787,11 @@
     "web": "www.ospsmba.com.ar"
   },
   "112103": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "112103",
     "denominacion": "OBRA SOCIAL DE LA UNION OBRERA METALURGICA DE LA REPUBLICA ARGENTINA",
     "sigla": "OSUOMRA",
@@ -1215,6 +1802,10 @@
     "web": "www.osuomra.org.ar"
   },
   "112202": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "112202",
     "denominacion": "OBRA SOCIAL DE LOS  SUPERVISORES DE LA INDUSTRIA METALMECANICA DE LA REPUBLICA ARGENTINA",
     "sigla": "OSSIMRA",
@@ -1226,6 +1817,10 @@
     "web": "www.ossimra.org.ar"
   },
   "112301": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "112301",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE  MICROS Y OMNIBUS DE MENDOZA",
     "sigla": "OSPEMOM",
@@ -1235,6 +1830,10 @@
     "e_mail": "ospemom@ospemom.org.ar"
   },
   "112400": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "112400",
     "denominacion": "OBRA SOCIAL DE LA ACTIVIDAD MINERA",
     "sigla": "O.S.A.M.",
@@ -1243,6 +1842,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "112509": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "112509",
     "denominacion": "OBRA SOCIAL MODELOS ARGENTINOS",
     "sigla": "OSMA",
@@ -1252,6 +1855,10 @@
     "e_mail": "osmodelos@fibertel.com.ar"
   },
   "112608": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "112608",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA MOLINERA",
     "sigla": "OSPIM",
@@ -1262,6 +1869,12 @@
     "web": "www.ospim.org.ar"
   },
   "112707": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "112707",
     "denominacion": "OBRA SOCIAL DEL PERSONAL MOSAISTA",
     "sigla": "OSPM",
@@ -1272,6 +1885,11 @@
     "web": "RESOLUCION 147/12 (VER OBSERVACIONES)"
   },
   "112806": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "112806",
     "denominacion": "OBRA SOCIAL DE MUSICOS",
     "sigla": "OSDEM",
@@ -1282,6 +1900,10 @@
     "web": "www.osdem.arg.ar"
   },
   "113205": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "113205",
     "denominacion": "OBRA SOCIAL DE JEFES Y OFICIALES NAVALES DE RADIOCOMUNICACIONES",
     "sigla": "OSJONR",
@@ -1290,6 +1912,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "113304": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "113304",
     "denominacion": "OBRA SOCIAL DE JEFES Y OFICIALES MAQUINISTAS NAVALES",
     "sigla": "OSJOMN",
@@ -1300,6 +1926,10 @@
     "web": "www.maquinaval.com.ar"
   },
   "113403": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "113403",
     "denominacion": "OBRA SOCIAL DEL PERSONAL NAVAL",
     "sigla": "OSPENA",
@@ -1309,6 +1939,10 @@
     "e_mail": "ospena1340@hotmail.com"
   },
   "113601": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "113601",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL NEUMATICO",
     "sigla": "OSPIN",
@@ -1320,6 +1954,11 @@
     "web": "www.ospin.org.ar"
   },
   "113700": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "113700",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA NAVAL",
     "sigla": "OSPIN",
@@ -1330,6 +1969,10 @@
     "web": "ospin-navales.com.ar"
   },
   "113809": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "113809",
     "denominacion": "OBRA SOCIAL DE COMISARIOS NAVALES",
     "domicilio": "BERNARDO DE IRIGOYEN 840",
@@ -1338,6 +1981,11 @@
     "telefono": "0800-333-6726"
   },
   "113908": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "113908",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PANADERIAS",
     "sigla": "OSPEP",
@@ -1348,6 +1996,10 @@
     "e_mail": "info@ospep.org.ar"
   },
   "114000": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "114000",
     "denominacion": "OBRA SOCIAL DE PANADEROS, PASTELEROS Y FACTUREROS DE ENTRE RIOS",
     "sigla": "OSSPYFER",
@@ -1356,6 +2008,10 @@
     "provincia": "ENTRE RIOS"
   },
   "114109": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "114109",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DEL PAPEL, CARTON Y QUIMICOS",
     "sigla": "OSPPCYQ",
@@ -1367,6 +2023,11 @@
     "web": "www.ospapel.org.ar"
   },
   "114208": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "114208",
     "denominacion": "OBRA SOCIAL DE LA INDUSTRIA DE PASTAS ALIMENTICIAS",
     "sigla": "OSIPA",
@@ -1376,6 +2037,10 @@
     "e_mail": "stipa@arnet.com.ar"
   },
   "114307": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "114307",
     "denominacion": "OBRA SOCIAL TRABAJADORES  PASTELEROS, CONFITEROS, PIZZEROS , HELADEROS Y ALFAJOREROS DE LA REPUBLICA ARGENTINA",
     "sigla": "OSTPCHPYARA",
@@ -1385,6 +2050,11 @@
     "e_mail": "ostpcphyara@pasteleros.orq.ar"
   },
   "114505": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "114505",
     "denominacion": "OBRA SOCIAL DE PATRONES DE CABOTAJE DE RIOS Y PUERTOS",
     "domicilio": "AV MONTES DE OCA 1731",
@@ -1394,6 +2064,10 @@
     "web": "WWW.OSPATRONES.COM.AR"
   },
   "114703": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "114703",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PELUQUERIAS, ESTETICAS Y AFINES",
     "sigla": "OSPPEA",
@@ -1404,6 +2078,10 @@
     "web": "www.peluquerosargentinos.com"
   },
   "114901": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "114901",
     "denominacion": "OBRA SOCIAL DE OFICIALES PELUQUEROS Y PEINADORES  DE LA 2DA CIRCUNSCRIPCION JUDICIAL DE LA PROVINCIA DE SANTA FE",
     "domicilio": "MONTEVIDEO 1488",
@@ -1413,6 +2091,10 @@
     "web": "www.sindicatopeluq-ros.com.ar"
   },
   "115003": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "115003",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD PERFUMISTA",
     "sigla": "OSPAP",
@@ -1424,6 +2106,12 @@
     "web": "www.ospap.org.ar"
   },
   "115102": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
     "rnos": "115102",
     "denominacion": "OBRA SOCIAL DE TRABAJADORES DE PRENSA DE BUENOS AIRES",
     "sigla": "OSTPBA",
@@ -1435,6 +2123,10 @@
     "web": "www.ostpba.org.ar"
   },
   "115201": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "115201",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL PESCADO DE MAR DEL PLATA",
     "sigla": "OSPIP",
@@ -1443,6 +2135,11 @@
     "provincia": "BUENOS AIRES"
   },
   "115300": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "115300",
     "denominacion": "OBRA SOCIAL DE PETROLEROS",
     "sigla": "OSPE",
@@ -1454,6 +2151,10 @@
     "web": "www.ospesalud.com.ar"
   },
   "115409": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "115409",
     "denominacion": "OBRA SOCIAL DEL PETROLEO Y GAS PRIVADOS",
     "sigla": "OSPEGAP",
@@ -1465,6 +2166,10 @@
     "web": "www.petroleoygas.com.ar"
   },
   "115508": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "115508",
     "denominacion": "OBRA SOCIAL DE PETROLEROS DE CORDOBA",
     "sigla": "O.S.PE.COR",
@@ -1476,6 +2181,10 @@
     "web": "www.ospecor.com.ar"
   },
   "115607": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "115607",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA PETROQUIMICA",
     "sigla": "OSPIP",
@@ -1485,6 +2194,11 @@
     "e_mail": "administracion@ospip-os.com.ar"
   },
   "115706": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "115706",
     "denominacion": "OBRA SOCIAL PARA PILOTOS DE LINEAS AEREAS COMERCIALES Y REGULARES",
     "sigla": "OSPLA",
@@ -1495,6 +2209,10 @@
     "web": "www.ospla.org.ar"
   },
   "115805": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "115805",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE FABRICAS DE PINTURA",
     "sigla": "UPFPARA",
@@ -1506,6 +2224,10 @@
     "web": "http://www.ospfp.org.ar/"
   },
   "116006": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "116006",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL PLASTICO",
     "sigla": "OSPIP",
@@ -1516,6 +2238,13 @@
     "web": "www.ospip.org.ar"
   },
   "116105": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
     "rnos": "116105",
     "denominacion": "OBRA SOCIAL DE CAPATACES  ESTIBADORES PORTUARIOS",
     "sigla": "OSCEP",
@@ -1525,6 +2254,10 @@
     "e_mail": "oscep@fideisalud.com.ar"
   },
   "116204": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "116204",
     "denominacion": "OBRA SOCIAL DE PORTUARIOS ARGENTINOS",
     "sigla": "OSPA",
@@ -1535,6 +2268,11 @@
     "web": "www.ospaport.com.ar"
   },
   "116709": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "116709",
     "denominacion": "OBRA SOCIAL PORTUARIOS  PUERTO SAN MARTIN Y BELLA VISTA",
     "domicilio": "CAYETANO NERBUTTI 256",
@@ -1543,6 +2281,10 @@
     "e_mail": "contacto@osportuarios.com.ar"
   },
   "117207": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "117207",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE LA REPUBLICA ARGENTINA",
     "sigla": "OSPPRA",
@@ -1553,6 +2295,10 @@
     "web": "www.osppra.com.ar"
   },
   "117405": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "117405",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE BAHIA BLANCA",
     "domicilio": "LAMADRID 266",
@@ -1561,6 +2307,13 @@
     "e_mail": "prensabblanca@bvconline.com.ar"
   },
   "117702": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
     "rnos": "117702",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE MAR DEL PLATA",
     "sigla": "OSPREN",
@@ -1571,6 +2324,11 @@
     "web": "www.prensamardelplata.org.ar"
   },
   "117801": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "117801",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE MENDOZA",
     "domicilio": "CHILE 1661",
@@ -1579,6 +2337,14 @@
     "e_mail": "administracion@prensaludmza.org.ar"
   },
   "118002": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "118002",
     "denominacion": "OBRA SOCIAL DE EMPLEADOS DE PRENSA DE CORDOBA",
     "sigla": "OSEPC",
@@ -1590,6 +2356,11 @@
     "web": "www.prensalud.com.ar"
   },
   "118200": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "118200",
     "denominacion": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE LA REPUBLICA ARGENTINA",
     "sigla": "OSAPM",
@@ -1600,6 +2371,11 @@
     "web": "www.apm.org.ar"
   },
   "118309": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "118309",
     "denominacion": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE CORDOBA",
     "sigla": "OSAPMCBA",
@@ -1610,6 +2386,12 @@
     "web": "www.osapmcba.com.ar"
   },
   "118408": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "118408",
     "denominacion": "OBRA SOCIAL DE AGENTES DE PROPAGANDA MEDICA DE ENTRE RIOS",
     "sigla": "OSAPMER",
@@ -1619,6 +2401,10 @@
     "e_mail": "apmentrario@infovia.com.ar"
   },
   "118606": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "118606",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA PUBLICIDAD",
     "sigla": "OSPP",
@@ -1628,6 +2414,10 @@
     "e_mail": "ospp@ciudad.com.ar"
   },
   "118705": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "118705",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE INDUSTRIAS QUIMICAS Y PETROQUIMICAS",
     "sigla": "OSPIQYP",
@@ -1637,6 +2427,10 @@
     "web": "www.ospiqyp.org.ar"
   },
   "118804": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "118804",
     "denominacion": "OBRA SOCIAL DE RECIBIDORES DE GRANOS Y ANEXOS",
     "sigla": "OSRGA",
@@ -1646,6 +2440,10 @@
     "e_mail": "administracion@osrga.org.ar"
   },
   "118903": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "118903",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE RECOLECCION Y BARRIDO DE ROSARIO",
     "domicilio": "BUENOS AIRES 1635",
@@ -1654,6 +2452,10 @@
     "e_mail": "osprbyl@arnet.com.ar"
   },
   "119005": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "119005",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE REFINERIAS DE MAIZ",
     "domicilio": "ANCHORENA 1429",
@@ -1662,6 +2464,11 @@
     "e_mail": "Osprem@arnetbiz.com.ar"
   },
   "119302": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "119302",
     "denominacion": "OBRA SOCIAL DEL PERSONAL RURAL Y ESTIBADORES DE LA REPUBLICA ARGENTINA",
     "sigla": "OSPRERA",
@@ -1672,6 +2479,11 @@
     "web": "www.osprera.com.ar"
   },
   "119500": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "119500",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA SANIDAD ARGENTINA",
     "sigla": "OSPSA",
@@ -1682,6 +2494,10 @@
     "web": "www.sanidad.org.ar"
   },
   "119609": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "119609",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE INSTALACIONES SANITARIAS",
     "sigla": "OSPIS",
@@ -1692,6 +2508,10 @@
     "web": "www.ospis.com.ar"
   },
   "119708": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "119708",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE SEGURIDAD COMERCIAL, INDUSTRIAL E INVESTIGACIONES PRIVADAS",
     "sigla": "OSPSIP",
@@ -1703,6 +2523,11 @@
     "web": "www.ospsip.org.ar"
   },
   "119906": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "119906",
     "denominacion": "OBRA SOCIAL DE SERENOS DE BUQUES",
     "domicilio": "BERNARDO DE IRIGOYEN 972/4 PISO 9 OF. 45",
@@ -1713,6 +2538,10 @@
     "web": "www.fideisalud.com.ar"
   },
   "120306": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "120306",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE SUPERVISION DE LA EMPRESA SUBTERRANEOS DE BUENOS AIRES",
     "sigla": "OSPSESBA",
@@ -1722,6 +2551,11 @@
     "e_mail": "ospesba@fibertel.com.ar"
   },
   "120405": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "120405",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA EMPRESA SUBTERRANEOS DE BUENOS AIRES",
     "sigla": "OSPDESBA",
@@ -1731,6 +2565,12 @@
     "e_mail": "ospdesba@speedy.com.ar"
   },
   "120504": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "120504",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA  DEL TABACO",
     "sigla": "OSPIT",
@@ -1740,6 +2580,11 @@
     "e_mail": "ospitabaco@infovia.com.ar"
   },
   "120603": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "120603",
     "denominacion": "OBRA SOCIAL DE EMPLEADOS DEL TABACO DE LA REPUBLICA ARGENTINA",
     "sigla": "OSETRA",
@@ -1750,6 +2595,11 @@
     "web": "www.suetra-tabacos.com.ar"
   },
   "120702": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "120702",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LAS TELECOMUNICACIONES DE LA REPUBLICA ARGENTINA",
     "sigla": "OSTEL",
@@ -1761,6 +2611,11 @@
     "web": "www.ostel.org"
   },
   "120801": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "120801",
     "denominacion": "OBRA SOCIAL DE TRABAJADORES DE LAS COMUNICACIONES",
     "sigla": "OSTRAC",
@@ -1771,6 +2626,10 @@
     "web": "www.aatrac.org.ar"
   },
   "120900": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "120900",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE TELEVISION",
     "sigla": "OSPTV",
@@ -1782,6 +2641,10 @@
     "web": "www.tvsalud.com.ar"
   },
   "121002": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "121002",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA TEXTIL",
     "sigla": "OSPIT",
@@ -1793,6 +2656,10 @@
     "web": "www.ospit.org.ar"
   },
   "121101": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "121101",
     "denominacion": "OBRA SOCIAL DE EMPLEADOS TEXTILES Y AFINES",
     "sigla": "OSETYA",
@@ -1804,6 +2671,11 @@
     "web": "www.osetya.com.ar"
   },
   "121309": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "121309",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL TRACTOR",
     "sigla": "OSPIT",
@@ -1813,6 +2685,11 @@
     "e_mail": "juareznestor@hotmail.com"
   },
   "121507": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "121507",
     "denominacion": "OBRA SOCIAL DE LA INDUSTRIA DEL TRANSPORTE  AUTOMOTOR DE CORDOBA",
     "sigla": "OSITAC",
@@ -1822,6 +2699,11 @@
     "e_mail": "aoita@ositac.org.ar"
   },
   "121606": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "121606",
     "denominacion": "OBRA SOCIAL CONDUCTORES DE TRANSPORTE COLECTIVO DE PASAJEROS",
     "domicilio": "MORENO 2969",
@@ -1830,6 +2712,11 @@
     "telefono": "INT 109.183,155,117,"
   },
   "121705": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "121705",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD DEL TURF",
     "sigla": "OSPAT",
@@ -1840,6 +2727,10 @@
     "web": "www.ospat.com.ar"
   },
   "121804": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "121804",
     "denominacion": "OBRA SOCIAL CONDUCTORES DE TAXIS DE CORDOBA",
     "sigla": "OSTC",
@@ -1849,6 +2740,10 @@
     "e_mail": "osctc.cordoba@gmail.com"
   },
   "121903": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "121903",
     "denominacion": "OBRA SOCIAL DE VAREADORES",
     "domicilio": "ENTRE RIOS 1395",
@@ -1858,6 +2753,11 @@
     "web": "www.vareadores.com.art"
   },
   "122005": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "122005",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL VESTIDO",
     "sigla": "OSPIV",
@@ -1869,6 +2769,13 @@
     "web": "www.osvestido.com.ar"
   },
   "122104": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
     "rnos": "122104",
     "denominacion": "OBRA SOCIAL DE VIAJANTES VENDEDORES DE LA REPUBLICA ARGENTINA. (ANDAR)",
     "sigla": "OSVVRA",
@@ -1880,6 +2787,11 @@
     "web": "www.redsocialfuva.org.ar"
   },
   "122302": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "122302",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD VIAL",
     "sigla": "OSPA-VIAL",
@@ -1889,6 +2801,12 @@
     "e_mail": "ospacentral@yahoo.com.ar"
   },
   "122401": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "122401",
     "denominacion": "OBRA SOCIAL DE  EMPLEADOS DE LA INDUSTRIA DEL VIDRIO",
     "sigla": "OSEIV",
@@ -1898,6 +2816,10 @@
     "e_mail": "oseiv.vidrio@hotmail.com"
   },
   "122500": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "122500",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL VIDRIO",
     "sigla": "OSPIV",
@@ -1907,6 +2829,11 @@
     "web": "www.soivavidrio.com.ar"
   },
   "122609": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "122609",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD VITIVINICOLA",
     "sigla": "OSPAV",
@@ -1918,6 +2845,10 @@
     "web": "www.ospav.com.ar"
   },
   "122807": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "122807",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE VIGILANCIA Y SEGURIDAD COMERCIAL, INDUSTRIAL E INVESTIGACIONES PRIVADAS DE CORDOBA",
     "sigla": "OSPEVIC",
@@ -1929,6 +2860,10 @@
     "web": "www.ospevic.org.ar"
   },
   "122906": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "122906",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE ESTACIONES DE SERVICIO, GARAGES, PLAYAS Y LAVADEROS AUTOMATICOS DE LA PROVINCIA DE SANTA FE",
     "sigla": "OSPESGA",
@@ -1939,6 +2874,10 @@
     "web": "www.ospesga.com.ar"
   },
   "123008": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "123008",
     "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE ESTACIONES DE SERVICIO, GARAGES, PLAYAS DE ESTACIONAMIENTO, LAVADEROS AUTOMATICOS Y GOMERIAS DE LA REPUBLICA ARGENTINA",
     "sigla": "OSPES",
@@ -1949,6 +2888,10 @@
     "web": "www.ospes.org.ar"
   },
   "123107": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "123107",
     "denominacion": "OBRA SOCIAL TALLERISTAS A DOMICILIO",
     "sigla": "OSTAD",
@@ -1958,6 +2901,10 @@
     "e_mail": "ostad@fibertel.com.ar"
   },
   "123305": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "123305",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE SOCIEDADES DE AUTORES Y AFINES",
     "sigla": "OSPESA",
@@ -1967,6 +2914,11 @@
     "e_mail": "auditoria@ospesa.com.ar"
   },
   "123404": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "123404",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE ROSARIO",
     "sigla": "OSPRO",
@@ -1976,6 +2928,10 @@
     "e_mail": "ospro@arnet.com.ar"
   },
   "123503": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "123503",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PRENSA DE TUCUMAN",
     "sigla": "OSPRENTUC",
@@ -1985,6 +2941,10 @@
     "e_mail": "osprentuc@yahoo.com"
   },
   "123602": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "123602",
     "denominacion": "OBRA SOCIAL DE TRABAJADORES DE PERKINS ARGENTINA S.A.I.C",
     "sigla": "OSTP",
@@ -1995,6 +2955,10 @@
     "e_mail": "obrasocialperkins@hotmail.com"
   },
   "123701": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "123701",
     "denominacion": "OBRA SOCIAL DE PEONES DE TAXIS DE LA CAPITAL FEDERAL",
     "sigla": "OSPETAX",
@@ -2005,6 +2969,10 @@
     "web": "www.ospetax.org.ar"
   },
   "123909": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "123909",
     "denominacion": "OBRA SOCIAL DE VENDEDORES AMBULANTES DE LA REPUBLICA ARGENTINA",
     "sigla": "OSVARA",
@@ -2013,6 +2981,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "124001": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "124001",
     "denominacion": "OBRA SOCIAL DE BOXEADORES AGREMIADOS DE LA REPUBLICA ARGENTINA",
     "sigla": "OSBARA",
@@ -2021,6 +2993,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "124506": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "124506",
     "denominacion": "OBRA SOCIAL DE TRABAJADORES DE LA INDUSTRIA DEL GAS",
     "sigla": "OSTIG",
@@ -2030,6 +3006,10 @@
     "e_mail": "ostig@impsat 1.com.ar."
   },
   "125103": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "125103",
     "denominacion": "OBRA SOCIAL DE LOS PROFESIONALES UNIVERSITARIOS DEL AGUA Y LA ENERGIA ELECTRICA",
     "sigla": "OSPUAYE",
@@ -2039,6 +3019,10 @@
     "e_mail": "ospuaye@apuaye.org.ar"
   },
   "125301": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "125301",
     "denominacion": "OBRA SOCIAL FEDERAL DE LA FEDERACION NACIONAL DE TRABAJADORES DE OBRAS SANITARIAS",
     "sigla": "OSFFENTOS",
@@ -2050,6 +3034,12 @@
     "web": "www.fentos.org.ar"
   },
   "125509": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "125509",
     "denominacion": "OBRA SOCIAL DE LA FEDERACION ARGENTINA DEL TRABAJADOR  DE LAS UNIVERSIDADES NACIONALES",
     "sigla": "OSFATUN",
@@ -2061,6 +3051,11 @@
     "web": "www.osfatun.com.ar"
   },
   "125707": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "125707",
     "denominacion": "OBRA SOCIAL UNION PERSONAL DE LA UNION DEL  PERSONAL CIVIL DE LA NACION",
     "sigla": "OSPCN",
@@ -2071,6 +3066,10 @@
     "web": "www.unionpersonal.com.ar"
   },
   "125905": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "125905",
     "denominacion": "OBRA SOCIAL DE ARBITROS DEPORTIVOS DE LA REPUBLICA ARGENTINA",
     "sigla": "OSADRA",
@@ -2081,6 +3080,11 @@
     "web": "www.osadra.org.ar"
   },
   "126007": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "126007",
     "denominacion": "OBRA SOCIAL DE LA FEDERACION GREMIAL DEL PERSONAL DE  LA INDUSTRIA DE LA CARNE Y SUS DERIVADOS",
     "domicilio": "HIPOLITO YRIGOYEN 746",
@@ -2090,6 +3094,11 @@
     "web": "www.obrasocialdelacarne.org.ar"
   },
   "126106": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "126106",
     "denominacion": "OBRA SOCIAL PARA LOS TRABAJADORES DE LA EDUCACION PRIVADA",
     "sigla": "OSTEP",
@@ -2100,6 +3109,11 @@
     "web": "www.ostepdigital.com"
   },
   "126205": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "126205",
     "denominacion": "OBRA SOCIAL DE LOS EMPLEADOS DE COMERCIO Y ACTIVIDADES CIVILES",
     "sigla": "OSECAC",
@@ -2110,6 +3124,11 @@
     "web": "www.osecac.org.ar"
   },
   "126304": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "126304",
     "denominacion": "OBRA SOCIAL SERVICIOS SOCIALES BANCARIOS",
     "sigla": "OSBA",
@@ -2120,6 +3139,10 @@
     "e_mail": "lumassetti@osssb.com.ar"
   },
   "126502": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "126502",
     "denominacion": "OBRA SOCIAL DE LA CONFEDERACION DE OBREROS Y EMPLEADOS MUNICIPALES  ARGENTINA ( OSCOEMA )",
     "sigla": "OSCOEMA",
@@ -2131,6 +3154,10 @@
     "web": "www.oscoema.com.ar"
   },
   "126601": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "126601",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE INDUSTRIAS  QUIMICAS Y PETROQUIMICAS DE ZARATE CAMPANA",
     "sigla": "OPZC",
@@ -2141,6 +3168,10 @@
     "web": "www.obrasocialquimicos.com.ar"
   },
   "126700": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "126700",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA ACTIVIDAD AZUCARERA TUCUMANA",
     "domicilio": "CONGRESO DE TUCUMAN  341",
@@ -2148,6 +3179,11 @@
     "provincia": "TUCUMAN"
   },
   "126809": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "126809",
     "denominacion": "OBRA SOCIAL DE CONDUCTORES DE REMISES Y AUTOS AL INSTANTE Y AFINES",
     "sigla": "OSCRAIA",
@@ -2157,6 +3193,11 @@
     "e_mail": "oscraia@live.com.ar"
   },
   "126908": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "126908",
     "denominacion": "OBRA SOCIAL DE LOS MEDICOS DE LA CIUDAD DE BUENOS AIRES",
     "sigla": "OSMEDICA",
@@ -2168,6 +3209,10 @@
     "web": "www.osmedica.com.ar"
   },
   "127000": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "127000",
     "denominacion": "OBRA SOCIAL DE TRABAJADORES DE ESTACIONES DE SERVICIO",
     "sigla": "OSTES",
@@ -2176,6 +3221,11 @@
     "provincia": "MENDOZA"
   },
   "127109": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "127109",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE TELECOMUNICACIONES SINDICATO BUENOS AIRES",
     "sigla": "OSPETELCO",
@@ -2187,6 +3237,10 @@
     "web": "www.ospetelco.org"
   },
   "127208": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "127208",
     "denominacion": "OBRA SOCIAL DE MANDOS MEDIOS DE TELECOMUNICACIONES EN LA REPUBLICA ARGENTINA Y MERCOSUR",
     "sigla": "OSMMEDT",
@@ -2198,6 +3252,12 @@
     "web": "www.osmmedt.org.ar"
   },
   "127307": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
     "rnos": "127307",
     "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES VIALES Y AFINES DE LA REPUBLICA ARGENTINA",
     "domicilio": "MEXICO 1399 P.B ESQUINA SAN JOSE",
@@ -2207,6 +3267,12 @@
     "web": "www.ostv.com.ar"
   },
   "127406": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
     "rnos": "127406",
     "denominacion": "OBRA SOCIAL DE OBREROS Y EMPLEADOS TINTOREROS SOMBREREROS Y LAVADEROS DE LA REPUBLICA ARGENTINA",
     "sigla": "OSOETSYLARA",
@@ -2216,6 +3282,10 @@
     "web": "www.uoesylra.org"
   },
   "127505": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "127505",
     "denominacion": "OBRA SOCIAL DE  LAS ASOCIACIONES DE EMPLEADOS DE FARMACIA",
     "sigla": "OSADEF",
@@ -2226,6 +3296,11 @@
     "e_mail": "adolfo@osadef.org.ar"
   },
   "127604": {
+    "tipos": [
+      "1",
+      "4",
+      "7"
+    ],
     "rnos": "127604",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE OBRAS Y SERVICIOS SANITARIOS",
     "sigla": "OSOSS",
@@ -2237,6 +3312,10 @@
     "web": "www.ososs.com.ar"
   },
   "127703": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "127703",
     "denominacion": "OBRA SOCIAL PERSONAL ESTACIONES DE SERVICIO,GARAGES,PLAYAS Y LAVADEROS DE LA PROVINCIA DEL CHACO",
     "sigla": "OSPESCHA",
@@ -2246,6 +3325,11 @@
     "e_mail": "soesgypechaco@gigared.com"
   },
   "127802": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "127802",
     "denominacion": "OBRA SOCIAL DE LUZ Y FUERZA DE LA PATAGONIA",
     "sigla": "OSLYF PATAGONIA",
@@ -2257,6 +3341,11 @@
     "web": "www.generarsalud.com.ar"
   },
   "127901": {
+    "tipos": [
+      "1",
+      "5",
+      "7"
+    ],
     "rnos": "127901",
     "denominacion": "OBRA SOCIAL DE PETROLEROS PRIVADOS",
     "sigla": "OS.PE.PRI",
@@ -2267,6 +3356,10 @@
     "web": "www.ospepri.org.ar"
   },
   "128003": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128003",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA FEDERACION DE SINDICATOS DE LA INDUSTRIA QUIMICA Y PETROQUIMICA",
     "domicilio": "PAVON 3708",
@@ -2276,6 +3369,10 @@
     "web": "www.festiqypra.org.ar"
   },
   "128102": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128102",
     "denominacion": "OBRA SOCIAL DE LA UNION DE TRABAJADORES DEL INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS DE LA REPUBLICA ARGENTINA",
     "sigla": "OSUTI",
@@ -2285,6 +3382,10 @@
     "telefono": "0800-666-7884"
   },
   "128201": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128201",
     "denominacion": "OBRA SOCIAL DEL SINDICATO UNICO DE RECOLECTORES DE RESIDUOS Y BARRIDO DE CORDOBA",
     "sigla": "O.S.S.U.R.R.B.A.C",
@@ -2294,6 +3395,10 @@
     "e_mail": "surrbacinstitucional@gmail.com"
   },
   "128300": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128300",
     "denominacion": "OBRA SOCIAL PEONES DE TAXIS DE ROSARIO",
     "sigla": "O.S.PE.TAX.R",
@@ -2303,6 +3408,10 @@
     "web": "w.w.w.sptrosario.com.ar"
   },
   "128409": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128409",
     "denominacion": "OBRA SOCIAL DEL SINDICATO OBREROS Y EMPLEADOS DE EMPRESAS DE LIMPIEZA,SERVICIOS Y AFINES DE CORDOBA",
     "sigla": "OSSOELSAC",
@@ -2311,6 +3420,12 @@
     "provincia": "CORDOBA"
   },
   "128508": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
     "rnos": "128508",
     "denominacion": "OBRA SOCIAL DE FARMACEUTICOS Y BIOQUIMICOS",
     "sigla": "OSFYB",
@@ -2320,6 +3435,10 @@
     "web": "www.safyb.org.ar"
   },
   "128607": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128607",
     "denominacion": "OBRA SOCIAL DE TRABAJADORES DEL PETROLEO Y GAS PRIVADO DEL CHUBUT",
     "domicilio": "AVDA ALSINA 728 PISO 3",
@@ -2327,6 +3446,10 @@
     "provincia": "CHUBUT"
   },
   "128706": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128706",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DRAGADO Y BALIZAMIENTO",
     "sigla": "OSPEDYB",
@@ -2336,6 +3459,10 @@
     "e_mail": "info@ospedyb.com.ar"
   },
   "128805": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128805",
     "denominacion": "OBRA SOCIAL DEL PERSONAL ADUANERO DE LA REPUBLICA ARGENTINA",
     "sigla": "OSPAD",
@@ -2346,6 +3473,10 @@
     "web": "se recibe notificaci\u00f3nes en TACUARI 560 5/7/19"
   },
   "128904": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "128904",
     "denominacion": "OBRA SOCIAL DE LOS TRABAJADORES ARGENTINOS DE CENTROS DE CONTACTOS",
     "sigla": "O.S.T.A.C.C,",
@@ -2354,6 +3485,10 @@
     "provincia": "NO IDENTIFICADA"
   },
   "129006": {
+    "tipos": [
+      "1",
+      "7"
+    ],
     "rnos": "129006",
     "denominacion": "OBRA SOCIAL DE LA ASOCIACION DEL PERSONAL SUPERIOR DE LA EMPRESA PROVINCIAL DE ENERGIA DE CORDOBA",
     "sigla": "O.S.A.P.S.E",
@@ -2362,6 +3497,11 @@
     "provincia": "CORDOBA"
   },
   "200400": {
+    "tipos": [
+      "1",
+      "5",
+      "8"
+    ],
     "rnos": "200400",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA EMPRESA NACIONAL DE CORREOS Y TELEGRAFOS S.A. Y DE LAS  COMUNICACIONES DE LA REPULICA ARGENTINA",
     "sigla": "OSPEC",
@@ -2371,6 +3511,11 @@
     "e_mail": "info@ospec.com.ar"
   },
   "300704": {
+    "tipos": [
+      "1",
+      "5",
+      "9"
+    ],
     "rnos": "300704",
     "denominacion": "OBRA SOCIAL CERAS JOHNSON",
     "sigla": "JOHNSON",
@@ -2381,6 +3526,10 @@
     "web": "www.oscj.com.ar"
   },
   "302106": {
+    "tipos": [
+      "1",
+      "9"
+    ],
     "rnos": "302106",
     "denominacion": "OBRA SOCIAL PARA DIRECTIVOS, TECNICOS Y EMPLEADOS DE JOHN DEERE ARGENTINA",
     "sigla": "DITEM",
@@ -2390,6 +3539,10 @@
     "e_mail": "bue@aguilar-sulfacid.com"
   },
   "302809": {
+    "tipos": [
+      "1",
+      "9"
+    ],
     "rnos": "302809",
     "denominacion": "OBRA SOCIAL REFINERIAS DE MAIZ S.A.I.C.F.",
     "sigla": "OSRM",
@@ -2399,6 +3552,10 @@
     "e_mail": "contacto@osrm.com.ar"
   },
   "303109": {
+    "tipos": [
+      "1",
+      "9"
+    ],
     "rnos": "303109",
     "denominacion": "OBRA SOCIAL SUPERCO",
     "domicilio": "CERRITO 1070 PISO 5 OF 95",
@@ -2407,6 +3564,11 @@
     "e_mail": "superco.tesoreria@gmail.com"
   },
   "303307": {
+    "tipos": [
+      "1",
+      "4",
+      "9"
+    ],
     "rnos": "303307",
     "denominacion": "OBRA SOCIAL CABOT ARGENTINA",
     "domicilio": "AVDA. ROCA 189",
@@ -2415,6 +3577,10 @@
     "e_mail": "oscabot@outlook.es"
   },
   "303406": {
+    "tipos": [
+      "1",
+      "9"
+    ],
     "rnos": "303406",
     "denominacion": "OBRA SOCIAL DE SHELL ARGENTINA",
     "domicilio": "AV PASEO COLON 728 PISO 8 OFIC C",
@@ -2424,6 +3590,11 @@
     "web": "www.osshell.org.ar"
   },
   "303703": {
+    "tipos": [
+      "1",
+      "5",
+      "9"
+    ],
     "rnos": "303703",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE PBBPOLISUR  SRL DE  BAHIA BLANCA",
     "domicilio": "LAS HERAS 95",
@@ -2432,6 +3603,10 @@
     "e_mail": "info@ospbb.com.ar"
   },
   "303901": {
+    "tipos": [
+      "1",
+      "9"
+    ],
     "rnos": "303901",
     "denominacion": "OBRA SOCIAL DE FORD AGENTINA S.C.A",
     "domicilio": "FRENCH 3155  PISO 1\u00ba",
@@ -2439,6 +3614,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "304003": {
+    "tipos": [
+      "1",
+      "9"
+    ],
     "rnos": "304003",
     "denominacion": "OBRA SOCIAL DE VOLKSWAGEN ARGENTINA S.A.",
     "domicilio": "MAIPU 267  PISO 11",
@@ -2446,6 +3625,11 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "400107": {
+    "tipos": [
+      "1",
+      "5",
+      "10"
+    ],
     "rnos": "400107",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LAS EMPRESAS DE LA ALIMENTACION Y DEMAS ACTIVIDADES EMPRESARIAS",
     "sigla": "OPDEA",
@@ -2457,6 +3641,10 @@
     "web": "www.opdea.org"
   },
   "400206": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "400206",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA AUTOMOTRIZ ARGENTINA",
     "sigla": "OSPREME",
@@ -2468,6 +3656,10 @@
     "web": "VER OBS PTE. JORGE LUIS SEVERINO"
   },
   "400305": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "400305",
     "denominacion": "OBRA SOCIAL COOPERATIVA LTDA.  DE ASISTENCIA MEDICA Y FARMACEUTICA, SERVICIOS ASISTENCIALES Y TURISMO DEL PERSONAL SUPERIOR DE LA INDUSTRIA DEL CAUCHO Y OTRAS ACTIVIDADES INDUSTRIALES",
     "sigla": "CAMPSIC",
@@ -2478,6 +3670,12 @@
     "web": "www.campsic.com"
   },
   "400404": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "10"
+    ],
     "rnos": "400404",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA CERVECERA Y MALTERA",
     "sigla": "SERVESALUD",
@@ -2488,6 +3686,10 @@
     "e_mail": "sedece@servesalud.com.ar"
   },
   "400503": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "400503",
     "denominacion": "OBRA SOCIAL DE LA ASOCIACION DEL PERSONAL DE DIRECCION Y JERARQUICO DE LA INDUSTRIA DEL CIGARRILLO",
     "sigla": "APDJIC",
@@ -2497,6 +3699,10 @@
     "e_mail": "asociacion@aicsalud.com.ar"
   },
   "400602": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "400602",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DIRECTIVO DE LA INDUSTRIA DE LA CONSTRUCCION",
     "sigla": "OSDIC",
@@ -2505,6 +3711,10 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "400701": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "400701",
     "denominacion": "OBRA SOCIAL PERSONAL DE DIRECCION DE LA INDUSTRIA CURTIDORA ARGENTINA",
     "domicilio": "AVDA. BELGRANO 3978",
@@ -2512,6 +3722,11 @@
     "provincia": "CAPITAL FEDERAL"
   },
   "400800": {
+    "tipos": [
+      "1",
+      "4",
+      "10"
+    ],
     "rnos": "400800",
     "denominacion": "OBRA SOCIAL DE EJECUTIVOS Y DEL PERSONAL DE DIRECCION DE EMPRESAS",
     "sigla": "OSDE",
@@ -2523,6 +3738,10 @@
     "web": "www.osde.com.ar"
   },
   "400909": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "400909",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION  ACCION SOCIAL DE EMPRESARIOS (A:S:E.)",
     "sigla": "ASE",
@@ -2534,6 +3753,10 @@
     "web": "www.ase.com.ar"
   },
   "401001": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "401001",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LAS EMPRESAS QUE ACTUAN EN FRUTOS DEL PAIS",
     "sigla": "FRUTOS",
@@ -2543,6 +3766,10 @@
     "e_mail": "frutosdelpais@sion.com"
   },
   "401100": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "401100",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION ALFREDO FORTABAT",
     "domicilio": "CECILIA GRIERSON 355  3 Y 4 PISO",
@@ -2551,6 +3778,11 @@
     "telefono": "4319-9879"
   },
   "401209": {
+    "tipos": [
+      "1",
+      "5",
+      "10"
+    ],
     "rnos": "401209",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA METALURGICA  Y DEMAS ACTIVIDADES EMPRESARIAS",
     "sigla": "OSIM",
@@ -2561,6 +3793,10 @@
     "web": "www.osim.com.ar"
   },
   "401308": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "401308",
     "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE DIRECCION DE LA INDUSTRIA MADERERA",
     "sigla": "OSMAD",
@@ -2570,6 +3806,11 @@
     "web": "www.osmad.org.ar"
   },
   "401605": {
+    "tipos": [
+      "1",
+      "4",
+      "10"
+    ],
     "rnos": "401605",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE LA INDUSTRIA PRIVADA DEL PETROLEO",
     "sigla": "OSDIPP",
@@ -2580,6 +3821,13 @@
     "web": "www.osdipp.com.ar"
   },
   "401704": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "10"
+    ],
     "rnos": "401704",
     "denominacion": "OBRA SOCIAL  DE EMPRESARIOS, PROFESIONALES Y MONOTRIBUTISTAS",
     "sigla": "OSDEPYM",
@@ -2590,6 +3838,10 @@
     "web": "www.osdepym.com.ar"
   },
   "401803": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "401803",
     "denominacion": "OBRA SOCIAL ASOCIACION MUTUAL DEL PERSONAL DE PHILIPS ARGENTINA (AMPAR)",
     "sigla": "AMPAR",
@@ -2600,6 +3852,11 @@
     "web": "www.ampar.org"
   },
   "401902": {
+    "tipos": [
+      "1",
+      "5",
+      "10"
+    ],
     "rnos": "401902",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE PERFUMERIA E.W. HOPE",
     "sigla": "WHOPE",
@@ -2611,6 +3868,11 @@
     "web": "www.whope.com.ar"
   },
   "402004": {
+    "tipos": [
+      "1",
+      "5",
+      "10"
+    ],
     "rnos": "402004",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE DIRECCION DE SANIDAD LUIS PASTEUR",
     "sigla": "OSLPASTEUR",
@@ -2621,6 +3883,11 @@
     "web": "www.oslpasteur.com.ar"
   },
   "402103": {
+    "tipos": [
+      "1",
+      "5",
+      "10"
+    ],
     "rnos": "402103",
     "denominacion": "OBRA SOCIAL ASOCIACION DEL PERSONAL DE DIRECCION DE LA INDUSTRIA SIDERURGICA",
     "sigla": "APDIS",
@@ -2631,6 +3898,13 @@
     "web": "www.apdis.com.ar"
   },
   "402202": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "10"
+    ],
     "rnos": "402202",
     "denominacion": "OBRA SOCIAL MUTUALIDAD INDUSTRIAL TEXTIL ARGENTINA",
     "sigla": "OSMITA",
@@ -2642,6 +3916,11 @@
     "web": "www.osmita.com.ar"
   },
   "402301": {
+    "tipos": [
+      "1",
+      "5",
+      "10"
+    ],
     "rnos": "402301",
     "denominacion": "OBRA SOCIAL ASOCIACION DEL PERSONAL SUPERIOR DE LA ORGANIZACION TECHINT",
     "sigla": "APSOT",
@@ -2653,6 +3932,11 @@
     "web": "www.apsot.com"
   },
   "402400": {
+    "tipos": [
+      "1",
+      "5",
+      "10"
+    ],
     "rnos": "402400",
     "denominacion": "OBRA SOCIAL PARA EL PERSONAL DE DIRECCION DE LA INDUSTRIA VITIVINICOLA Y AFINES",
     "sigla": "OSEDEIV",
@@ -2663,6 +3947,11 @@
     "web": "www.osedeiv.com.ar"
   },
   "402509": {
+    "tipos": [
+      "1",
+      "4",
+      "10"
+    ],
     "rnos": "402509",
     "denominacion": "OBRA SOCIAL YPF",
     "sigla": "OSYPF",
@@ -2673,6 +3962,12 @@
     "web": "www.osypf.com"
   },
   "402608": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "10"
+    ],
     "rnos": "402608",
     "denominacion": "OBRA SOCIAL ASOCIACION DE SERVICIOS SOCIALES PARA EMPRESARIOS Y PERSONAL DE DIRECCION DE EMPRESAS DEL COMERCIO, SERVICIOS, PRODUCCION, INDUSTRIA Y CIVIL (ASSPE )",
     "sigla": "ASSPE",
@@ -2684,6 +3979,10 @@
     "web": "www.asspe.com.ar"
   },
   "402707": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "402707",
     "denominacion": "OBRA SOCIAL DE DIRECCION OSDO",
     "domicilio": "AVDA. LUIS MARUA CAMPOS 46 PISO 8",
@@ -2694,6 +3993,10 @@
     "web": "WWW.OSDO.COM.AR"
   },
   "402806": {
+    "tipos": [
+      "1",
+      "10"
+    ],
     "rnos": "402806",
     "denominacion": "OBRA SOCIAL DE DIRECCION DE LA ACTIVIDAD AEROCOMERCIAL  PRIVADA",
     "domicilio": "VENEZUELA 900",
@@ -2704,6 +4007,10 @@
     "web": "www.osdaap.com.ar"
   },
   "600408": {
+    "tipos": [
+      "1",
+      "12"
+    ],
     "rnos": "600408",
     "denominacion": "ASOCIACION DE OBRAS SOCIALES DE COMODORO RIVADAVIA",
     "domicilio": "HIPOLITO YRIGOYEN 387",
@@ -2713,6 +4020,11 @@
     "web": "www.adoscomodoro.org.ar"
   },
   "601104": {
+    "tipos": [
+      "1",
+      "5",
+      "12"
+    ],
     "rnos": "601104",
     "denominacion": "ASOCIACION GUALEGUAYCHU DE OBRAS SOCIALES",
     "domicilio": "OLEGARIO V. ANDRADE 1057",
@@ -2723,6 +4035,10 @@
     "web": "REVERTIDA LA SITUACION DE CRISIS RES1810/13 3/5/13"
   },
   "601203": {
+    "tipos": [
+      "1",
+      "12"
+    ],
     "rnos": "601203",
     "denominacion": "ASOCIACION DE OBRAS SOCIALES DE GUALEGUAY",
     "domicilio": "25 DE MAYO 530/38",
@@ -2731,6 +4047,11 @@
     "e_mail": "adosgualeguay@arnet.com.ar"
   },
   "602305": {
+    "tipos": [
+      "1",
+      "5",
+      "12"
+    ],
     "rnos": "602305",
     "denominacion": "ASOCIACION DE OBRAS SOCIALES DE ROSARIO",
     "sigla": "ADOS ROSARIO",
@@ -2739,6 +4060,10 @@
     "provincia": "SANTA FE"
   },
   "603100": {
+    "tipos": [
+      "1",
+      "12"
+    ],
     "rnos": "603100",
     "denominacion": "ASOCIACION DE OBRAS SOCIALES DE TRELEW",
     "domicilio": "28 DE JULIO 722",
@@ -2747,6 +4072,10 @@
     "e_mail": "adostrelew@hotmail.com"
   },
   "700108": {
+    "tipos": [
+      "1",
+      "18"
+    ],
     "rnos": "700108",
     "denominacion": "OBRA SOCIAL DEL PERSONAL MUNICIPAL DE AVELLANEDA",
     "domicilio": "LAPRIDA 70",
@@ -2756,6 +4085,10 @@
     "web": "www.ospma.com.ar"
   },
   "700801": {
+    "tipos": [
+      "1",
+      "18"
+    ],
     "rnos": "700801",
     "denominacion": "OBRA SOCIAL DEL PERSONAL MUNICIPAL DE LA MATANZA",
     "domicilio": "ALMAFUERTE 3160",
@@ -2764,6 +4097,11 @@
     "e_mail": "ospmlm@gmail.com"
   },
   "701002": {
+    "tipos": [
+      "1",
+      "4",
+      "18"
+    ],
     "rnos": "701002",
     "denominacion": "OBRA SOCIAL PARA EL  PERSONAL MUNICIPAL DE TRES DE FEBRERO",
     "domicilio": "AMADEO SABATTINI 4661/65",
@@ -2774,6 +4112,12 @@
     "web": "www.osppm3f.com.ar"
   },
   "800501": {
+    "tipos": [
+      "1",
+      "4",
+      "5",
+      "13"
+    ],
     "rnos": "800501",
     "denominacion": "OBRA SOCIAL ACEROS PARANA",
     "domicilio": "AVDA. MORENO 187",
@@ -2783,6 +4127,11 @@
     "web": "www.osap.org.ar"
   },
   "900102": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
     "rnos": "900102",
     "denominacion": "OBRA SOCIAL DEL PERSONAL DE EMPRESAS FIAT Y EMPRESAS PEUGEOT CITROEN ARGENTINA",
     "sigla": "OSPEF Y EPCA",
@@ -2794,6 +4143,11 @@
     "web": "no posee"
   },
   "900300": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
     "rnos": "900300",
     "denominacion": "ASOCIACION MUTUAL RURALISTA",
     "sigla": "AMUR",
@@ -2803,6 +4157,11 @@
     "web": "www.amur.com.ar"
   },
   "900409": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
     "rnos": "900409",
     "denominacion": "LA CASA DEL MEDICO MUTUAL",
     "domicilio": "VIRASORO 1249",
@@ -2811,6 +4170,11 @@
     "web": "www.italmedicasalud.com.ar"
   },
   "900508": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
     "rnos": "900508",
     "denominacion": "CYNTHIOS SALUD S.A.",
     "domicilio": "TINOGASTA 5432, PB",
@@ -2819,6 +4183,11 @@
     "e_mail": "comercializacion@cynthios.com.ar"
   },
   "900607": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
     "rnos": "900607",
     "denominacion": "SABER S.A.",
     "domicilio": "SAN MARTIN 554",
@@ -2827,6 +4196,11 @@
     "e_mail": "legales@sabersalud.com.ar"
   },
   "900706": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
     "rnos": "900706",
     "denominacion": "PRESTADORES SANATORIALES SA",
     "domicilio": "TUCUMAN 2143",
@@ -2835,6 +4209,11 @@
     "e_mail": "finanzas@consalud.com.ar"
   },
   "900805": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
     "rnos": "900805",
     "denominacion": "SWISS MEDICAL S.A.",
     "domicilio": "SAN MARTIN 323 PISO 12",
@@ -2843,6 +4222,10 @@
     "e_mail": "smg.prepago@swissmedical.com.ar"
   },
   "119203": {
+    "tipos": [
+      "5",
+      "7"
+    ],
     "rnos": "119203",
     "denominacion": "OBRA SOCIAL DE RELOJEROS Y JOYEROS",
     "sigla": "OSRJA",
@@ -2854,6 +4237,9 @@
     "web": "facturacion5@osrja.org.ar\""
   },
   "500807": {
+    "tipos": [
+      "11"
+    ],
     "rnos": "500807",
     "denominacion": "INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS",
     "domicilio": "PERU 169 PISO 10 ( VER OBSERVACIONES )",
@@ -2862,6 +4248,10 @@
     "e_mail": "soc_ra@yahoo.com.ar"
   },
   "900904": {
+    "tipos": [
+      "14",
+      "19"
+    ],
     "rnos": "900904",
     "denominacion": "ASOCIACION MUTUAL DE SALUD CIUDADELA",
     "domicilio": "AV. GAONA 3918",
