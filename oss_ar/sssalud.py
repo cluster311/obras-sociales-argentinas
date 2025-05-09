@@ -136,6 +136,7 @@ class ObrasSocialesSSS:
             next(f)  # NEVER
             next(f)  # PUT
             next(f)  # BLANK LINES AT CSVs
+            next(f)  # (Mayo 2025) Tampoco se cambia la cantidad de lineas al pedo.
 
             # the headers are bad. e.g. _web_ is at _otros_telefonos_
             reader = csv.DictReader(f, delimiter='\t', fieldnames=fieldnames)
