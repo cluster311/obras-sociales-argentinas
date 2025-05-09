@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='oss_ar',
-     version='0.133',
+     version='0.134',
      license='MIT',
      author="Andres Vazquez",
      author_email="andres@data99.com.ar",
