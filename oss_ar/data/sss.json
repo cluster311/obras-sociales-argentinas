@@ -149,6 +149,8 @@
   "1508": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "6"
     ],
     "rnos": "1508",
@@ -222,6 +224,8 @@
   "2105": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "6"
     ],
     "rnos": "2105",
@@ -277,6 +281,8 @@
   "2501": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "6"
     ],
     "rnos": "2501",
@@ -292,6 +298,8 @@
   "2600": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "6"
     ],
     "rnos": "2600",
@@ -420,6 +428,8 @@
   "3504": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "6"
     ],
     "rnos": "3504",
@@ -952,6 +962,8 @@
   "104801": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "7"
     ],
     "rnos": "104801",
@@ -1290,6 +1302,8 @@
   "108001": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "4",
       "7"
     ],
@@ -1301,21 +1315,6 @@
     "provincia": "SANTIAGO DEL ESTERO",
     "e_mail": "ingresos@ospifse.com.ar",
     "web": "www.ospifse.com.ar"
-  },
-  "108100": {
-    "tipos": [
-      "1",
-      "4",
-      "7"
-    ],
-    "rnos": "108100",
-    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL FOSFORO, ENCENDIDO Y AFINES",
-    "sigla": "OSPIF",
-    "domicilio": "MARCONI 652",
-    "cp": "1870",
-    "provincia": "BUENOS AIRES",
-    "e_mail": "prestadores@ospif.net.ar",
-    "web": "www..ospif.net.ar"
   },
   "108209": {
     "tipos": [
@@ -1552,8 +1551,8 @@
     "rnos": "110305",
     "denominacion": "OBRA SOCIAL DEL PERSONAL LADRILLERO",
     "sigla": "OSPL",
-    "domicilio": "HIPOLITO YRIGOYEN 1534 3\u00ba PISO",
-    "cp": "1089",
+    "domicilio": "SAN JOSE 83 PISO 5",
+    "cp": "1076",
     "provincia": "CAPITAL FEDERAL",
     "e_mail": "secretariamedica@o-s-p-l.org"
   },
@@ -1733,6 +1732,8 @@
   "111704": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "7"
     ],
     "rnos": "111704",
@@ -1871,6 +1872,8 @@
   "112707": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "4",
       "5",
       "7"
@@ -1887,6 +1890,8 @@
   "112806": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "4",
       "7"
     ],
@@ -2275,7 +2280,7 @@
     ],
     "rnos": "116709",
     "denominacion": "OBRA SOCIAL PORTUARIOS  PUERTO SAN MARTIN Y BELLA VISTA",
-    "domicilio": "CAYETANO NERBUTTI 256",
+    "domicilio": "CALLE SAN MARTIN 56",
     "cp": "2202",
     "provincia": "SANTA FE",
     "e_mail": "contacto@osportuarios.com.ar"
@@ -2358,6 +2363,8 @@
   "118200": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "5",
       "7"
     ],
@@ -2701,7 +2708,6 @@
   "121606": {
     "tipos": [
       "1",
-      "5",
       "7"
     ],
     "rnos": "121606",
@@ -2746,10 +2752,9 @@
     ],
     "rnos": "121903",
     "denominacion": "OBRA SOCIAL DE VAREADORES",
-    "domicilio": "ENTRE RIOS 1395",
-    "cp": "1640",
-    "provincia": "BUENOS AIRES",
-    "telefono": "0800-3455006",
+    "domicilio": "POSADAS 1436 - 1ER. PISO",
+    "cp": "1011",
+    "provincia": "CAPITAL FEDERAL",
     "web": "www.vareadores.com.art"
   },
   "122005": {
@@ -2818,6 +2823,8 @@
   "122500": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "7"
     ],
     "rnos": "122500",
@@ -2943,6 +2950,8 @@
   "123602": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "7"
     ],
     "rnos": "123602",
@@ -2957,6 +2966,8 @@
   "123701": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "7"
     ],
     "rnos": "123701",
@@ -3036,6 +3047,8 @@
   "125509": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "4",
       "5",
       "7"
@@ -3181,6 +3194,8 @@
   "126809": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "4",
       "7"
     ],
@@ -3434,17 +3449,6 @@
     "provincia": "CAPITAL FEDERAL",
     "web": "www.safyb.org.ar"
   },
-  "128607": {
-    "tipos": [
-      "1",
-      "7"
-    ],
-    "rnos": "128607",
-    "denominacion": "OBRA SOCIAL DE TRABAJADORES DEL PETROLEO Y GAS PRIVADO DEL CHUBUT",
-    "domicilio": "AVDA ALSINA 728 PISO 3",
-    "cp": "9000",
-    "provincia": "CHUBUT"
-  },
   "128706": {
     "tipos": [
       "1",
@@ -3466,7 +3470,7 @@
     "rnos": "128805",
     "denominacion": "OBRA SOCIAL DEL PERSONAL ADUANERO DE LA REPUBLICA ARGENTINA",
     "sigla": "OSPAD",
-    "domicilio": "Tacuari 558/560",
+    "domicilio": "TACUARI 558/560",
     "cp": "1071",
     "provincia": "CAPITAL FEDERAL",
     "e_mail": "info.ospad@gmail.com",
@@ -3672,6 +3676,8 @@
   "400404": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "4",
       "5",
       "10"
@@ -3701,6 +3707,8 @@
   "400602": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "10"
     ],
     "rnos": "400602",
@@ -3780,6 +3788,8 @@
   "401209": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "5",
       "10"
     ],
@@ -3975,12 +3985,14 @@
     "cp": "1312",
     "provincia": "CAPITAL FEDERAL",
     "telefono": "0800-345-7332",
-    "e_mail": "info@asspefideicomiso.com.ar",
+    "e_mail": "info@asspesalud.com.ar",
     "web": "www.asspe.com.ar"
   },
   "402707": {
     "tipos": [
       "1",
+      "2",
+      "3",
       "10"
     ],
     "rnos": "402707",
@@ -4221,6 +4233,528 @@
     "provincia": "CAPITAL FEDERAL",
     "e_mail": "smg.prepago@swissmedical.com.ar"
   },
+  "900904": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "900904",
+    "denominacion": "ASOCIACION MUTUAL DE SALUD CIUDADELA",
+    "domicilio": "AV. GAONA 3918",
+    "cp": "1702",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "mutual.ciudadela@gmail.com"
+  },
+  "901006": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "901006",
+    "denominacion": "MEDICUS SOCIEDAD ANONIMA DE ASISTENCIA MEDICA Y CIENTIFICA",
+    "domicilio": "LARREA 877",
+    "cp": "1117",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800-3337624",
+    "e_mail": "judiciales@medicus.com.ar",
+    "web": "www.medicus.com.ar"
+  },
+  "901105": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "901105",
+    "denominacion": "GALENO ARGENTINA S.A.",
+    "domicilio": "ELVIRA RAWSON DE DELLEPIANE 150",
+    "cp": "1107",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800 777-4253",
+    "e_mail": "mirna.kaploen@galenoargentina.com.ar",
+    "web": "www.e-galeno.com.ar"
+  },
+  "901204": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "901204",
+    "denominacion": "HOSPITAL ALEMAN ASOCIACION CIVIL",
+    "domicilio": "AV PUEYRREDON 1640",
+    "cp": "1118",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "Sbonitz@hospitalaleman.com",
+    "web": "www.hospitalaleman.com.ar"
+  },
+  "901402": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "901402",
+    "denominacion": "MEDIFE ASOCIACION CIVIL",
+    "domicilio": "LIMA 87",
+    "cp": "1073",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "marianoramirez@medife.om.ar",
+    "web": "www.medife.com.ar"
+  },
+  "901501": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "901501",
+    "denominacion": "HOMINIS S.A.",
+    "domicilio": "FRANCISCO ACU\u00d1A DE FIGUEROA 1239",
+    "cp": "1180",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "0800 222-3832",
+    "e_mail": "legales@hominis.com.ar",
+    "web": "www.mphominis.com.ar"
+  },
+  "901600": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "901600",
+    "denominacion": "ASISTENCIA SANITARIA INTEGRAL S.A.",
+    "domicilio": "WENCESLAO DE TATA 4726",
+    "cp": "1657",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "asi@asi.com.ar"
+  },
+  "901709": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "901709",
+    "denominacion": "MUTUAL MEDICA CONCORDIA",
+    "domicilio": "9 DE JULIO N\u00ba 15",
+    "cp": "3200",
+    "provincia": "ENTRE RIOS",
+    "e_mail": "contadur\u00eda@unimedicaconcordia.com.ar"
+  },
+  "901808": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "14",
+      "19"
+    ],
+    "rnos": "901808",
+    "denominacion": "ASOCIACION MUTUAL DE PARTICIPANTES DE ECONOMIA SOLIDARIAS",
+    "sigla": "AMPES",
+    "domicilio": "DON BOSCO 218",
+    "cp": "5500",
+    "provincia": "MENDOZA",
+    "e_mail": "gerencia@ampes.net"
+  },
+  "901907": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "901907",
+    "denominacion": "SOREMER SA",
+    "domicilio": "BERNARDO DE MONTEAGUDO 815",
+    "cp": "4000",
+    "provincia": "TUCUMAN",
+    "e_mail": "miriamdiaz@soremer.com.ar"
+  },
+  "902009": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902009",
+    "denominacion": "PARQUE SALUD SA",
+    "domicilio": "BU. ILLIA N.\u00ba 257",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "mguevara.psalud@gmail.com"
+  },
+  "902108": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902108",
+    "denominacion": "ASOCIACION MUTUAL SANCOR",
+    "domicilio": "25 DE MAYO N\u00ba 201",
+    "cp": "2322",
+    "provincia": "SANTA FE",
+    "e_mail": "andrea.gueli@sancorsalud.com.ar"
+  },
+  "902207": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902207",
+    "denominacion": "NATIVUS SRL",
+    "domicilio": "DEL TOLKEYEN 1390",
+    "cp": "9410",
+    "provincia": "TIERRA DEL FUEGO",
+    "e_mail": "ivan.rivera@tacargentina.com.ar"
+  },
+  "902306": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902306",
+    "denominacion": "ASOCIACION MUTUAL DEL PERSONAL, ASESORES Y DIRECTIVOS DE GRUPO SAN NICOLAS S.R.L",
+    "domicilio": "9 DE JULIO 1663",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "e_mail": "mutual@gruposannicolas.com.ar"
+  },
+  "902405": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902405",
+    "denominacion": "PLENIMEDICAL SA",
+    "domicilio": "SUCRE 225",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "claudia@medicalsalud.org"
+  },
+  "902504": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902504",
+    "denominacion": "HOSPITAL BRITANICO DE BUENOS AIRES ASOCIACION CIVIL",
+    "domicilio": "PERDRIEL N\u00ba 74",
+    "cp": "1280",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "sesorialegal@hbritanico.com.ar"
+  },
+  "902603": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902603",
+    "denominacion": "CENTRO DE EDUCACION MEDICA E INVESTIGACIONES CLINICAS NORBERTO QUIRNO - CEMIC",
+    "sigla": "CEMIC",
+    "domicilio": "AV. LAS HERAS 2939",
+    "cp": "1425",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "vbaliari@cemic.edu.ar"
+  },
+  "902702": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902702",
+    "denominacion": "SOCIEDAD ITALIANA DE BENEFICENCIA EN BUENOS AIRES",
+    "domicilio": "PERON N\u00ba 4190",
+    "cp": "1199",
+    "provincia": "CAPITAL FEDERAL",
+    "web": "WWW.HOSPITALITALIANO.ORG.AR"
+  },
+  "902801": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902801",
+    "denominacion": "APRES SA",
+    "domicilio": "AV. ANDR\u00c9S BARANDA 210",
+    "cp": "1878",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "idegrossi@apres.com.ar"
+  },
+  "902900": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "902900",
+    "denominacion": "OMINT SOCIEDAD AN\u00d3NlMA DE SERVICIOS",
+    "domicilio": "AYACUCHO 1781",
+    "cp": "1112",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "legales@omint.com.ar"
+  },
+  "903002": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903002",
+    "denominacion": "ASOCIACI\u00d3N CIVIL DE ESTUDIOS SUPERIORES (HOSPITAL AUSTRAL)",
+    "domicilio": "CERRITO 1250",
+    "cp": "1010",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "australsaludprestadores@cas.austral"
+  },
+  "903101": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903101",
+    "denominacion": "AVALIAN SALUD Y BIENESTAR COOPERATIVA LIMITADA",
+    "domicilio": "COMBATE DE LOS POZOS 220",
+    "cp": "1079",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "legales@avalian.com"
+  },
+  "903200": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903200",
+    "denominacion": "MUTUAL FEDERADA \"25 DE JUNIO\" SOCIEDAD DE PROTECCI\u00d3N REC\u00cdPROCA",
+    "domicilio": "MORENO 1222",
+    "cp": "2000",
+    "provincia": "SANTA FE",
+    "e_mail": "CONTADURIA@FEDERADA.COM"
+  },
+  "903309": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903309",
+    "denominacion": "GRUPO DDM S.A.",
+    "domicilio": "JUNIN 1596",
+    "cp": "1113",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "notificaciones@grupopremedic.com.ar"
+  },
+  "903408": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903408",
+    "denominacion": "ROI SA",
+    "domicilio": "RECONQUISTA 1016, PISO 9",
+    "cp": "1003",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "903507": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903507",
+    "denominacion": "PREVENCI\u00d3N SALUD S.A.",
+    "domicilio": "AV. INDEPENDENCIA 333",
+    "cp": "2322",
+    "provincia": "SANTA FE",
+    "e_mail": "gerencia@prevencionsalud.com.ar"
+  },
+  "903606": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903606",
+    "denominacion": "ENSALUD S.A.",
+    "domicilio": "SAN MARTIN 480",
+    "cp": "1359",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "tad@ensalud.org"
+  },
+  "903705": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903705",
+    "denominacion": "SISTEMA INTEGRADO DE PRESTADORES DE SALUD S.A.",
+    "domicilio": "25 DE MAYO 266 PB",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "legales@sipssa.com.ar"
+  },
+  "903804": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "903804",
+    "denominacion": "GERMED S.A.",
+    "domicilio": "GANDINI 128",
+    "cp": "6000",
+    "provincia": "BUENOS AIRES",
+    "e_mail": "amancini@grupolpf.com.ar"
+  },
+  "903903": {
+    "tipos": [
+      "1",
+      "2",
+      "3",
+      "14",
+      "19"
+    ],
+    "rnos": "903903",
+    "denominacion": "MET-CORDOBA SA",
+    "domicilio": "OBISPO ORO 50",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "legales@metmedicina.com"
+  },
+  "904005": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "904005",
+    "denominacion": "GEA SA",
+    "domicilio": "HIPOLITO YRIGOYEN 433",
+    "cp": "5000",
+    "provincia": "CORDOBA",
+    "e_mail": "dallasia@geanet.com.ar"
+  },
+  "904104": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "904104",
+    "denominacion": "PRIVAMED S.A.",
+    "domicilio": "URUGUAY 469 PISO 3",
+    "cp": "1015",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "info@privamedsa.com"
+  },
+  "904203": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "904203",
+    "denominacion": "PREMEDICA S.A.",
+    "domicilio": "JUNIN 401",
+    "cp": "4700",
+    "provincia": "CATAMARCA",
+    "e_mail": "premedicasa@gmail.com"
+  },
+  "904302": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "904302",
+    "denominacion": "COBERTURA DE SALUD S.A.",
+    "domicilio": "SANTIAGO DEL ESTERO 140, PISO 7",
+    "cp": "4000",
+    "provincia": "TUCUMAN",
+    "e_mail": "mmolina@e-boreal.com.ar"
+  },
+  "904401": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "904401",
+    "denominacion": "ASOCIACION MUTUAL MEDICA DE VILLA MARIA",
+    "domicilio": "JOSE RUCCI 466",
+    "cp": "5900",
+    "provincia": "CORDOBA",
+    "e_mail": "comunicacion@sossalud.com.ar"
+  },
+  "904500": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "904500",
+    "denominacion": "MEDYCIN ARGENTINO S.A.",
+    "domicilio": "MALABIA 444, PISO 4\u00ba J",
+    "cp": "1414",
+    "provincia": "CAPITAL FEDERAL",
+    "e_mail": "medycinargentino@gmail.com"
+  },
+  "904609": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "904609",
+    "denominacion": "ASOCIACI\u00d3N MUTUAL FRANCO ANDINA",
+    "domicilio": "AV COLON N\u00ba 457",
+    "cp": "5500",
+    "provincia": "MENDOZA",
+    "e_mail": "rancomountain@gmail.com"
+  },
+  "904708": {
+    "tipos": [
+      "1",
+      "14",
+      "19"
+    ],
+    "rnos": "904708",
+    "denominacion": "ASOCIACI\u00d3N MUTUAL DEL CONTROL INTEGRAL",
+    "sigla": "AMCI",
+    "domicilio": "PASAJE LA PIEDAD N\u00ba 17",
+    "cp": "1037",
+    "provincia": "CAPITAL FEDERAL"
+  },
+  "108100": {
+    "tipos": [
+      "4",
+      "7"
+    ],
+    "rnos": "108100",
+    "denominacion": "OBRA SOCIAL DEL PERSONAL DE LA INDUSTRIA DEL FOSFORO, ENCENDIDO Y AFINES",
+    "sigla": "OSPIF",
+    "domicilio": "SARMIENTO 640 3 PISO FRENTE",
+    "cp": "1041",
+    "provincia": "CAPITAL FEDERAL",
+    "telefono": "08002200474",
+    "e_mail": "contacto@ospif.ar",
+    "web": "www.ospif.ar"
+  },
   "119203": {
     "tipos": [
       "5",
@@ -4236,6 +4770,27 @@
     "e_mail": "Cualquier actividad",
     "web": "facturacion5@osrja.org.ar\""
   },
+  "0": {
+    "tipos": [
+      "6"
+    ],
+    "rnos": "0",
+    "denominacion": "ASOCIACION MUTUAL SANCOR",
+    "domicilio": "25 DE MAYO 201",
+    "cp": "2322",
+    "provincia": "SANTA FE",
+    "e_mail": "andrea.gueli@sancorsalud.com.ar"
+  },
+  "128607": {
+    "tipos": [
+      "7"
+    ],
+    "rnos": "128607",
+    "denominacion": "OBRA SOCIAL DE TRABAJADORES DEL PETROLEO Y GAS PRIVADO DEL CHUBUT",
+    "domicilio": "AVDA ALSINA 728 PISO 3",
+    "cp": "9000",
+    "provincia": "CHUBUT"
+  },
   "500807": {
     "tipos": [
       "11"
@@ -4246,17 +4801,5 @@
     "cp": "1069",
     "provincia": "CAPITAL FEDERAL",
     "e_mail": "soc_ra@yahoo.com.ar"
-  },
-  "900904": {
-    "tipos": [
-      "14",
-      "19"
-    ],
-    "rnos": "900904",
-    "denominacion": "ASOCIACION MUTUAL DE SALUD CIUDADELA",
-    "domicilio": "AV. GAONA 3918",
-    "cp": "1702",
-    "provincia": "BUENOS AIRES",
-    "e_mail": "mutual.ciudadela@gmail.com"
   }
 }

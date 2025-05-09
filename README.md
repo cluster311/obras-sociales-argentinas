@@ -210,8 +210,8 @@ X provincia: {'Ministerio de Salud de la Nación': 2, 'Tierra del Fuego': 1, 'Sa
 ```python
 from oss_ar.sssalud import ObrasSocialesSSS
 s = ObrasSocialesSSS()
-s.download_database()
-rows = s.process_database()
+s.download_database(force_download=True)
+rows = s.process_database(force=True)
 print('Obras sociales encontradas: {}'.format(len(rows.keys())))
 print('Errors: {}'.format(s.errors))
 ret = s.count_by_province()
